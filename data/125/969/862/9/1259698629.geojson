@@ -1,0 +1,65 @@
+{
+  "id": 1259698629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.82853,-13.81715,-171.82853,-13.81715",
+    "geom:latitude":-13.81715,
+    "geom:longitude":-171.82853,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"A'elefou",
+    "gn:country_code":"WS",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106276,
+    "gn:latitude":-13.81715,
+    "gn:longitude":-171.82853,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"A\u2019elefou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106276
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"74a6a29de6dea73f49263c08f5580834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1259698629,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1259698629,
+    "wof:lastmodified":1537043333,
+    "wof:name":"A'elefou",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.82853,
+    -13.81715,
+    -171.82853,
+    -13.81715
+],
+  "geometry": {"coordinates":[-171.82853,-13.81715],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1344266851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.44141,-13.46888,-172.44141,-13.46888",
+    "geom:latitude":-13.46888,
+    "geom:longitude":-172.44141,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fagae'e",
+    "gn:country_code":"WS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106404,
+    "gn:latitude":-13.46888,
+    "gn:longitude":-172.44141,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Fagae\u2019e",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106404
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"80c5e6ba34f62906fb76bd13c97e350b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344266851,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344266851,
+    "wof:lastmodified":1537071751,
+    "wof:name":"Fagae'e",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.44141000000005,
+    -13.46888,
+    -172.44141000000005,
+    -13.46888
+],
+  "geometry": {"coordinates":[-172.44141000000005,-13.46888],"type":"Point"}
+}

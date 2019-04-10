@@ -1,0 +1,65 @@
+{
+  "id": 1309818445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.74667,-13.84519,-171.74667,-13.84519",
+    "geom:latitude":-13.84519,
+    "geom:longitude":-171.74667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vaivase",
+    "gn:country_code":"WS",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034900,
+    "gn:latitude":-13.84519,
+    "gn:longitude":-171.74667,
+    "gn:modification_date":"2009-10-16",
+    "gn:name":"Vaivase",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034900
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"231dfc1ee5c592a8aa1578fe5cafb338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1309818445,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1309818445,
+    "wof:lastmodified":1536913194,
+    "wof:name":"Vaivase",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.74667,
+    -13.84519,
+    -171.74667,
+    -13.84519
+],
+  "geometry": {"coordinates":[-171.74666999999999,-13.84519],"type":"Point"}
+}

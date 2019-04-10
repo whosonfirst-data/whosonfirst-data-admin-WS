@@ -1,0 +1,79 @@
+{
+  "id": 890422977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.69275,-14.0295,-171.69275,-14.0295",
+    "geom:latitude":-14.0295,
+    "geom:longitude":-171.69275,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":378,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0443\u0442\u0430\u0441\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Poutasi"
+    ],
+    "name:eng_x_preferred":[
+        "Poutasi"
+    ],
+    "name:slo_x_preferred":[
+        "Poutasi"
+    ],
+    "qs:name":"Poutasi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035137,
+        "gp:id":980794,
+        "qs:id":586113,
+        "wd:id":"Q2775929",
+        "wk:page":"Poutasi"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051474,
+    "wof:geomhash":"58654b5ff1f9559a19dc90f3803a1ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890422977,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":890422977,
+    "wof:lastmodified":1527727161,
+    "wof:name":"Poutasi",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.69275,
+    -14.0295,
+    -171.69275,
+    -14.0295
+],
+  "geometry": {"coordinates":[-171.69274999999999,-14.0295],"type":"Point"}
+}

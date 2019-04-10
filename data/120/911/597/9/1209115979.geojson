@@ -1,0 +1,65 @@
+{
+  "id": 1209115979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.30267,-13.75804,-172.30267,-13.75804",
+    "geom:latitude":-13.75804,
+    "geom:longitude":-172.30267,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vaito`omuli",
+    "gn:country_code":"WS",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106333,
+    "gn:latitude":-13.75804,
+    "gn:longitude":-172.30267,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Vaito\u2018omuli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaito\u2018omuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106333,
+        "wk:page":"Vaito%27omuli"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"5ed4317b27f56faf1751999e4facfba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":1209115979
+        }
+    ],
+    "wof:id":1209115979,
+    "wof:lastmodified":1537714754,
+    "wof:name":"Vaito`omuli",
+    "wof:parent_id":85632681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.30267,
+    -13.75804,
+    -172.30267,
+    -13.75804
+],
+  "geometry": {"coordinates":[-172.30267000000001,-13.75804],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293505829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.79621,-13.84248,-171.79621,-13.84248",
+    "geom:latitude":-13.84248,
+    "geom:longitude":-171.79621,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Talimatau",
+    "gn:country_code":"WS",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106299,
+    "gn:latitude":-13.84248,
+    "gn:longitude":-171.79621,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Talimatau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106299
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"9a4038834bdc55b40b3da3c301e24a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293505829,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":1293505829,
+    "wof:lastmodified":1536760807,
+    "wof:name":"Talimatau",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.79621,
+    -13.84248,
+    -171.79621,
+    -13.84248
+],
+  "geometry": {"coordinates":[-171.79621,-13.84248],"type":"Point"}
+}

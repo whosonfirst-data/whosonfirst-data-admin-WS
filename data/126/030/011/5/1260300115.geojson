@@ -1,0 +1,70 @@
+{
+  "id": 1260300115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.74828,-13.83745,-171.74828,-13.83745",
+    "geom:latitude":-13.83745,
+    "geom:longitude":-171.74828,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Moata`a",
+    "gn:country_code":"WS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035200,
+    "gn:latitude":-13.83745,
+    "gn:longitude":-171.74828,
+    "gn:modification_date":"2018-03-14",
+    "gn:name":"Moata\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mootaa",
+        "Moata\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035200,
+        "wk:page":"Moata%27a"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"7db8e8cbc534f3db691851bc211a9992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1260300115,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1260300115,
+    "wof:lastmodified":1537714753,
+    "wof:name":"Moata`a",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.74828,
+    -13.83745,
+    -171.74828,
+    -13.83745
+],
+  "geometry": {"coordinates":[-171.74827999999999,-13.83745],"type":"Point"}
+}

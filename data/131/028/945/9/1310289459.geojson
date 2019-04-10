@@ -1,0 +1,61 @@
+{
+  "id": 1310289459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.65725,-13.64926,-172.65725,-13.64926",
+    "geom:latitude":-13.64926,
+    "geom:longitude":-172.65725,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Samataiuta",
+    "gn:country_code":"WS",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106382,
+    "gn:latitude":-13.64926,
+    "gn:longitude":-172.65725,
+    "gn:modification_date":"2012-12-10",
+    "gn:name":"Samataiuta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106382
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"05a209ff6432484c72d6253e8d7daf40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310289459,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310289459,
+    "wof:lastmodified":1536731394,
+    "wof:name":"Samataiuta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.65725,
+    -13.64926,
+    -172.65725,
+    -13.64926
+],
+  "geometry": {"coordinates":[-172.65725,-13.64926],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890436889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.95873,-13.8217,-171.95873,-13.8217",
+    "geom:latitude":-13.8217,
+    "geom:longitude":-171.95873,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":1828,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nofoali'i"
+    ],
+    "name:eng_x_preferred":[
+        "Nofoali'i"
+    ],
+    "name:ita_x_preferred":[
+        "Nofoali'i"
+    ],
+    "name:pol_x_preferred":[
+        "Nofoalii"
+    ],
+    "qs:name":"Nofoali\u2018i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035174,
+        "gp:id":980689,
+        "qs:id":1047722,
+        "wd:id":"Q3877716",
+        "wk:page":"Nofoali'i"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052130,
+    "wof:geomhash":"389ca3c2c4a36b719f864ae245d7ae8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890436889,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":890436889,
+    "wof:lastmodified":1527735400,
+    "wof:name":"Nofoali\u2018i",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:population":1828,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.95873,
+    -13.8217,
+    -171.95873,
+    -13.8217
+],
+  "geometry": {"coordinates":[-171.95873,-13.8217],"type":"Point"}
+}

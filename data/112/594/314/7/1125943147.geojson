@@ -1,0 +1,95 @@
+{
+  "id": 1125943147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.58805,-13.88695,-171.58805,-13.88695",
+    "geom:latitude":-13.88695,
+    "geom:longitude":-171.58805,
+    "gn:gn_country":"WS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1346,
+    "gn:population":1346,
+    "iso:country":"WS",
+    "lbl:latitude":-13.88695,
+    "lbl:longitude":-171.58805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043b\u0435\u0444\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Falefa"
+    ],
+    "name:eng_x_preferred":[
+        "Falefa"
+    ],
+    "name:pol_x_preferred":[
+        "Falefa"
+    ],
+    "name:por_x_preferred":[
+        "Falefa"
+    ],
+    "name:unk_x_variant":[
+        "Falifa"
+    ],
+    "qs_pg:aaroncc":"WS",
+    "qs_pg:gn_country":"WS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4035358,
+    "qs_pg:gn_pop":1346,
+    "qs_pg:name":"Falefa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1047727,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035358,
+        "qs_pg:id":1047727,
+        "wd:id":"Q5431847"
+    },
+    "wof:country":"WS",
+    "wof:created":1497297186,
+    "wof:geomhash":"bfc6fcc03c919aa98ca1a8d021c7bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1125943147,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":1125943147,
+    "wof:lastmodified":1514502932,
+    "wof:name":"Falefa",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":1346,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.58805,
+    -13.88695,
+    -171.58805,
+    -13.88695
+],
+  "geometry": {"coordinates":[-171.58805000000001,-13.88695],"type":"Point"}
+}

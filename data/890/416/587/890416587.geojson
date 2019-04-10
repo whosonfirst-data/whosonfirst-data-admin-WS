@@ -1,0 +1,73 @@
+{
+  "id": 890416587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.62672,-13.68026,-172.62672,-13.68026",
+    "geom:latitude":-13.68026,
+    "geom:longitude":-172.62672,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":380,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fogasavai'i"
+    ],
+    "name:eng_x_preferred":[
+        "Fogasavai'i"
+    ],
+    "qs:name":"Fogasavai\u2019i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035325,
+        "gp:id":56618695,
+        "qs:id":586154,
+        "wd:id":"Q5464070",
+        "wk:page":"Fogasavai'i"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051142,
+    "wof:geomhash":"d32ceeab9becb6ace55e1f4c7bb2223d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890416587,
+            "region_id":85680949
+        }
+    ],
+    "wof:id":890416587,
+    "wof:lastmodified":1527792802,
+    "wof:name":"Fogasavai\u2019i",
+    "wof:parent_id":85680949,
+    "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.62672,
+    -13.68026,
+    -172.62672,
+    -13.68026
+],
+  "geometry": {"coordinates":[-172.62672000000001,-13.68026],"type":"Point"}
+}

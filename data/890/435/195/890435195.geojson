@@ -1,0 +1,85 @@
+{
+  "id": 890435195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.37733,-13.75602,-172.37733,-13.75602",
+    "geom:latitude":-13.75602,
+    "geom:longitude":-172.37733,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":868,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sili"
+    ],
+    "name:eng_x_preferred":[
+        "Sili"
+    ],
+    "name:ita_x_preferred":[
+        "Sili"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ea"
+    ],
+    "name:slo_x_preferred":[
+        "Sili"
+    ],
+    "name:smo_x_preferred":[
+        "Sili"
+    ],
+    "qs:name":"Sili",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":284,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035029,
+        "gp:id":980623,
+        "qs:id":586080,
+        "wd:id":"Q3960529",
+        "wk:page":"Sili"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052058,
+    "wof:geomhash":"977200e146432c80fa585724ae61fddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890435195,
+            "region_id":85680953
+        }
+    ],
+    "wof:id":890435195,
+    "wof:lastmodified":1527793044,
+    "wof:name":"Sili",
+    "wof:parent_id":85680953,
+    "wof:placetype":"locality",
+    "wof:population":868,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.37733,
+    -13.75602,
+    -172.37733,
+    -13.75602
+],
+  "geometry": {"coordinates":[-172.37733,-13.75602],"type":"Point"}
+}

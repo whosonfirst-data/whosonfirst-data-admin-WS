@@ -1,0 +1,63 @@
+{
+  "id": 890422963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.42559,-14.00873,-171.42559,-14.00873",
+    "geom:latitude":-14.00873,
+    "geom:longitude":-171.42559,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":544,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Saleaumua"
+    ],
+    "qs:name":"Sale\u2019a\u2019aumua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035105,
+        "gp:id":980751,
+        "qs:id":586105
+    },
+    "wof:country":"WS",
+    "wof:created":1469051474,
+    "wof:geomhash":"9a0dd333437f90023457d55286e9204d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890422963
+        }
+    ],
+    "wof:id":890422963,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Sale\u2019a\u2019aumua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.42559,
+    -14.00873,
+    -171.42559,
+    -14.00873
+],
+  "geometry": {"coordinates":[-171.42559,-14.00873],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293404497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.41649,-13.52123,-172.41649,-13.52123",
+    "geom:latitude":-13.52123,
+    "geom:longitude":-172.41649,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Le Aisa",
+    "gn:country_code":"WS",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109491,
+    "gn:latitude":-13.52123,
+    "gn:longitude":-172.41649,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Le Aisa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109491
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"42b4d000ca85a3e5214f291df010cd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293404497,
+            "region_id":85680939
+        }
+    ],
+    "wof:id":1293404497,
+    "wof:lastmodified":1536906832,
+    "wof:name":"Le Aisa",
+    "wof:parent_id":85680939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.41648999999995,
+    -13.52123,
+    -172.41648999999995,
+    -13.52123
+],
+  "geometry": {"coordinates":[-172.41648999999995,-13.52123],"type":"Point"}
+}

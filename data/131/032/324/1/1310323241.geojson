@@ -1,0 +1,65 @@
+{
+  "id": 1310323241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.83366,-13.83935,-171.83366,-13.83935",
+    "geom:latitude":-13.83935,
+    "geom:longitude":-171.83366,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vaipoto",
+    "gn:country_code":"WS",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106280,
+    "gn:latitude":-13.83935,
+    "gn:longitude":-171.83366,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Vaipoto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106280
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"b9354921a54c2b9a9410fd9e2d393de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1310323241,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1310323241,
+    "wof:lastmodified":1536682325,
+    "wof:name":"Vaipoto",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.83366,
+    -13.83935,
+    -171.83366,
+    -13.83935
+],
+  "geometry": {"coordinates":[-171.83366000000001,-13.83935],"type":"Point"}
+}

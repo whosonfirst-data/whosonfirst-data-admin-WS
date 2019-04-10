@@ -1,0 +1,65 @@
+{
+  "id": 1260303673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.75,-13.9,-171.75,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":-171.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lanafala",
+    "gn:country_code":"WS",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035295,
+    "gn:latitude":-13.9,
+    "gn:longitude":-171.75,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Lanafala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035295
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"e6502c39cf53576dc68fae5292ee2c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1260303673,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1260303673,
+    "wof:lastmodified":1536684783,
+    "wof:name":"Lanafala",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.75,
+    -13.9,
+    -171.75,
+    -13.9
+],
+  "geometry": {"coordinates":[-171.75,-13.9],"type":"Point"}
+}

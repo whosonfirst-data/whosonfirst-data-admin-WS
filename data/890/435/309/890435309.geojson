@@ -1,0 +1,67 @@
+{
+  "id": 890435309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.95071,-13.9698,-171.95071,-13.9698",
+    "geom:latitude":-13.9698,
+    "geom:longitude":-171.95071,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":350,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Matautu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035214,
+        "gp:id":980595,
+        "qs:id":586127,
+        "wd:id":"Q6786167",
+        "wk:page":"Matautu"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052062,
+    "wof:geomhash":"81d8993e9a04302dfa29cf0d39d28214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890435309,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":890435309,
+    "wof:lastmodified":1527793043,
+    "wof:name":"Matautu",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.95071,
+    -13.9698,
+    -171.95071,
+    -13.9698
+],
+  "geometry": {"coordinates":[-171.95070999999999,-13.9698],"type":"Point"}
+}

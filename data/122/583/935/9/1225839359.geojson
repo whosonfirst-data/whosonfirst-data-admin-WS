@@ -1,0 +1,62 @@
+{
+  "id": 1225839359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.42279,-13.47169,-172.42279,-13.47169",
+    "geom:latitude":-13.47169,
+    "geom:longitude":-172.42279,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Safune",
+    "gn:country_code":"WS",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109494,
+    "gn:latitude":-13.47169,
+    "gn:longitude":-172.42279,
+    "gn:modification_date":"2012-12-10",
+    "gn:name":"Safune",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109494,
+        "wk:page":"Safune"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"bbb1a8c384581839a4edf1691c7794de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225839359,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225839359,
+    "wof:lastmodified":1537576049,
+    "wof:name":"Safune",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.42279,
+    -13.47169,
+    -172.42279,
+    -13.47169
+],
+  "geometry": {"coordinates":[-172.42278999999999,-13.47169],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259579197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.76126,-13.86417,-171.76126,-13.86417",
+    "geom:latitude":-13.86417,
+    "geom:longitude":-171.76126,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Vailima",
+    "gn:country_code":"WS",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034924,
+    "gn:latitude":-13.86417,
+    "gn:longitude":-171.76126,
+    "gn:modification_date":"2015-08-30",
+    "gn:name":"Vailima",
+    "gn:population":1462,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034924,
+        "wk:page":"Vailima%2C_Samoa"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"cffeaffbacee1fbf74381bfbc8d155fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1259579197,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1259579197,
+    "wof:lastmodified":1537576047,
+    "wof:name":"Vailima",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:population":1462,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.76126000000005,
+    -13.86417,
+    -171.76126000000005,
+    -13.86417
+],
+  "geometry": {"coordinates":[-171.76126000000005,-13.86417],"type":"Point"}
+}

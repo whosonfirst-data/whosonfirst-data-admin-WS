@@ -1,0 +1,61 @@
+{
+  "id": 1327048293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.96667,-13.81667,-171.96667,-13.81667",
+    "geom:latitude":-13.81667,
+    "geom:longitude":-171.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ulutauvalu",
+    "gn:country_code":"WS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034958,
+    "gn:latitude":-13.81667,
+    "gn:longitude":-171.96667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Ulutauvalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034958
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"c285cf083d130d73114d2e8d0aae65ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327048293,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327048293,
+    "wof:lastmodified":1536737470,
+    "wof:name":"Ulutauvalu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.96667,
+    -13.81667,
+    -171.96667,
+    -13.81667
+],
+  "geometry": {"coordinates":[-171.96666999999999,-13.81667],"type":"Point"}
+}

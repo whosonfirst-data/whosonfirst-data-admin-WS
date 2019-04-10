@@ -1,0 +1,69 @@
+{
+  "id": 1293408169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.60067,-13.91563,-171.60067,-13.91563",
+    "geom:latitude":-13.91563,
+    "geom:longitude":-171.60067,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lalomauga",
+    "gn:country_code":"WS",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035299,
+    "gn:latitude":-13.91563,
+    "gn:longitude":-171.60067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lalomauga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lalamauga",
+        "Lalomauga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035299
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"6b42c2d2256cf95c5186cb1842e60f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293408169,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":1293408169,
+    "wof:lastmodified":1537714753,
+    "wof:name":"Lalomauga",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.60067,
+    -13.91563,
+    -171.60067,
+    -13.91563
+],
+  "geometry": {"coordinates":[-171.60067000000001,-13.91563],"type":"Point"}
+}

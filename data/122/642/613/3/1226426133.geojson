@@ -1,0 +1,66 @@
+{
+  "id": 1226426133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.71674,-13.91657,-171.71674,-13.91657",
+    "geom:latitude":-13.91657,
+    "geom:longitude":-171.71674,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Afiamalu",
+    "gn:country_code":"WS",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035430,
+    "gn:latitude":-13.91657,
+    "gn:longitude":-171.71674,
+    "gn:modification_date":"2016-06-26",
+    "gn:name":"Afiamalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035430,
+        "wk:page":"Afiamalu"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"a46d2697d12393c2f03e721d5789135c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1226426133,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1226426133,
+    "wof:lastmodified":1537576048,
+    "wof:name":"Afiamalu",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.71674,
+    -13.91657,
+    -171.71674,
+    -13.91657
+],
+  "geometry": {"coordinates":[-171.71673999999999,-13.91657],"type":"Point"}
+}

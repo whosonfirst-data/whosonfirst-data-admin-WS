@@ -1,0 +1,77 @@
+{
+  "id": 421191635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.58658,-13.92067,-171.58658,-13.92067",
+    "geom:latitude":-13.92067,
+    "geom:longitude":-171.58658,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"WS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4035340,
+    "qs:gn_pop":552,
+    "qs:name":"Faleasao",
+    "qs:name_adm0":"American Samoa",
+    "qs:name_adm1":"Manua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1150450,
+    "qs:woe_adm0":23424746,
+    "qs:woe_id":24602711,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035340,
+        "gp:id":24602711,
+        "qs:id":1150450
+    },
+    "wof:country":"WS",
+    "wof:created":1459009699,
+    "wof:geomhash":"46aaa8992587e873f1b90155178c892a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":421191635,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":421191635,
+    "wof:lastmodified":1505340728,
+    "wof:name":"Faleasao",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.58658,
+    -13.92067,
+    -171.58658,
+    -13.92067
+],
+  "geometry": {"coordinates":[-171.58658,-13.92067],"type":"Point"}
+}

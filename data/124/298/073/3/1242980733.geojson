@@ -1,0 +1,65 @@
+{
+  "id": 1242980733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.02167,-13.84359,-172.02167,-13.84359",
+    "geom:latitude":-13.84359,
+    "geom:longitude":-172.02167,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Afia",
+    "gn:country_code":"WS",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106273,
+    "gn:latitude":-13.84359,
+    "gn:longitude":-172.02167,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Afia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106273
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"965808d6af256d9a7ea8d5bdf54345f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1242980733,
+            "region_id":85680921
+        }
+    ],
+    "wof:id":1242980733,
+    "wof:lastmodified":1536979248,
+    "wof:name":"Afia",
+    "wof:parent_id":85680921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.02167,
+    -13.84359,
+    -172.02167,
+    -13.84359
+],
+  "geometry": {"coordinates":[-172.02167,-13.84359],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276672715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.8467,-13.84989,-171.8467,-13.84989",
+    "geom:latitude":-13.84989,
+    "geom:longitude":-171.8467,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lafi",
+    "gn:country_code":"WS",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106284,
+    "gn:latitude":-13.84989,
+    "gn:longitude":-171.8467,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Lafi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106284
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"01661ee8b57c44b915f8c4c9b964f583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1276672715,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1276672715,
+    "wof:lastmodified":1536820012,
+    "wof:name":"Lafi",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.8467,
+    -13.84989,
+    -171.8467,
+    -13.84989
+],
+  "geometry": {"coordinates":[-171.8467,-13.84989],"type":"Point"}
+}

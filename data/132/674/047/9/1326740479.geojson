@@ -1,0 +1,65 @@
+{
+  "id": 1326740479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.83083,-13.87596,-171.83083,-13.87596",
+    "geom:latitude":-13.87596,
+    "geom:longitude":-171.83083,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tapatapao",
+    "gn:country_code":"WS",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106291,
+    "gn:latitude":-13.87596,
+    "gn:longitude":-171.83083,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tapatapao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106291
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"6056f16579cf4a8968b7c7ab5c8b9ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1326740479,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1326740479,
+    "wof:lastmodified":1536683701,
+    "wof:name":"Tapatapao",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.83083,
+    -13.87596,
+    -171.83083,
+    -13.87596
+],
+  "geometry": {"coordinates":[-171.83082999999999,-13.87596],"type":"Point"}
+}

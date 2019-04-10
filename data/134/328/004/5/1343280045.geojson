@@ -1,0 +1,65 @@
+{
+  "id": 1343280045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.37419,-13.47836,-172.37419,-13.47836",
+    "geom:latitude":-13.47836,
+    "geom:longitude":-172.37419,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mumea",
+    "gn:country_code":"WS",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106418,
+    "gn:latitude":-13.47836,
+    "gn:longitude":-172.37419,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Mumea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106418
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"0f7427de11a18e6d1886f232beb371cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343280045,
+            "region_id":85680939
+        }
+    ],
+    "wof:id":1343280045,
+    "wof:lastmodified":1537005913,
+    "wof:name":"Mumea",
+    "wof:parent_id":85680939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.37419,
+    -13.47836,
+    -172.37419,
+    -13.47836
+],
+  "geometry": {"coordinates":[-172.37419,-13.47836],"type":"Point"}
+}

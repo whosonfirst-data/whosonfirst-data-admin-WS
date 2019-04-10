@@ -1,0 +1,65 @@
+{
+  "id": 1259601263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.55,-13.68333,-172.55,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":-172.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sataputu",
+    "gn:country_code":"WS",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035057,
+    "gn:latitude":-13.68333,
+    "gn:longitude":-172.55,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Sataputu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035057
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"08f45b8bf7fd621c5471c1c67fd3614e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1259601263,
+            "region_id":85680953
+        }
+    ],
+    "wof:id":1259601263,
+    "wof:lastmodified":1536689280,
+    "wof:name":"Sataputu",
+    "wof:parent_id":85680953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.55,
+    -13.68333,
+    -172.55,
+    -13.68333
+],
+  "geometry": {"coordinates":[-172.55000000000001,-13.68333],"type":"Point"}
+}

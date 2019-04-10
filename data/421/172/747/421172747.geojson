@@ -1,0 +1,77 @@
+{
+  "id": 421172747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.30015,-13.50098,-172.30015,-13.50098",
+    "geom:latitude":-13.50098,
+    "geom:longitude":-172.30015,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"WS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4035079,
+    "qs:gn_pop":789,
+    "qs:name":"Samalaeulu",
+    "qs:name_adm0":"Samoa",
+    "qs:name_adm1":"Gaga`emauga",
+    "qs:photos":172,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":172,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":478649,
+    "qs:woe_adm0":23424992,
+    "qs:woe_id":980750,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035079,
+        "gp:id":980750,
+        "qs:id":478649
+    },
+    "wof:country":"WS",
+    "wof:created":1459008953,
+    "wof:geomhash":"222136755c31d04951e9cbbc4ac08542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":421172747,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":421172747,
+    "wof:lastmodified":1505340614,
+    "wof:name":"Samalaeulu",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:population":789,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.30015,
+    -13.50098,
+    -172.30015,
+    -13.50098
+],
+  "geometry": {"coordinates":[-172.30015,-13.50098],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890418131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.83856,-13.98432,-171.83856,-13.98432",
+    "geom:latitude":-13.98432,
+    "geom:longitude":-171.83856,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":331,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Niusuatia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035166,
+        "gp:id":12523104,
+        "qs:id":586120
+    },
+    "wof:country":"WS",
+    "wof:created":1469051236,
+    "wof:geomhash":"c34b70692f6ff7ab84bf3aa7a183853e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890418131,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":890418131,
+    "wof:lastmodified":1505343443,
+    "wof:name":"Niusuatia",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.83856,
+    -13.98432,
+    -171.83856,
+    -13.98432
+],
+  "geometry": {"coordinates":[-171.83856,-13.98432],"type":"Point"}
+}

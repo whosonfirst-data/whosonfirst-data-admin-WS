@@ -1,0 +1,63 @@
+{
+  "id": 890420469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.0411,-13.83758,-172.0411,-13.83758",
+    "geom:latitude":-13.83758,
+    "geom:longitude":-172.0411,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":150,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Samea",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035073,
+        "gp:id":12523066,
+        "qs:id":586095,
+        "wd:id":"Q7409229",
+        "wk:page":"Samea"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051341,
+    "wof:geomhash":"ec3b5747f0fd63db481b7bdc8fe416d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890420469
+        }
+    ],
+    "wof:id":890420469,
+    "wof:lastmodified":1527792811,
+    "wof:name":"Samea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.0411,
+    -13.83758,
+    -172.0411,
+    -13.83758
+],
+  "geometry": {"coordinates":[-172.0411,-13.83758],"type":"Point"}
+}

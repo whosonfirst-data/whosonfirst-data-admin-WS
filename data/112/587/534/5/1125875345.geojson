@@ -1,0 +1,76 @@
+{
+  "id": 1125875345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.98333,-13.91667,-171.98333,-13.91667",
+    "geom:latitude":-13.91667,
+    "geom:longitude":-171.98333,
+    "gn:gn_country":"WS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":80,
+    "gn:population":80,
+    "iso:country":"WS",
+    "lbl:latitude":-13.91667,
+    "lbl:longitude":-171.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"WS",
+    "qs_pg:gn_country":"WS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4035220,
+    "qs_pg:gn_pop":80,
+    "qs_pg:name":"Matanofo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":586130,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035220,
+        "qs_pg:id":586130
+    },
+    "wof:country":"WS",
+    "wof:created":1497294509,
+    "wof:geomhash":"6c9ed2e967dbf7927fdeeedd993db695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1125875345,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":1125875345,
+    "wof:lastmodified":1509397672,
+    "wof:name":"Matanofo",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.98333,
+    -13.91667,
+    -171.98333,
+    -13.91667
+],
+  "geometry": {"coordinates":[-171.98333,-13.91667],"type":"Point"}
+}

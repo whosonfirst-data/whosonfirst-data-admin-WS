@@ -1,0 +1,65 @@
+{
+  "id": 1293793783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.81052,-13.85685,-171.81052,-13.85685",
+    "geom:latitude":-13.85685,
+    "geom:longitude":-171.81052,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ululoloa",
+    "gn:country_code":"WS",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106288,
+    "gn:latitude":-13.85685,
+    "gn:longitude":-171.81052,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ululoloa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106288
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"f82b8a0b2f7ad1d61df31cf713a98671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293793783,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":1293793783,
+    "wof:lastmodified":1536841449,
+    "wof:name":"Ululoloa",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.81052,
+    -13.85685,
+    -171.81052,
+    -13.85685
+],
+  "geometry": {"coordinates":[-171.81052,-13.85685],"type":"Point"}
+}

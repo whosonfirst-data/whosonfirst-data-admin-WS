@@ -1,0 +1,85 @@
+{
+  "id": 890422975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.37761,-13.77614,-172.37761,-13.77614",
+    "geom:latitude":-13.77614,
+    "geom:longitude":-172.37761,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":262,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043b\u0435\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Puleia"
+    ],
+    "name:eng_x_preferred":[
+        "Puleia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30a4\u30a2"
+    ],
+    "name:slo_x_preferred":[
+        "Puleia"
+    ],
+    "name:smo_x_preferred":[
+        "Puleia"
+    ],
+    "qs:name":"Puleia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035130,
+        "gp:id":980623,
+        "qs:id":586112,
+        "wd:id":"Q7259286",
+        "wk:page":"Puleia"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051474,
+    "wof:geomhash":"9b3a246fc08ed7b43f127ee96876f1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890422975,
+            "region_id":85680953
+        }
+    ],
+    "wof:id":890422975,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Puleia",
+    "wof:parent_id":85680953,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.37761,
+    -13.77614,
+    -172.37761,
+    -13.77614
+],
+  "geometry": {"coordinates":[-172.37761,-13.77614],"type":"Point"}
+}

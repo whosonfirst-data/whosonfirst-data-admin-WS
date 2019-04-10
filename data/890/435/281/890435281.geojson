@@ -1,0 +1,63 @@
+{
+  "id": 890435281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.83126,-13.79456,-171.83126,-13.79456",
+    "geom:latitude":-13.79456,
+    "geom:longitude":-171.83126,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":2592,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Falula"
+    ],
+    "qs:name":"Faleula",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035345,
+        "gp:id":980858,
+        "qs:id":151500
+    },
+    "wof:country":"WS",
+    "wof:created":1469052061,
+    "wof:geomhash":"0a1a7e969d057c18f7aa642879b42063",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890435281
+        }
+    ],
+    "wof:id":890435281,
+    "wof:lastmodified":1505343546,
+    "wof:name":"Faleula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2592,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.83126,
+    -13.79456,
+    -171.83126,
+    -13.79456
+],
+  "geometry": {"coordinates":[-171.83125999999999,-13.79456],"type":"Point"}
+}

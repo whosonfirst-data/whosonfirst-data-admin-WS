@@ -1,0 +1,61 @@
+{
+  "id": 1209324497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.92428,-13.80631,-171.92428,-13.80631",
+    "geom:latitude":-13.80631,
+    "geom:longitude":-171.92428,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lealaalii",
+    "gn:country_code":"WS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035279,
+    "gn:latitude":-13.80631,
+    "gn:longitude":-171.92428,
+    "gn:modification_date":"2009-10-16",
+    "gn:name":"Lealaalii",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035279
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"a8b9b6adddba349c7bf1337761905429",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":1209324497
+        }
+    ],
+    "wof:id":1209324497,
+    "wof:lastmodified":1536290578,
+    "wof:name":"Lealaalii",
+    "wof:parent_id":85632681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.92428,
+    -13.80631,
+    -171.92428,
+    -13.80631
+],
+  "geometry": {"coordinates":[-171.92428000000001,-13.80631],"type":"Point"}
+}

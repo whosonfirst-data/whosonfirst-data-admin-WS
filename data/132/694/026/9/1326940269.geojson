@@ -1,0 +1,65 @@
+{
+  "id": 1326940269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.26353,-13.51735,-172.26353,-13.51735",
+    "geom:latitude":-13.51735,
+    "geom:longitude":-172.26353,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Solomea",
+    "gn:country_code":"WS",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035014,
+    "gn:latitude":-13.51735,
+    "gn:longitude":-172.26353,
+    "gn:modification_date":"2009-10-16",
+    "gn:name":"Solomea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035014
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"7df4b19a54b1fe5117c79336e23f5419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1326940269,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":1326940269,
+    "wof:lastmodified":1536892817,
+    "wof:name":"Solomea",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.26353,
+    -13.51735,
+    -172.26353,
+    -13.51735
+],
+  "geometry": {"coordinates":[-172.26353,-13.51735],"type":"Point"}
+}

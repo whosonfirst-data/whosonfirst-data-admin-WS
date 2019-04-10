@@ -1,0 +1,69 @@
+{
+  "id": 1343876491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.83001,-13.85089,-171.83001,-13.85089",
+    "geom:latitude":-13.85089,
+    "geom:longitude":-171.83001,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tafa'igata",
+    "gn:country_code":"WS",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106285,
+    "gn:latitude":-13.85089,
+    "gn:longitude":-171.83001,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Tafa\u2019igata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafa\u2019igata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106285,
+        "wk:page":"Tafaigata"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"e84119a89765858832779606a0fa179f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343876491,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1343876491,
+    "wof:lastmodified":1537714754,
+    "wof:name":"Tafa'igata",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.83001000000004,
+    -13.85089,
+    -171.83001000000004,
+    -13.85089
+],
+  "geometry": {"coordinates":[-171.83001000000004,-13.85089],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1310219671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.10169,-13.85093,-172.10169,-13.85093",
+    "geom:latitude":-13.85093,
+    "geom:longitude":-172.10169,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Satoi",
+    "gn:country_code":"WS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106331,
+    "gn:latitude":-13.85093,
+    "gn:longitude":-172.10169,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Satoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106331
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"da84bb547054b2b43fb2b64247769a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310219671,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310219671,
+    "wof:lastmodified":1536830765,
+    "wof:name":"Satoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.10169,
+    -13.85093,
+    -172.10169,
+    -13.85093
+],
+  "geometry": {"coordinates":[-172.10168999999999,-13.85093],"type":"Point"}
+}

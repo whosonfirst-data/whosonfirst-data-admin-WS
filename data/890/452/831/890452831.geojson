@@ -1,0 +1,73 @@
+{
+  "id": 890452831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.79,-13.83575,-171.79,-13.83575",
+    "geom:latitude":-13.83575,
+    "geom:longitude":-171.79,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":720,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lepea"
+    ],
+    "name:eng_x_preferred":[
+        "Lepea"
+    ],
+    "qs:name":"Lepea",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035268,
+        "gp:id":12523104,
+        "qs:id":586144,
+        "wd:id":"Q6527333",
+        "wk:page":"Lepea"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052831,
+    "wof:geomhash":"527b6d01de084827be8fca06343751af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890452831,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":890452831,
+    "wof:lastmodified":1527734188,
+    "wof:name":"Lepea",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.79,
+    -13.83575,
+    -171.79,
+    -13.83575
+],
+  "geometry": {"coordinates":[-171.78999999999999,-13.83575],"type":"Point"}
+}

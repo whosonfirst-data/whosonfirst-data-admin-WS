@@ -1,0 +1,62 @@
+{
+  "id": 1209610273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.76664,-13.83987,-171.76664,-13.83987",
+    "geom:latitude":-13.83987,
+    "geom:longitude":-171.76664,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lalovaea",
+    "gn:country_code":"WS",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106305,
+    "gn:latitude":-13.83987,
+    "gn:longitude":-171.76664,
+    "gn:modification_date":"2012-12-11",
+    "gn:name":"Lalovaea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106305,
+        "wk:page":"Lalovaea"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"c3756bf571f4b57152f2329eb5e3df22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":1209610273
+        }
+    ],
+    "wof:id":1209610273,
+    "wof:lastmodified":1537576048,
+    "wof:name":"Lalovaea",
+    "wof:parent_id":85632681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.76664,
+    -13.83987,
+    -171.76664,
+    -13.83987
+],
+  "geometry": {"coordinates":[-171.76664,-13.83987],"type":"Point"}
+}

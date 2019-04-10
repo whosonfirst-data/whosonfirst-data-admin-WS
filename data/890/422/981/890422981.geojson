@@ -1,0 +1,76 @@
+{
+  "id": 890422981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.30678,-13.52463,-172.30678,-13.52463",
+    "geom:latitude":-13.52463,
+    "geom:longitude":-172.30678,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":597,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0442\u0430\u043c\u0435\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Patamea"
+    ],
+    "name:eng_x_preferred":[
+        "Patamea"
+    ],
+    "qs:name":"Patamea",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":433,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035141,
+        "gp:id":980750,
+        "qs:id":586115,
+        "wd:id":"Q16896450",
+        "wk:page":"Patamea"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051474,
+    "wof:geomhash":"3f1cdb6a53ebfba976cf7e8bcc61d85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890422981,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":890422981,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Patamea",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:population":597,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.30678,
+    -13.52463,
+    -172.30678,
+    -13.52463
+],
+  "geometry": {"coordinates":[-172.30678,-13.52463],"type":"Point"}
+}

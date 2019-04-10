@@ -1,0 +1,65 @@
+{
+  "id": 1310716473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.72095,-14.01684,-171.72095,-14.01684",
+    "geom:latitude":-14.01684,
+    "geom:longitude":-171.72095,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Togitogiga",
+    "gn:country_code":"WS",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090912,
+    "gn:latitude":-14.01684,
+    "gn:longitude":-171.72095,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Togitogiga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090912
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"b1b29e7feecb3940b18ba727314b4449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1310716473,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1310716473,
+    "wof:lastmodified":1536609866,
+    "wof:name":"Togitogiga",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.72095,
+    -14.01684,
+    -171.72095,
+    -14.01684
+],
+  "geometry": {"coordinates":[-171.72094999999999,-14.01684],"type":"Point"}
+}

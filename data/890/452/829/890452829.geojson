@@ -1,0 +1,79 @@
+{
+  "id": 890452829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.57036,-14.04288,-171.57036,-14.04288",
+    "geom:latitude":-14.04288,
+    "geom:longitude":-171.57036,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":622,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lotofaga"
+    ],
+    "name:eng_x_preferred":[
+        "Lotofaga"
+    ],
+    "name:spa_x_preferred":[
+        "Lotofaga"
+    ],
+    "name:unk_x_variant":[
+        "Lotofanga"
+    ],
+    "qs:name":"Lotofaga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":350,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035251,
+        "gp:id":980751,
+        "qs:id":586137,
+        "wd:id":"Q6684810",
+        "wk:page":"Lotofaga"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052831,
+    "wof:geomhash":"23dca1b21a35d46fdc6f1b1e2825c0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890452829,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":890452829,
+    "wof:lastmodified":1527734184,
+    "wof:name":"Lotofaga",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":622,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.57036,
+    -14.04288,
+    -171.57036,
+    -14.04288
+],
+  "geometry": {"coordinates":[-171.57035999999999,-14.04288],"type":"Point"}
+}

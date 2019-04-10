@@ -1,0 +1,75 @@
+{
+  "id": 890435219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.60058,-13.70805,-172.60058,-13.70805",
+    "geom:latitude":-13.70805,
+    "geom:longitude":-172.60058,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":304,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0442\u0443\u0438\u0430\u0442\u0443\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Satuiatua"
+    ],
+    "name:eng_x_preferred":[
+        "Satuiatua"
+    ],
+    "name:slo_x_preferred":[
+        "Satuiatua"
+    ],
+    "qs:name":"Satuiatua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035049,
+        "gp:id":980801,
+        "qs:id":586083,
+        "wd:id":"Q7426567",
+        "wk:page":"Satuiatua"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052059,
+    "wof:geomhash":"8400609ef19b1bedd247983641ece6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890435219
+        }
+    ],
+    "wof:id":890435219,
+    "wof:lastmodified":1527793046,
+    "wof:name":"Satuiatua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.60058,
+    -13.70805,
+    -172.60058,
+    -13.70805
+],
+  "geometry": {"coordinates":[-172.60058000000001,-13.70805],"type":"Point"}
+}

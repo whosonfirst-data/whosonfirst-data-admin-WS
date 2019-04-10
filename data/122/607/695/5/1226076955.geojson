@@ -1,0 +1,66 @@
+{
+  "id": 1226076955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.33971,-13.44654,-172.33971,-13.44654",
+    "geom:latitude":-13.44654,
+    "geom:longitude":-172.33971,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Safa'i",
+    "gn:country_code":"WS",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035121,
+    "gn:latitude":-13.44654,
+    "gn:longitude":-172.33971,
+    "gn:modification_date":"2012-12-10",
+    "gn:name":"Safa\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Safa",
+        "Safa\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035121,
+        "wk:page":"Safa%27i"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"645555f852a913a313a889243ad401bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226076955,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226076955,
+    "wof:lastmodified":1537714753,
+    "wof:name":"Safa'i",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.33971,
+    -13.44654,
+    -172.33971,
+    -13.44654
+],
+  "geometry": {"coordinates":[-172.33971,-13.44654],"type":"Point"}
+}

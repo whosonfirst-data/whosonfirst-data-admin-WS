@@ -1,0 +1,61 @@
+{
+  "id": 1343676317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.92864,-13.80742,-171.92864,-13.80742",
+    "geom:latitude":-13.80742,
+    "geom:longitude":-171.92864,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Faleasi`u",
+    "gn:country_code":"WS",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035362,
+    "gn:latitude":-13.80742,
+    "gn:longitude":-171.92864,
+    "gn:modification_date":"2009-10-16",
+    "gn:name":"Faleasi\u2018u",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035362
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"4cbd86473efc6606acbf2e3d1cb18774",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343676317,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343676317,
+    "wof:lastmodified":1536932873,
+    "wof:name":"Faleasi`u",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.92864,
+    -13.80742,
+    -171.92864,
+    -13.80742
+],
+  "geometry": {"coordinates":[-171.92864,-13.80742],"type":"Point"}
+}

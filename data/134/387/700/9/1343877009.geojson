@@ -1,0 +1,64 @@
+{
+  "id": 1343877009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.74166,-13.84833,-171.74166,-13.84833",
+    "geom:latitude":-13.84833,
+    "geom:longitude":-171.74166,
+    "gn:asciiname":"Fagali'i",
+    "gn:country_code":"WS",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7667651,
+    "gn:latitude":-13.84833,
+    "gn:longitude":-171.74166,
+    "gn:modification_date":"2011-02-11",
+    "gn:name":"Fagali'i",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667651
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"85ec89b6e26eb6b7188dba029bd96cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343877009,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1343877009,
+    "wof:lastmodified":1536641934,
+    "wof:name":"Fagali'i",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.74166,
+    -13.84833,
+    -171.74166,
+    -13.84833
+],
+  "geometry": {"coordinates":[-171.74166,-13.84833],"type":"Point"}
+}

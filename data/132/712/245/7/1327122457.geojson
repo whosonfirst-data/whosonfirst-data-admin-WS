@@ -1,0 +1,65 @@
+{
+  "id": 1327122457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.69796,-13.61333,-172.69796,-13.61333",
+    "geom:latitude":-13.61333,
+    "geom:longitude":-172.69796,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Matega",
+    "gn:country_code":"WS",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106453,
+    "gn:latitude":-13.61333,
+    "gn:longitude":-172.69796,
+    "gn:modification_date":"2012-12-10",
+    "gn:name":"Matega",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106453
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"43eebf3a1ce4a15b264f6677b70b6100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1327122457,
+            "region_id":85680949
+        }
+    ],
+    "wof:id":1327122457,
+    "wof:lastmodified":1536628754,
+    "wof:name":"Matega",
+    "wof:parent_id":85680949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.69796000000005,
+    -13.61333,
+    -172.69796000000005,
+    -13.61333
+],
+  "geometry": {"coordinates":[-172.69796000000005,-13.61333],"type":"Point"}
+}

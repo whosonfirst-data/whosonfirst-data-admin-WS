@@ -1,0 +1,63 @@
+{
+  "id": 890435311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.75674,-13.82742,-171.75674,-13.82742",
+    "geom:latitude":-13.82742,
+    "geom:longitude":-171.75674,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":203,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mat\u0101utu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035216,
+        "gp:id":12523104,
+        "qs:id":586128,
+        "wd:id":"Q6786167",
+        "wk:page":"Matautu"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052062,
+    "wof:geomhash":"cafb894924194ae0f879983d24d3c8dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890435311
+        }
+    ],
+    "wof:id":890435311,
+    "wof:lastmodified":1527793053,
+    "wof:name":"Mat\u0101utu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.75674,
+    -13.82742,
+    -171.75674,
+    -13.82742
+],
+  "geometry": {"coordinates":[-171.75674000000001,-13.82742],"type":"Point"}
+}

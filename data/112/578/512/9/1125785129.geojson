@@ -1,0 +1,91 @@
+{
+  "id": 1125785129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.65245,-13.5167,-172.65245,-13.5167",
+    "geom:latitude":-13.5167,
+    "geom:longitude":-172.65245,
+    "gn:gn_country":"WS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":574,
+    "gn:population":574,
+    "iso:country":"WS",
+    "lbl:latitude":-13.5167,
+    "lbl:longitude":-172.65245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0430\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Auala"
+    ],
+    "name:eng_x_preferred":[
+        "Auala"
+    ],
+    "name:lat_x_preferred":[
+        "Auala"
+    ],
+    "name:slo_x_preferred":[
+        "Auala"
+    ],
+    "name:unk_x_variant":[
+        "Amvalea"
+    ],
+    "qs_pg:aaroncc":"WS",
+    "qs_pg:gn_country":"WS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4035400,
+    "qs_pg:gn_pop":574,
+    "qs_pg:name":"Auala",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":586172,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035400,
+        "qs_pg:id":586172,
+        "wd:id":"Q742641"
+    },
+    "wof:country":"WS",
+    "wof:created":1497290644,
+    "wof:geomhash":"4eae6ec8ca40925aa99c255b7f06058b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125785129,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125785129,
+    "wof:lastmodified":1514502931,
+    "wof:name":"Auala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.65245,
+    -13.5167,
+    -172.65245,
+    -13.5167
+],
+  "geometry": {"coordinates":[-172.65244999999999,-13.5167],"type":"Point"}
+}

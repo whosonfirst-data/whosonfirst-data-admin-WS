@@ -1,0 +1,64 @@
+{
+  "id": 890436437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.56667,-13.9,-171.56667,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":-171.56667,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":284,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Manunu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035226,
+        "gp:id":980794,
+        "qs:id":586132
+    },
+    "wof:country":"WS",
+    "wof:created":1469052111,
+    "wof:geomhash":"742b53dc6276bc886f9586dbacc58528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890436437,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":890436437,
+    "wof:lastmodified":1505343553,
+    "wof:name":"Manunu",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.56667,
+    -13.9,
+    -171.56667,
+    -13.9
+],
+  "geometry": {"coordinates":[-171.56666999999999,-13.9],"type":"Point"}
+}

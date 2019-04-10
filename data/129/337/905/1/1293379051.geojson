@@ -1,0 +1,66 @@
+{
+  "id": 1293379051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.78704,-13.8467,-171.78704,-13.8467",
+    "geom:latitude":-13.8467,
+    "geom:longitude":-171.78704,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lotopa",
+    "gn:country_code":"WS",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106298,
+    "gn:latitude":-13.8467,
+    "gn:longitude":-171.78704,
+    "gn:modification_date":"2012-12-11",
+    "gn:name":"Lotopa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106298,
+        "wk:page":"Lotopa"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"71c406dc5e3b9a7f34ad7b433ef71174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293379051,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1293379051,
+    "wof:lastmodified":1537576048,
+    "wof:name":"Lotopa",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.78704,
+    -13.8467,
+    -171.78704,
+    -13.8467
+],
+  "geometry": {"coordinates":[-171.78703999999999,-13.8467],"type":"Point"}
+}

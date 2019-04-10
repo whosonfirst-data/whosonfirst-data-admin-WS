@@ -1,0 +1,65 @@
+{
+  "id": 1243469149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.31667,-13.68333,-172.31667,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":-172.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Uliamoa",
+    "gn:country_code":"WS",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034959,
+    "gn:latitude":-13.68333,
+    "gn:longitude":-172.31667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Uliamoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034959
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"195b3776b2d1bfc810d8fb038e7662c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1243469149,
+            "region_id":85680953
+        }
+    ],
+    "wof:id":1243469149,
+    "wof:lastmodified":1536773375,
+    "wof:name":"Uliamoa",
+    "wof:parent_id":85680953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.31667,
+    -13.68333,
+    -172.31667,
+    -13.68333
+],
+  "geometry": {"coordinates":[-172.31666999999999,-13.68333],"type":"Point"}
+}

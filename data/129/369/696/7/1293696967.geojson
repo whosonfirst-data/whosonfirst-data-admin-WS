@@ -1,0 +1,65 @@
+{
+  "id": 1293696967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.74491,-13.85642,-171.74491,-13.85642",
+    "geom:latitude":-13.85642,
+    "geom:longitude":-171.74491,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vaivase-uta",
+    "gn:country_code":"WS",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106310,
+    "gn:latitude":-13.85642,
+    "gn:longitude":-171.74491,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Vaivase-uta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106310
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"e561a8f97dd61d91ad71e9df0886dc57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293696967,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1293696967,
+    "wof:lastmodified":1536981589,
+    "wof:name":"Vaivase-uta",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.74491,
+    -13.85642,
+    -171.74491,
+    -13.85642
+],
+  "geometry": {"coordinates":[-171.74491,-13.85642],"type":"Point"}
+}

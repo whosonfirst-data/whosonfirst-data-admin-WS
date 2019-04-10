@@ -1,0 +1,67 @@
+{
+  "id": 1343352353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.60453,-13.70226,-172.60453,-13.70226",
+    "geom:latitude":-13.70226,
+    "geom:longitude":-172.60453,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Foailalo",
+    "gn:country_code":"WS",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035327,
+    "gn:latitude":-13.70226,
+    "gn:longitude":-172.60453,
+    "gn:modification_date":"2012-12-08",
+    "gn:name":"Foailalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foalelo",
+        "Foa Lalo",
+        "Foailalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035327,
+        "wk:page":"Foailalo"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"104fdec0eda6cd688b8d3b568bd256ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343352353,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343352353,
+    "wof:lastmodified":1537714753,
+    "wof:name":"Foailalo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.60453,
+    -13.70226,
+    -172.60453,
+    -13.70226
+],
+  "geometry": {"coordinates":[-172.60453000000001,-13.70226],"type":"Point"}
+}

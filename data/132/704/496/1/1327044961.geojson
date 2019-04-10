@@ -1,0 +1,61 @@
+{
+  "id": 1327044961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.417,-13.47374,-172.417,-13.47374",
+    "geom:latitude":-13.47374,
+    "geom:longitude":-172.417,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Matavai",
+    "gn:country_code":"WS",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106468,
+    "gn:latitude":-13.47374,
+    "gn:longitude":-172.417,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Matavai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106468
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"357aea1f154cbf1e04979b05cd270af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327044961,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327044961,
+    "wof:lastmodified":1536742033,
+    "wof:name":"Matavai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.417,
+    -13.47374,
+    -172.417,
+    -13.47374
+],
+  "geometry": {"coordinates":[-172.417,-13.47374],"type":"Point"}
+}

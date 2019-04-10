@@ -1,0 +1,61 @@
+{
+  "id": 1259694119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.10368,-13.84743,-172.10368,-13.84743",
+    "geom:latitude":-13.84743,
+    "geom:longitude":-172.10368,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pagai",
+    "gn:country_code":"WS",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106330,
+    "gn:latitude":-13.84743,
+    "gn:longitude":-172.10368,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Pagai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106330
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"67a0adf7ad06f46cc93ac68eb0f7f3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259694119,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259694119,
+    "wof:lastmodified":1537049523,
+    "wof:name":"Pagai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.10368,
+    -13.84743,
+    -172.10368,
+    -13.84743
+],
+  "geometry": {"coordinates":[-172.10368,-13.84743],"type":"Point"}
+}

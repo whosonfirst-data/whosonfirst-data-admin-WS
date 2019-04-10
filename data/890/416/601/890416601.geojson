@@ -1,0 +1,66 @@
+{
+  "id": 890416601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.62954,-13.87959,-171.62954,-13.87959",
+    "geom:latitude":-13.87959,
+    "geom:longitude":-171.62954,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":266,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Eva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":564,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035386,
+        "gp:id":980794,
+        "qs:id":586168,
+        "wk:page":"Eva"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051143,
+    "wof:geomhash":"f5d3fd253897b2fe95514ff4856e3f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890416601,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":890416601,
+    "wof:lastmodified":1527792805,
+    "wof:name":"Eva",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.62954,
+    -13.87959,
+    -171.62954,
+    -13.87959
+],
+  "geometry": {"coordinates":[-171.62953999999999,-13.87959],"type":"Point"}
+}

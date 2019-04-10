@@ -1,0 +1,65 @@
+{
+  "id": 1343873177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.45933,-13.77231,-172.45933,-13.77231",
+    "geom:latitude":-13.77231,
+    "geom:longitude":-172.45933,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Falealia",
+    "gn:country_code":"WS",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106351,
+    "gn:latitude":-13.77231,
+    "gn:longitude":-172.45933,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Falealia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106351
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"830e038f519b89e62b6652e4a81d94c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343873177,
+            "region_id":85680953
+        }
+    ],
+    "wof:id":1343873177,
+    "wof:lastmodified":1536647796,
+    "wof:name":"Falealia",
+    "wof:parent_id":85680953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.45933,
+    -13.77231,
+    -172.45933,
+    -13.77231
+],
+  "geometry": {"coordinates":[-172.45932999999999,-13.77231],"type":"Point"}
+}

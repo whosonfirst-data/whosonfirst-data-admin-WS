@@ -1,0 +1,65 @@
+{
+  "id": 1259701901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.80625,-13.8621,-171.80625,-13.8621",
+    "geom:latitude":-13.8621,
+    "geom:longitude":-171.80625,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Papase'ea",
+    "gn:country_code":"WS",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035144,
+    "gn:latitude":-13.8621,
+    "gn:longitude":-171.80625,
+    "gn:modification_date":"2009-10-16",
+    "gn:name":"Papase\u2019ea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035144
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"1a9003ce8d8b57dd3c79b010cf1db153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1259701901,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":1259701901,
+    "wof:lastmodified":1537038847,
+    "wof:name":"Papase'ea",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.80625,
+    -13.8621,
+    -171.80625,
+    -13.8621
+],
+  "geometry": {"coordinates":[-171.80625000000001,-13.8621],"type":"Point"}
+}

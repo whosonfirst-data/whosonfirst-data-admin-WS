@@ -1,0 +1,65 @@
+{
+  "id": 1310415893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.91626,-13.87385,-171.91626,-13.87385",
+    "geom:latitude":-13.87385,
+    "geom:longitude":-171.91626,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lepale",
+    "gn:country_code":"WS",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106446,
+    "gn:latitude":-13.87385,
+    "gn:longitude":-171.91626,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Lepale",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106446
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"289b70b5a2681c878a448b1156e799c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1310415893,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":1310415893,
+    "wof:lastmodified":1537044378,
+    "wof:name":"Lepale",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.91626000000005,
+    -13.87385,
+    -171.91626000000005,
+    -13.87385
+],
+  "geometry": {"coordinates":[-171.91626000000005,-13.87385],"type":"Point"}
+}

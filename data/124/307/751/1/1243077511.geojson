@@ -1,0 +1,65 @@
+{
+  "id": 1243077511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.30587,-13.75652,-172.30587,-13.75652",
+    "geom:latitude":-13.75652,
+    "geom:longitude":-172.30587,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nu'ualofa",
+    "gn:country_code":"WS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106334,
+    "gn:latitude":-13.75652,
+    "gn:longitude":-172.30587,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Nu\u2019ualofa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106334
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"798a99a5d47e29447e3242bf09c3f8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1243077511,
+            "region_id":85680953
+        }
+    ],
+    "wof:id":1243077511,
+    "wof:lastmodified":1536839236,
+    "wof:name":"Nu'ualofa",
+    "wof:parent_id":85680953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.30587,
+    -13.75652,
+    -172.30587,
+    -13.75652
+],
+  "geometry": {"coordinates":[-172.30587,-13.75652],"type":"Point"}
+}

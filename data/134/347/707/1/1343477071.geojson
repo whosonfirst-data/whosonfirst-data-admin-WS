@@ -1,0 +1,65 @@
+{
+  "id": 1343477071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.35229,-13.75527,-172.35229,-13.75527",
+    "geom:latitude":-13.75527,
+    "geom:longitude":-172.35229,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Satufiauta",
+    "gn:country_code":"WS",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106341,
+    "gn:latitude":-13.75527,
+    "gn:longitude":-172.35229,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Satufiauta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106341
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"6a815bce39740125d95e5d19e0aff317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343477071,
+            "region_id":85680949
+        }
+    ],
+    "wof:id":1343477071,
+    "wof:lastmodified":1536722510,
+    "wof:name":"Satufiauta",
+    "wof:parent_id":85680949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.35228999999995,
+    -13.75527,
+    -172.35228999999995,
+    -13.75527
+],
+  "geometry": {"coordinates":[-172.35228999999995,-13.75527],"type":"Point"}
+}

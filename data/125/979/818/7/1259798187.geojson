@@ -1,0 +1,65 @@
+{
+  "id": 1259798187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.46205,-13.9941,-171.46205,-13.9941",
+    "geom:latitude":-13.9941,
+    "geom:longitude":-171.46205,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Samusu-uta",
+    "gn:country_code":"WS",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106264,
+    "gn:latitude":-13.9941,
+    "gn:longitude":-171.46205,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Samusu-uta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106264
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"7fcd50038185e46aad54f66abedf69c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1259798187,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":1259798187,
+    "wof:lastmodified":1536902028,
+    "wof:name":"Samusu-uta",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.46205,
+    -13.9941,
+    -171.46205,
+    -13.9941
+],
+  "geometry": {"coordinates":[-171.46205,-13.9941],"type":"Point"}
+}

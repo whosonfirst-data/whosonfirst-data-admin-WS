@@ -1,0 +1,82 @@
+{
+  "id": 890452851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.72204,-13.59572,-172.72204,-13.59572",
+    "geom:latitude":-13.59572,
+    "geom:longitude":-172.72204,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":416,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043b\u0435\u043b\u0438\u043c\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Falelima"
+    ],
+    "name:eng_x_preferred":[
+        "Falelima"
+    ],
+    "name:lat_x_preferred":[
+        "Falelima"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u06cc\u0644\u06cc\u0645\u0627"
+    ],
+    "qs:name":"Falelima",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035352,
+        "gp:id":56618695,
+        "qs:id":586160,
+        "wd:id":"Q5431853",
+        "wk:page":"Falelima"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052832,
+    "wof:geomhash":"810ad9ac7b08e5b4ae9a51efdd057355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890452851,
+            "region_id":85680943
+        }
+    ],
+    "wof:id":890452851,
+    "wof:lastmodified":1527734185,
+    "wof:name":"Falelima",
+    "wof:parent_id":85680943,
+    "wof:placetype":"locality",
+    "wof:population":416,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.72204,
+    -13.59572,
+    -172.72204,
+    -13.59572
+],
+  "geometry": {"coordinates":[-172.72203999999999,-13.59572],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260094921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.72913,-13.8425,-171.72913,-13.8425",
+    "geom:latitude":-13.8425,
+    "geom:longitude":-171.72913,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maalauli",
+    "gn:country_code":"WS",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035237,
+    "gn:latitude":-13.8425,
+    "gn:longitude":-171.72913,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maalauli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malauli",
+        "Maalauli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035237
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"e00e23a5e7549295762fab1140d4fab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1260094921,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1260094921,
+    "wof:lastmodified":1537714753,
+    "wof:name":"Maalauli",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.72913,
+    -13.8425,
+    -171.72913,
+    -13.8425
+],
+  "geometry": {"coordinates":[-171.72913,-13.8425],"type":"Point"}
+}

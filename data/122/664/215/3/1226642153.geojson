@@ -1,0 +1,65 @@
+{
+  "id": 1226642153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.66578,-13.64614,-172.66578,-13.64614",
+    "geom:latitude":-13.64614,
+    "geom:longitude":-172.66578,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Samataitai",
+    "gn:country_code":"WS",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035076,
+    "gn:latitude":-13.64614,
+    "gn:longitude":-172.66578,
+    "gn:modification_date":"2012-12-10",
+    "gn:name":"Samataitai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samata",
+        "Samataitai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035076
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"4def661c6db69d9907587cf642cc16ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226642153,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226642153,
+    "wof:lastmodified":1537714752,
+    "wof:name":"Samataitai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.66578,
+    -13.64614,
+    -172.66578,
+    -13.64614
+],
+  "geometry": {"coordinates":[-172.66578000000001,-13.64614],"type":"Point"}
+}

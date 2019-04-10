@@ -1,0 +1,63 @@
+{
+  "id": 890416615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.42897,-13.99723,-171.42897,-13.99723",
+    "geom:latitude":-13.99723,
+    "geom:longitude":-171.42897,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":221,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Faleulu"
+    ],
+    "qs:name":"Amaile",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035416,
+        "gp:id":980751,
+        "qs:id":586176
+    },
+    "wof:country":"WS",
+    "wof:created":1469051144,
+    "wof:geomhash":"2fa644d24bc491012c7bd8e33148c796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890416615
+        }
+    ],
+    "wof:id":890416615,
+    "wof:lastmodified":1505343433,
+    "wof:name":"Amaile",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":221,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.42897,
+    -13.99723,
+    -171.42897,
+    -13.99723
+],
+  "geometry": {"coordinates":[-171.42896999999999,-13.99723],"type":"Point"}
+}

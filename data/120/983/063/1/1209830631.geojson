@@ -1,0 +1,61 @@
+{
+  "id": 1209830631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.85,-13.8,-171.85,-13.8",
+    "geom:latitude":-13.8,
+    "geom:longitude":-171.85,
+    "gn:asciiname":"Le'auva'a",
+    "gn:country_code":"WS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7667632,
+    "gn:latitude":-13.8,
+    "gn:longitude":-171.85,
+    "gn:modification_date":"2011-02-11",
+    "gn:name":"Le'auva'a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667632,
+        "wk:page":"Le%27auva%27a"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"161a55cd25b4a753ea84052f793b2ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209830631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209830631,
+    "wof:lastmodified":1537576049,
+    "wof:name":"Le'auva'a",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.85,
+    -13.8,
+    -171.85,
+    -13.8
+],
+  "geometry": {"coordinates":[-171.84999999999999,-13.8],"type":"Point"}
+}

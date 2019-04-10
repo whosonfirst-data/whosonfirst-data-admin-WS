@@ -1,0 +1,76 @@
+{
+  "id": 890435141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.83096,-13.98811,-171.83096,-13.98811",
+    "geom:latitude":-13.98811,
+    "geom:longitude":-171.83096,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":497,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vaiee"
+    ],
+    "name:eng_x_preferred":[
+        "Vaiee"
+    ],
+    "name:unk_x_variant":[
+        "Vaiyee\u2019 Itai"
+    ],
+    "qs:name":"Vaie\u2019e",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":550,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034930,
+        "gp:id":12523104,
+        "qs:id":586054,
+        "wd:id":"Q7908719",
+        "wk:page":"Vaiee"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052056,
+    "wof:geomhash":"dc8bfbf9e612175d2e7ae21f1c305664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890435141,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":890435141,
+    "wof:lastmodified":1527793053,
+    "wof:name":"Vaie\u2019e",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:population":497,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.83096,
+    -13.98811,
+    -171.83096,
+    -13.98811
+],
+  "geometry": {"coordinates":[-171.83096,-13.98811],"type":"Point"}
+}

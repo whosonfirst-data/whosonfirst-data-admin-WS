@@ -1,0 +1,72 @@
+{
+  "id": 890435273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.4492,-13.46995,-172.4492,-13.46995",
+    "geom:latitude":-13.46995,
+    "geom:longitude":-172.4492,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":566,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sasina"
+    ],
+    "name:eng_x_preferred":[
+        "Sasina"
+    ],
+    "name:pol_x_preferred":[
+        "Sasina"
+    ],
+    "qs:name":"Sasina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035062,
+        "gp:id":980856,
+        "qs:id":586089,
+        "wd:id":"Q7425150",
+        "wk:page":"Sasina"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052061,
+    "wof:geomhash":"9c71a4744c8c26627074f9591a938edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890435273
+        }
+    ],
+    "wof:id":890435273,
+    "wof:lastmodified":1527793045,
+    "wof:name":"Sasina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":566,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.4492,
+    -13.46995,
+    -172.4492,
+    -13.46995
+],
+  "geometry": {"coordinates":[-172.44919999999999,-13.46995],"type":"Point"}
+}

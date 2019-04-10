@@ -1,0 +1,65 @@
+{
+  "id": 1276672927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.23279,-13.61871,-172.23279,-13.61871",
+    "geom:latitude":-13.61871,
+    "geom:longitude":-172.23279,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pugaoa",
+    "gn:country_code":"WS",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106430,
+    "gn:latitude":-13.61871,
+    "gn:longitude":-172.23279,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Pugaoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106430
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"fb6a6e93c63fcd84b50153ede6cf5d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1276672927,
+            "region_id":85680933
+        }
+    ],
+    "wof:id":1276672927,
+    "wof:lastmodified":1536819726,
+    "wof:name":"Pugaoa",
+    "wof:parent_id":85680933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.23279,
+    -13.61871,
+    -172.23279,
+    -13.61871
+],
+  "geometry": {"coordinates":[-172.23278999999999,-13.61871],"type":"Point"}
+}

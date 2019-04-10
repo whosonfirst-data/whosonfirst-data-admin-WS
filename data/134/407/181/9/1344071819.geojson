@@ -1,0 +1,65 @@
+{
+  "id": 1344071819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.85419,-13.86022,-171.85419,-13.86022",
+    "geom:latitude":-13.86022,
+    "geom:longitude":-171.85419,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fiaga",
+    "gn:country_code":"WS",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106445,
+    "gn:latitude":-13.86022,
+    "gn:longitude":-171.85419,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Fiaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106445
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"ce4102e3b364c6e9e681d368ca19c948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1344071819,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":1344071819,
+    "wof:lastmodified":1536857816,
+    "wof:name":"Fiaga",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.85419,
+    -13.86022,
+    -171.85419,
+    -13.86022
+],
+  "geometry": {"coordinates":[-171.85418999999999,-13.86022],"type":"Point"}
+}

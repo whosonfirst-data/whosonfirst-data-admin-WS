@@ -1,0 +1,65 @@
+{
+  "id": 1343976299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.03136,-13.85408,-172.03136,-13.85408",
+    "geom:latitude":-13.85408,
+    "geom:longitude":-172.03136,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Olo",
+    "gn:country_code":"WS",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109441,
+    "gn:latitude":-13.85408,
+    "gn:longitude":-172.03136,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Olo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109441
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"edaf2e17f6883db9e40a4a2cc51a9051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343976299,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":1343976299,
+    "wof:lastmodified":1536996381,
+    "wof:name":"Olo",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.03136,
+    -13.85408,
+    -172.03136,
+    -13.85408
+],
+  "geometry": {"coordinates":[-172.03136000000001,-13.85408],"type":"Point"}
+}

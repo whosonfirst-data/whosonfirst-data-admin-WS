@@ -1,0 +1,78 @@
+{
+  "id": 890452847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.59235,-13.87761,-171.59235,-13.87761",
+    "geom:latitude":-13.87761,
+    "geom:longitude":-171.59235,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":584,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043b\u0435\u0430\u043f\u0443\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Faleapuna"
+    ],
+    "name:eng_x_preferred":[
+        "Faleapuna"
+    ],
+    "name:fre_x_preferred":[
+        "Faleapuna"
+    ],
+    "name:unk_x_variant":[
+        "Faleapunga"
+    ],
+    "qs:name":"Faleapuna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035347,
+        "gp:id":980794,
+        "qs:id":586158,
+        "wd:id":"Q5431836",
+        "wk:page":"Faleapuna"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052832,
+    "wof:geomhash":"579e8f99fa0db547ad5945888764b0ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890452847
+        }
+    ],
+    "wof:id":890452847,
+    "wof:lastmodified":1527734187,
+    "wof:name":"Faleapuna",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":584,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.59235,
+    -13.87761,
+    -171.59235,
+    -13.87761
+],
+  "geometry": {"coordinates":[-171.59235000000001,-13.87761],"type":"Point"}
+}

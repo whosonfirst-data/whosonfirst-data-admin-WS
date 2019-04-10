@@ -1,0 +1,65 @@
+{
+  "id": 1243278697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.85136,-13.97552,-171.85136,-13.97552",
+    "geom:latitude":-13.97552,
+    "geom:longitude":-171.85136,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lotofagauta",
+    "gn:country_code":"WS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106249,
+    "gn:latitude":-13.97552,
+    "gn:longitude":-171.85136,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Lotofagauta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106249
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"a336abb684d6f66c761768e1781bd386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1243278697,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":1243278697,
+    "wof:lastmodified":1537045393,
+    "wof:name":"Lotofagauta",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.85136,
+    -13.97552,
+    -171.85136,
+    -13.97552
+],
+  "geometry": {"coordinates":[-171.85136,-13.97552],"type":"Point"}
+}

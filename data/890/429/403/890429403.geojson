@@ -1,0 +1,76 @@
+{
+  "id": 890429403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.54855,-14.04268,-171.54855,-14.04268",
+    "geom:latitude":-14.04268,
+    "geom:longitude":-171.54855,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":383,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0432\u0430\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Vavau"
+    ],
+    "name:eng_x_preferred":[
+        "Vavau"
+    ],
+    "qs:name":"Vavau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":830,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034896,
+        "gp:id":980751,
+        "qs:id":97100,
+        "wd:id":"Q7917489",
+        "wk:page":"Vava\u02bbu"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051813,
+    "wof:geomhash":"752a245266870650de2c47433666b78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890429403,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":890429403,
+    "wof:lastmodified":1527792796,
+    "wof:name":"Vavau",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":383,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.54855,
+    -14.04268,
+    -171.54855,
+    -14.04268
+],
+  "geometry": {"coordinates":[-171.54855000000001,-14.04268],"type":"Point"}
+}

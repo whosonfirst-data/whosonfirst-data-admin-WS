@@ -1,0 +1,65 @@
+{
+  "id": 1326740585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.99707,-13.86051,-171.99707,-13.86051",
+    "geom:latitude":-13.86051,
+    "geom:longitude":-171.99707,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vaipapa",
+    "gn:country_code":"WS",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106451,
+    "gn:latitude":-13.86051,
+    "gn:longitude":-171.99707,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Vaipapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106451
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"1003d2003a5b524a99e291b92a5a1be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1326740585,
+            "region_id":85680921
+        }
+    ],
+    "wof:id":1326740585,
+    "wof:lastmodified":1536683547,
+    "wof:name":"Vaipapa",
+    "wof:parent_id":85680921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.99707,
+    -13.86051,
+    -171.99707,
+    -13.86051
+],
+  "geometry": {"coordinates":[-171.99707000000001,-13.86051],"type":"Point"}
+}

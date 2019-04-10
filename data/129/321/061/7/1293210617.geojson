@@ -1,0 +1,65 @@
+{
+  "id": 1293210617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.78333,-13.83333,-171.78333,-13.83333",
+    "geom:latitude":-13.83333,
+    "geom:longitude":-171.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taumuafa",
+    "gn:country_code":"WS",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034988,
+    "gn:latitude":-13.83333,
+    "gn:longitude":-171.78333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Taumuafa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034988
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"66d1f34091c78f2d28f4b00b0da785cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293210617,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1293210617,
+    "wof:lastmodified":1536689203,
+    "wof:name":"Taumuafa",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.78333,
+    -13.83333,
+    -171.78333,
+    -13.83333
+],
+  "geometry": {"coordinates":[-171.78333000000001,-13.83333],"type":"Point"}
+}

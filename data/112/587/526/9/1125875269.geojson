@@ -1,0 +1,86 @@
+{
+  "id": 1125875269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.58376,-14.04355,-171.58376,-14.04355",
+    "geom:latitude":-14.04355,
+    "geom:longitude":-171.58376,
+    "gn:gn_country":"WS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":397,
+    "gn:population":397,
+    "iso:country":"WS",
+    "lbl:latitude":-14.04355,
+    "lbl:longitude":-171.58376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0442\u0443\u0444\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Matatufu"
+    ],
+    "name:eng_x_preferred":[
+        "Matatufu"
+    ],
+    "qs_pg:aaroncc":"WS",
+    "qs_pg:gn_country":"WS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4035217,
+    "qs_pg:gn_pop":397,
+    "qs_pg:name":"Matatufu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":586129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035217,
+        "qs_pg:id":586129,
+        "wd:id":"Q6786156"
+    },
+    "wof:country":"WS",
+    "wof:created":1497294506,
+    "wof:geomhash":"ffc14e997043f0029a3c63185013456b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1125875269,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":1125875269,
+    "wof:lastmodified":1514502934,
+    "wof:name":"Matatufu",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.58376,
+    -14.04355,
+    -171.58376,
+    -14.04355
+],
+  "geometry": {"coordinates":[-171.58376000000001,-14.04355],"type":"Point"}
+}

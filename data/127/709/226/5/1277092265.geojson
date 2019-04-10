@@ -1,0 +1,65 @@
+{
+  "id": 1277092265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.54867,-14.04094,-171.54867,-14.04094",
+    "geom:latitude":-14.04094,
+    "geom:longitude":-171.54867,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"To-sua",
+    "gn:country_code":"WS",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046414,
+    "gn:latitude":-14.04094,
+    "gn:longitude":-171.54867,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"To-sua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046414
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"f095aa143262bb8bb8f7588a0cb42109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1277092265,
+            "region_id":85680925
+        }
+    ],
+    "wof:id":1277092265,
+    "wof:lastmodified":1536753895,
+    "wof:name":"To-sua",
+    "wof:parent_id":85680925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.54867,
+    -14.04094,
+    -171.54867,
+    -14.04094
+],
+  "geometry": {"coordinates":[-171.54866999999999,-14.04094],"type":"Point"}
+}

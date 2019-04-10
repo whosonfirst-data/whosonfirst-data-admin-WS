@@ -1,0 +1,65 @@
+{
+  "id": 1293607281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.19934,-13.69941,-172.19934,-13.69941",
+    "geom:latitude":-13.69941,
+    "geom:longitude":-172.19934,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Safua",
+    "gn:country_code":"WS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106365,
+    "gn:latitude":-13.69941,
+    "gn:longitude":-172.19934,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Safua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106365
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"24149b953c9f0c0b98e99e6eeb51c442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1293607281,
+            "region_id":85680933
+        }
+    ],
+    "wof:id":1293607281,
+    "wof:lastmodified":1536611909,
+    "wof:name":"Safua",
+    "wof:parent_id":85680933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.19933999999995,
+    -13.69941,
+    -172.19933999999995,
+    -13.69941
+],
+  "geometry": {"coordinates":[-172.19933999999995,-13.69941],"type":"Point"}
+}

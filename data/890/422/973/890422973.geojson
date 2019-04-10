@@ -1,0 +1,70 @@
+{
+  "id": 890422973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.1942,-13.63714,-172.1942,-13.63714",
+    "geom:latitude":-13.63714,
+    "geom:longitude":-172.1942,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":520,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sa'asa'ai"
+    ],
+    "name:eng_x_preferred":[
+        "Sa'asa'ai"
+    ],
+    "name:unk_x_variant":[
+        "Sasaai"
+    ],
+    "qs:name":"Sa\u2019asa\u2019ai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035123,
+        "gp:id":980723,
+        "qs:id":586110,
+        "wd:id":"Q7395426"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051474,
+    "wof:geomhash":"69aa6935beb8136c7c66b95130edcea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890422973
+        }
+    ],
+    "wof:id":890422973,
+    "wof:lastmodified":1514502936,
+    "wof:name":"Sa\u2019asa\u2019ai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":520,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.1942,
+    -13.63714,
+    -172.1942,
+    -13.63714
+],
+  "geometry": {"coordinates":[-172.1942,-13.63714],"type":"Point"}
+}

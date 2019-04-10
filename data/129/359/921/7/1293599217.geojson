@@ -1,0 +1,62 @@
+{
+  "id": 1293599217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.10618,-13.85893,-172.10618,-13.85893",
+    "geom:latitude":-13.85893,
+    "geom:longitude":-172.10618,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Faleu",
+    "gn:country_code":"WS",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035346,
+    "gn:latitude":-13.85893,
+    "gn:longitude":-172.10618,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Faleu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035346,
+        "wk:page":"Faleu"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"5e6e31d3292e47353cf4b064859b98af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293599217,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293599217,
+    "wof:lastmodified":1537576048,
+    "wof:name":"Faleu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.10618,
+    -13.85893,
+    -172.10618,
+    -13.85893
+],
+  "geometry": {"coordinates":[-172.10617999999999,-13.85893],"type":"Point"}
+}

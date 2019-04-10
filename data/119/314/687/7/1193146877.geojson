@@ -1,0 +1,65 @@
+{
+  "id": 1193146877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.76258,-13.86944,-171.76258,-13.86944",
+    "geom:latitude":-13.86944,
+    "geom:longitude":-171.76258,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Avele",
+    "gn:country_code":"WS",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106311,
+    "gn:latitude":-13.86944,
+    "gn:longitude":-171.76258,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Avele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106311
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"8f84351ee9d807a74b96ec127f2bbd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1193146877,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1193146877,
+    "wof:lastmodified":1536382436,
+    "wof:name":"Avele",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.76258,
+    -13.86944,
+    -171.76258,
+    -13.86944
+],
+  "geometry": {"coordinates":[-171.76258000000001,-13.86944],"type":"Point"}
+}

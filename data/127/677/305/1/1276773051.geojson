@@ -1,0 +1,65 @@
+{
+  "id": 1276773051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.94075,-13.89451,-171.94075,-13.89451",
+    "geom:latitude":-13.89451,
+    "geom:longitude":-171.94075,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tanumalala",
+    "gn:country_code":"WS",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109422,
+    "gn:latitude":-13.89451,
+    "gn:longitude":-171.94075,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tanumalala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109422
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"8ac998121b148571542576c818a93c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1276773051,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":1276773051,
+    "wof:lastmodified":1536686554,
+    "wof:name":"Tanumalala",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.94075,
+    -13.89451,
+    -171.94075,
+    -13.89451
+],
+  "geometry": {"coordinates":[-171.94075000000001,-13.89451],"type":"Point"}
+}

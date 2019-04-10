@@ -1,0 +1,65 @@
+{
+  "id": 1259693979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.2388,-13.55316,-172.2388,-13.55316",
+    "geom:latitude":-13.55316,
+    "geom:longitude":-172.2388,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Papalaulelei",
+    "gn:country_code":"WS",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106426,
+    "gn:latitude":-13.55316,
+    "gn:longitude":-172.2388,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Papalaulelei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106426
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"767e71a439939dfc4cdd184353f136f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1259693979,
+            "region_id":85680937
+        }
+    ],
+    "wof:id":1259693979,
+    "wof:lastmodified":1537049723,
+    "wof:name":"Papalaulelei",
+    "wof:parent_id":85680937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.2388,
+    -13.55316,
+    -172.2388,
+    -13.55316
+],
+  "geometry": {"coordinates":[-172.2388,-13.55316],"type":"Point"}
+}

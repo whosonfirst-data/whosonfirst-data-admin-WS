@@ -1,0 +1,65 @@
+{
+  "id": 1343571123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.21649,-13.7328,-172.21649,-13.7328",
+    "geom:latitude":-13.7328,
+    "geom:longitude":-172.21649,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sapulu",
+    "gn:country_code":"WS",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106360,
+    "gn:latitude":-13.7328,
+    "gn:longitude":-172.21649,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Sapulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106360
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"0ef3407b836120315df545705499ffff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1343571123,
+            "region_id":85680933
+        }
+    ],
+    "wof:id":1343571123,
+    "wof:lastmodified":1537080860,
+    "wof:name":"Sapulu",
+    "wof:parent_id":85680933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.21649,
+    -13.7328,
+    -172.21649,
+    -13.7328
+],
+  "geometry": {"coordinates":[-172.21648999999999,-13.7328],"type":"Point"}
+}

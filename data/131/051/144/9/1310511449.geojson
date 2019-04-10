@@ -1,0 +1,61 @@
+{
+  "id": 1310511449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.18605,-13.65597,-172.18605,-13.65597",
+    "geom:latitude":-13.65597,
+    "geom:longitude":-172.18605,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sapini",
+    "gn:country_code":"WS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106435,
+    "gn:latitude":-13.65597,
+    "gn:longitude":-172.18605,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Sapini",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106435
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"05914aa5b0f9b1aa7575fbba4c03e40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310511449,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310511449,
+    "wof:lastmodified":1536908529,
+    "wof:name":"Sapini",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.18605,
+    -13.65597,
+    -172.18605,
+    -13.65597
+],
+  "geometry": {"coordinates":[-172.18604999999999,-13.65597],"type":"Point"}
+}

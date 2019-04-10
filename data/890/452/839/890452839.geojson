@@ -1,0 +1,82 @@
+{
+  "id": 890452839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.19919,-13.6175,-172.19919,-13.6175",
+    "geom:latitude":-13.6175,
+    "geom:longitude":-172.19919,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":706,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lano"
+    ],
+    "name:eng_x_preferred":[
+        "Lano"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03ac\u03bd\u03bf"
+    ],
+    "name:slo_x_preferred":[
+        "Lano"
+    ],
+    "name:unk_x_variant":[
+        "Lauo"
+    ],
+    "qs:name":"Lano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035294,
+        "gp:id":980723,
+        "qs:id":586149,
+        "wd:id":"Q12067899",
+        "wk:page":"Lano"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052831,
+    "wof:geomhash":"aaca05b378dc61c7f9672fc3b66797dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890452839,
+            "region_id":85680933
+        }
+    ],
+    "wof:id":890452839,
+    "wof:lastmodified":1553816403,
+    "wof:name":"Lano",
+    "wof:parent_id":85680933,
+    "wof:placetype":"locality",
+    "wof:population":706,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.19919,
+    -13.6175,
+    -172.19919,
+    -13.6175
+],
+  "geometry": {"coordinates":[-172.19918999999999,-13.6175],"type":"Point"}
+}

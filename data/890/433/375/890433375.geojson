@@ -1,0 +1,100 @@
+{
+  "id": 890433375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.96127,-13.82298,-171.96127,-13.82298",
+    "geom:latitude":-13.82298,
+    "geom:longitude":-171.96127,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":1458,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0443\u043b\u0443\u043c\u043e\u0435\u0433\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Leulumoega"
+    ],
+    "name:eng_x_preferred":[
+        "Leulumoega"
+    ],
+    "name:ger_x_preferred":[
+        "Leulumoega"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b5\u03bf\u03c5\u03bb\u03bf\u03c5\u03bc\u03bf\u03ad\u03b3\u03ba\u03b1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30a6\u30eb\u30e2\u30a8\u30ac"
+    ],
+    "name:lat_x_preferred":[
+        "Leulumoega"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041b\u0435\u0443\u043b\u0443\u043c\u043e\u0435\u0433\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Leulumoega"
+    ],
+    "name:unk_x_variant":[
+        "Leulumoenga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u0644\u0648\u0645\u0648\u06cc\u06af\u0627"
+    ],
+    "qs:name":"Leulumoega",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035260,
+        "gp:id":980689,
+        "qs:id":279933,
+        "wd:id":"Q1944685",
+        "wk:page":"Leulumoega"
+    },
+    "wof:country":"WS",
+    "wof:created":1469051978,
+    "wof:geomhash":"0b66525c301118bf56c47c62d491d54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890433375,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":890433375,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Leulumoega",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:population":1458,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.96127,
+    -13.82298,
+    -171.96127,
+    -13.82298
+],
+  "geometry": {"coordinates":[-171.96127000000001,-13.82298],"type":"Point"}
+}

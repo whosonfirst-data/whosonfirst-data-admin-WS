@@ -1,0 +1,93 @@
+{
+  "id": 890452855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.78768,-13.50103,-172.78768,-13.50103",
+    "geom:latitude":-13.50103,
+    "geom:longitude":-172.78768,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":183,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Falealupo"
+    ],
+    "name:eng_x_preferred":[
+        "Falealupo"
+    ],
+    "name:fre_x_preferred":[
+        "Falealupo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30ec\u30a2\u30eb\u30dd"
+    ],
+    "name:lat_x_preferred":[
+        "Falealupo"
+    ],
+    "name:nno_x_preferred":[
+        "Falealupo"
+    ],
+    "name:nob_x_preferred":[
+        "Falealupo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043b\u0435\u0430\u043b\u0443\u043f\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Vaotupua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u06cc\u0627\u0644\u0648\u067e\u0648"
+    ],
+    "qs:name":"Fale\u0101lupo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":1194,
+    "wof:belongsto":[
+        85632681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035367,
+        "gp:id":56618695,
+        "qs:id":586162,
+        "wd:id":"Q5431839",
+        "wk:page":"Falealupo"
+    },
+    "wof:country":"WS",
+    "wof:created":1469052832,
+    "wof:geomhash":"61f2961fdf898c9b44e93c4c86a849e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632681,
+            "locality_id":890452855
+        }
+    ],
+    "wof:id":890452855,
+    "wof:lastmodified":1527734188,
+    "wof:name":"Fale\u0101lupo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.78768,
+    -13.50103,
+    -172.78768,
+    -13.50103
+],
+  "geometry": {"coordinates":[-172.78767999999999,-13.50103],"type":"Point"}
+}

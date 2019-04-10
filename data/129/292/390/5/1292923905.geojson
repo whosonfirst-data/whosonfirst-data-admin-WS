@@ -1,0 +1,66 @@
+{
+  "id": 1292923905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.78407,-13.83735,-171.78407,-13.83735",
+    "geom:latitude":-13.83735,
+    "geom:longitude":-171.78407,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pesega",
+    "gn:country_code":"WS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106300,
+    "gn:latitude":-13.83735,
+    "gn:longitude":-171.78407,
+    "gn:modification_date":"2012-12-11",
+    "gn:name":"Pesega",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106300,
+        "wk:page":"Pesega"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"a225ca42c0e17df7a93fad65cc3b02a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1292923905,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1292923905,
+    "wof:lastmodified":1537576048,
+    "wof:name":"Pesega",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.78407,
+    -13.83735,
+    -171.78407,
+    -13.83735
+],
+  "geometry": {"coordinates":[-171.78407000000001,-13.83735],"type":"Point"}
+}

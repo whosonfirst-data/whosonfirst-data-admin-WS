@@ -1,0 +1,66 @@
+{
+  "id": 1276458339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.78607,-13.85713,-171.78607,-13.85713",
+    "geom:latitude":-13.85713,
+    "geom:longitude":-171.78607,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Alafua",
+    "gn:country_code":"WS",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106297,
+    "gn:latitude":-13.85713,
+    "gn:longitude":-171.78607,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Alafua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106297,
+        "wk:page":"Alafua"
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"76800a48bc5addb4fc73faee7e702fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1276458339,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":1276458339,
+    "wof:lastmodified":1537576048,
+    "wof:name":"Alafua",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.78607,
+    -13.85713,
+    -171.78607,
+    -13.85713
+],
+  "geometry": {"coordinates":[-171.78607,-13.85713],"type":"Point"}
+}

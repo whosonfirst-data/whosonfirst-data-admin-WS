@@ -1,0 +1,65 @@
+{
+  "id": 1292982149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.66667,-13.56667,-172.66667,-13.56667",
+    "geom:latitude":-13.56667,
+    "geom:longitude":-172.66667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Siuvao",
+    "gn:country_code":"WS",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035017,
+    "gn:latitude":-13.56667,
+    "gn:longitude":-172.66667,
+    "gn:modification_date":"2012-12-10",
+    "gn:name":"Siuvao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035017
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"49d2c7405d0021fd262dcd009687ebef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1292982149,
+            "region_id":85680943
+        }
+    ],
+    "wof:id":1292982149,
+    "wof:lastmodified":1537017792,
+    "wof:name":"Siuvao",
+    "wof:parent_id":85680943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.66666999999995,
+    -13.56667,
+    -172.66666999999995,
+    -13.56667
+],
+  "geometry": {"coordinates":[-172.66666999999995,-13.56667],"type":"Point"}
+}

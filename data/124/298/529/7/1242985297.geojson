@@ -1,0 +1,65 @@
+{
+  "id": 1242985297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.00518,-13.91684,-172.00518,-13.91684",
+    "geom:latitude":-13.91684,
+    "geom:longitude":-172.00518,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sama`i",
+    "gn:country_code":"WS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035080,
+    "gn:latitude":-13.91684,
+    "gn:longitude":-172.00518,
+    "gn:modification_date":"2009-10-16",
+    "gn:name":"Sama\u2018i",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Apia",
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035080
+    },
+    "wof:country":"WS",
+    "wof:geomhash":"d2c41d9c56501d9a7cf556fa90ebfb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":1242985297,
+            "region_id":85680917
+        }
+    ],
+    "wof:id":1242985297,
+    "wof:lastmodified":1536972919,
+    "wof:name":"Sama`i",
+    "wof:parent_id":85680917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.00518,
+    -13.91684,
+    -172.00518,
+    -13.91684
+],
+  "geometry": {"coordinates":[-172.00518,-13.91684],"type":"Point"}
+}

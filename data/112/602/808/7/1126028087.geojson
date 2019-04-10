@@ -1,0 +1,88 @@
+{
+  "id": 1126028087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-172.1756,-13.6676,-172.1756,-13.6676",
+    "geom:latitude":-13.6676,
+    "geom:longitude":-172.1756,
+    "gn:gn_country":"WS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":365,
+    "gn:population":365,
+    "iso:country":"WS",
+    "lbl:latitude":-13.6676,
+    "lbl:longitude":-172.1756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0430\u0441\u0438\u0432\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Tuasivi"
+    ],
+    "name:eng_x_preferred":[
+        "Tuasivi"
+    ],
+    "name:smo_x_preferred":[
+        "Tuasivi"
+    ],
+    "name:unk_x_variant":[
+        "Tuasavi"
+    ],
+    "qs_pg:aaroncc":"WS",
+    "qs_pg:gn_country":"WS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4034971,
+    "qs_pg:gn_pop":365,
+    "qs_pg:name":"Tuasivi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":586066,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4034971,
+        "qs_pg:id":586066,
+        "wd:id":"Q7850667"
+    },
+    "wof:country":"WS",
+    "wof:created":1497301267,
+    "wof:geomhash":"253d8fcfcccace6a5a4f142ebb7f24f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1126028087,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126028087,
+    "wof:lastmodified":1514502937,
+    "wof:name":"Tuasivi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":365,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -172.1756,
+    -13.6676,
+    -172.1756,
+    -13.6676
+],
+  "geometry": {"coordinates":[-172.1756,-13.6676],"type":"Point"}
+}

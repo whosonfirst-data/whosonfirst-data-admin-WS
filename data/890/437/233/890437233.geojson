@@ -1,0 +1,64 @@
+{
+  "id": 890437233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.81397,-13.84432,-171.81397,-13.84432",
+    "geom:latitude":-13.84432,
+    "geom:longitude":-171.81397,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
+    "gn:pop":2226,
+    "iso:country":"WS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Siusega",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632681,
+        85680915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035019,
+        "gp:id":12523104,
+        "qs:id":1047716
+    },
+    "wof:country":"WS",
+    "wof:created":1469052143,
+    "wof:geomhash":"c2c28d3ee39b44f030174fa7aa03076d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632681,
+            "locality_id":890437233,
+            "region_id":85680915
+        }
+    ],
+    "wof:id":890437233,
+    "wof:lastmodified":1505343558,
+    "wof:name":"Siusega",
+    "wof:parent_id":85680915,
+    "wof:placetype":"locality",
+    "wof:population":2226,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ws",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.81397,
+    -13.84432,
+    -171.81397,
+    -13.84432
+],
+  "geometry": {"coordinates":[-171.81397000000001,-13.84432],"type":"Point"}
+}
