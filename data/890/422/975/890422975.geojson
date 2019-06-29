@@ -18,16 +18,16 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u043b\u0435\u044f"
     ],
-    "name:dut_x_preferred":[
-        "Puleia"
-    ],
     "name:eng_x_preferred":[
         "Puleia"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ec\u30a4\u30a2"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Puleia"
+    ],
+    "name:slk_x_preferred":[
         "Puleia"
     ],
     "name:smo_x_preferred":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890422975,
-    "wof:lastmodified":1527727165,
+    "wof:lastmodified":1561830546,
     "wof:name":"Puleia",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

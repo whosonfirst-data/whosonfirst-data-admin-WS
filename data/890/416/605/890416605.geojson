@@ -18,10 +18,10 @@
     "name:bul_x_preferred":[
         "\u0410\u0432\u0430\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Avao"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Avao"
     ],
     "qs:name":"Avao",
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":890416605,
-    "wof:lastmodified":1527792800,
+    "wof:lastmodified":1561830547,
     "wof:name":"Avao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

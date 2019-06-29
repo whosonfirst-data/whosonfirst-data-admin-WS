@@ -15,10 +15,10 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Saleia"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Saleia"
     ],
     "qs:name":"Salei\u2019a",
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":890429415,
-    "wof:lastmodified":1514502935,
+    "wof:lastmodified":1561830547,
     "wof:name":"Salei\u2019a",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,16 +22,16 @@
     "name:bul_x_preferred":[
         "\u0410\u0443\u0430\u043b\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Auala"
-    ],
     "name:eng_x_preferred":[
         "Auala"
     ],
     "name:lat_x_preferred":[
         "Auala"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Auala"
+    ],
+    "name:slk_x_preferred":[
         "Auala"
     ],
     "name:unk_x_variant":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1125785129,
-    "wof:lastmodified":1514502931,
+    "wof:lastmodified":1561830549,
     "wof:name":"Auala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -31,13 +31,10 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u0997\u09be'\u098f\u09ae\u0997\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u52a0\u57c3\u6bdb\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Gaga'emauga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gaga'emauga"
     ],
     "name:ell_x_preferred":[
@@ -51,18 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Gaga'emauga"
-    ],
-    "name:fre_x_preferred":[
-        "Gaga'emauga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10d2\u10d0\u10d4\u10db\u10d0\u10e3\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gaga'emauga"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03b3\u03ba\u03ac\u03b5\u03bc\u03b1\u03bf\u03c5\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a97\u0abe'\u0aae\u0abe\u0a89\u0a97\u0abe"
@@ -103,11 +88,11 @@
     "name:mar_x_preferred":[
         "\u0917\u0917\u093e\u092e\u094b\u0917\u093e"
     ],
-    "name:may_x_preferred":[
-        "Gaga'emauga"
-    ],
     "name:mrj_x_preferred":[
         "\u0413\u0430\u0433\u0430\u044d\u043c\u0430\u0443\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gaga'emauga"
     ],
     "name:nld_x_preferred":[
         "Gaga'emauga"
@@ -131,9 +116,6 @@
         "\u0d9c\u0d9c\u0d91\u0db8\u0dde\u0d9c\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Gaga\u2019emauga"
-    ],
-    "name:slo_x_preferred":[
         "Gaga\u2019emauga"
     ],
     "name:spa_x_preferred":[
@@ -165,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Gaga'emauga"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u52a0\u57c3\u6bdb\u52a0"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"WSM",
@@ -291,7 +276,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550601,
+    "wof:lastmodified":1561830544,
     "wof:name":"Gaga'emauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

@@ -31,13 +31,10 @@
     "name:ben_x_preferred":[
         "\u09ab\u09be'\u0986\u09b8\u09be\u09b2\u09c7\u09b2\u09bf\u0997\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u585e\u840a\u840a\u963f\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Fa'asaleleaga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fa'asaleleaga"
     ],
     "name:ell_x_preferred":[
@@ -51,18 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Fa'asaleleaga"
-    ],
-    "name:fre_x_preferred":[
-        "Fa'asaleleaga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10d0\u10e1\u10d0\u10da\u10d4\u10da\u10d4\u10d0\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Fa'asaleleaga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03ac\u03b1\u03c3\u03b1\u03bb\u03b5\u03bb\u03b5\u03b1\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0ab8\u0abe\u0ab2\u0ac7\u0ab2\u0ac7\u0a97\u0abe"
@@ -103,11 +88,11 @@
     "name:mar_x_preferred":[
         "\u092b\u093e\u0938\u093e\u0932\u0947\u0932\u0947\u0917\u093e"
     ],
-    "name:may_x_preferred":[
-        "Fa'asaleleaga"
-    ],
     "name:mrj_x_preferred":[
         "\u0424\u0430\u0430\u0441\u0430\u043b\u0435\u043b\u0435\u0430\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Fa'asaleleaga"
     ],
     "name:nld_x_preferred":[
         "Fa'asaleleaga"
@@ -131,9 +116,6 @@
         "\u0dc6\u0dcf \u0d85\u0dc3\u0dca\u0dbd\u0dd9\u0dbd\u0dd9\u0d85\u0d9c\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Fa\u2019asaleleaga"
-    ],
-    "name:slo_x_preferred":[
         "Fa\u2019asaleleaga"
     ],
     "name:spa_x_preferred":[
@@ -165,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Fa'asaleleaga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u585e\u840a\u840a\u963f\u52a0"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"WSM",
@@ -289,7 +274,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550601,
+    "wof:lastmodified":1561830544,
     "wof:name":"Fa'asaleleaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

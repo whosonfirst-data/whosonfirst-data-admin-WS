@@ -15,13 +15,13 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Lepa"
-    ],
     "name:eng_x_preferred":[
         "Lepa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Lepa"
+    ],
+    "name:nld_x_preferred":[
         "Lepa"
     ],
     "name:rus_x_preferred":[
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":890452833,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1561830546,
     "wof:name":"Lep\u0101",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",

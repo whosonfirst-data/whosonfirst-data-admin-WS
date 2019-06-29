@@ -40,7 +40,7 @@
     "name:dan_x_preferred":[
         "Palauli"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Palauli"
     ],
     "name:ell_x_preferred":[
@@ -54,18 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Palauli"
-    ],
-    "name:fre_x_preferred":[
-        "Palauli"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10da\u10d0\u10e3\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Palauli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03ac\u03bf\u03c5\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ab2\u0acb\u0ab2\u0ac0"
@@ -106,11 +94,11 @@
     "name:mar_x_preferred":[
         "\u092a\u0932\u093e\u090a\u0932\u0940"
     ],
-    "name:may_x_preferred":[
-        "Palauli"
-    ],
     "name:mrj_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Palauli"
     ],
     "name:nld_x_preferred":[
         "Palauli"
@@ -134,9 +122,6 @@
         "\u0db4\u0dbd\u0dde\u0dbd\u0dd3"
     ],
     "name:slk_x_preferred":[
-        "Palauli"
-    ],
-    "name:slo_x_preferred":[
         "Palauli"
     ],
     "name:smo_x_preferred":[
@@ -295,7 +280,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550602,
+    "wof:lastmodified":1561830544,
     "wof:name":"Palauli",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

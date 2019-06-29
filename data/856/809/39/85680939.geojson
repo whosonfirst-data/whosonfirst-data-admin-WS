@@ -34,13 +34,10 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0438\u0444\u043e\u043c\u0430\u0443\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u84cb\u798f\u6bdb\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Gaga'ifomauga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gaga'ifomauga"
     ],
     "name:ell_x_preferred":[
@@ -54,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Gaga'ifomauga"
-    ],
-    "name:fre_x_preferred":[
-        "Gaga'ifomauga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10d2\u10d0\u10d8\u10e4\u10dd\u10db\u10d0\u10e3\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gaga'ifomauga"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03b3\u03ba\u03ac\u03b9\u03c6\u03bf\u03bc\u03b1\u03bf\u03c5\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a97\u0abe'\u0a88\u0aab\u0acb\u0aae\u0abe\u0a89\u0a97\u0abe"
@@ -106,11 +91,11 @@
     "name:mar_x_preferred":[
         "\u0917\u093e\u0917\u093e'\u092b\u094b\u092e\u093e\u0917\u093e"
     ],
-    "name:may_x_preferred":[
-        "Gaga'ifomauga"
-    ],
     "name:mrj_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0438\u0444\u043e\u043c\u0430\u0443\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gaga'ifomauga"
     ],
     "name:nld_x_preferred":[
         "Gaga'ifomauga"
@@ -134,9 +119,6 @@
         "\u0d9c\u0d9c\u0dcf\u0d89\u0dc6\u0ddc\u0db8\u0d8b\u0d9c\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Gaga\u2019ifomauga"
-    ],
-    "name:slo_x_preferred":[
         "Gaga\u2019ifomauga"
     ],
     "name:spa_x_preferred":[
@@ -168,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Gaga'ifomauga"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u84cb\u798f\u6bdb\u52a0"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"WSM",
@@ -292,7 +277,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550601,
+    "wof:lastmodified":1561830544,
     "wof:name":"Gaga'ifomauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
