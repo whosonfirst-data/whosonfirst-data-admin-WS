@@ -13,17 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Samamea"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bc\u03b1\u03bc\u03ad\u03b1"
     ],
     "name:eng_x_preferred":[
         "Samamea"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03b1\u03bc\u03ad\u03b1"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30de\u30a8\u30a2"
@@ -82,7 +76,7 @@
         }
     ],
     "wof:id":421176637,
-    "wof:lastmodified":1527726476,
+    "wof:lastmodified":1561830546,
     "wof:name":"Samamea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

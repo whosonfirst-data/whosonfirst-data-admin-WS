@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Salelologa"
     ],
-    "name:dut_x_preferred":[
-        "Salelologa"
-    ],
     "name:eng_x_preferred":[
         "Salelologa"
     ],
     "name:fra_x_preferred":[
-        "Salelologa"
-    ],
-    "name:fre_x_preferred":[
-        "Salelologa"
-    ],
-    "name:ger_x_preferred":[
         "Salelologa"
     ],
     "name:heb_x_preferred":[
@@ -40,13 +31,13 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30ec\u30ed\u30ed\u30ac"
     ],
+    "name:nld_x_preferred":[
+        "Salelologa"
+    ],
     "name:pol_x_preferred":[
         "Salelologa"
     ],
     "name:slk_x_preferred":[
-        "Salelologa"
-    ],
-    "name:slo_x_preferred":[
         "Salelologa"
     ],
     "name:smo_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421196919,
-    "wof:lastmodified":1527716369,
+    "wof:lastmodified":1561830546,
     "wof:name":"Salelologa",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

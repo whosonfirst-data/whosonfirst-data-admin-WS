@@ -18,13 +18,13 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0435\u0430\u043f\u0443\u043d\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Faleapuna"
-    ],
     "name:eng_x_preferred":[
         "Faleapuna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Faleapuna"
+    ],
+    "name:nld_x_preferred":[
         "Faleapuna"
     ],
     "name:unk_x_variant":[
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":890452847,
-    "wof:lastmodified":1527734187,
+    "wof:lastmodified":1561830546,
     "wof:name":"Faleapuna",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

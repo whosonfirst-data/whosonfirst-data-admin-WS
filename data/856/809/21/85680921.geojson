@@ -31,13 +31,10 @@
     "name:ben_x_preferred":[
         "\u0986\u0987\u0997\u09be-\u0987-\u09b2\u09c7-\u09a4\u09be\u0987"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u52a0\u4f0a\u52d2\u6cf0"
-    ],
     "name:dan_x_preferred":[
         "Aiga-i-le-Tai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aiga-i-le-Tai"
     ],
     "name:ell_x_preferred":[
@@ -54,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Aiga-i-le-Tai"
-    ],
-    "name:fre_x_preferred":[
-        "Aiga-i-le-Tai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10d2\u10d0-\u10d8-\u10da\u10d4-\u10e2\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Aiga-i-le-Tai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03b3\u03ba\u03b1-\u03b9-\u03bb\u03b5-\u03a4\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0a87\u0a97-\u0a86\u0a87-\u0ab2\u0ac7-\u0aa4\u0abe\u0a87"
@@ -109,11 +94,11 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u0917-\u0906\u092f-\u0932\u0947-\u0924\u093e\u0908"
     ],
-    "name:may_x_preferred":[
-        "Aiga-i-le-Tai"
-    ],
     "name:mrj_x_preferred":[
         "\u0410\u0438\u0433\u0430-\u0438-\u043b\u0435-\u0422\u0430\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Aiga-i-le-Tai"
     ],
     "name:nld_x_preferred":[
         "Aiga-i-le-Tai"
@@ -123,9 +108,6 @@
     ],
     "name:nor_x_preferred":[
         "Aiga-i-le-Tai"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u06af\u0627-\u0627\u06cc-\u0644\u0648-\u062a\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Aiga-i-le-Tai"
@@ -140,9 +122,6 @@
         "\u0d85\u0dba\u0dd2\u0d9c\u0dcf-\u0d89-\u0dbd\u0dd9-\u0da7\u0dba\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Aiga-i-le-Tai"
-    ],
-    "name:slo_x_preferred":[
         "Aiga-i-le-Tai"
     ],
     "name:spa_x_preferred":[
@@ -301,7 +280,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550601,
+    "wof:lastmodified":1561830544,
     "wof:name":"Aiga-i-le-Tai",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

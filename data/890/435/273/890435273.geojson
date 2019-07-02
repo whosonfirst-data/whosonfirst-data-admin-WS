@@ -15,10 +15,10 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sasina"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sasina"
     ],
     "name:pol_x_preferred":[
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":890435273,
-    "wof:lastmodified":1527793045,
+    "wof:lastmodified":1561830548,
     "wof:name":"Sasina",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

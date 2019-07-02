@@ -18,13 +18,13 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0435\u043b\u0438\u043c\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Falelima"
-    ],
     "name:eng_x_preferred":[
         "Falelima"
     ],
     "name:lat_x_preferred":[
+        "Falelima"
+    ],
+    "name:nld_x_preferred":[
         "Falelima"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890452851,
-    "wof:lastmodified":1527734185,
+    "wof:lastmodified":1561830546,
     "wof:name":"Falelima",
     "wof:parent_id":85680943,
     "wof:placetype":"locality",
