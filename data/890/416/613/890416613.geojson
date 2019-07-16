@@ -15,7 +15,13 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "A'opo"
+    ],
     "name:eng_x_preferred":[
+        "Aopo"
+    ],
+    "name:haw_x_preferred":[
         "Aopo"
     ],
     "name:mrj_x_preferred":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890416613,
-    "wof:lastmodified":1561830547,
+    "wof:lastmodified":1563289075,
     "wof:name":"A\u2019opo",
     "wof:parent_id":85680939,
     "wof:placetype":"locality",

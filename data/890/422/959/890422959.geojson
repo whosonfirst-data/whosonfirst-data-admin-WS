@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0423\u0430\u0444\u0430\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Uafato"
+    ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03b1\u03c6\u03ac\u03c4\u03bf"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890422959,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289059,
     "wof:name":"Uafato",
     "wof:parent_id":85680931,
     "wof:placetype":"locality",

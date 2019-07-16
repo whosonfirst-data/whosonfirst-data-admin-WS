@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0443\u043b\u0443\u043c\u043e\u0435\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Leulumoega"
+    ],
     "name:deu_x_preferred":[
         "Leulumoega"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890433375,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1563289081,
     "wof:name":"Leulumoega",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

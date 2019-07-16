@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u0997\u09be'\u098f\u09ae\u0997\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Gaga\u2018emauga"
+    ],
     "name:dan_x_preferred":[
         "Gaga'emauga"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:eng_x_preferred":[
         "Gaga`emauga"
+    ],
+    "name:eng_x_variant":[
+        "Gaga'emauga"
+    ],
+    "name:eus_x_preferred":[
+        "Gaga'emauga"
     ],
     "name:fin_x_preferred":[
         "Gaga'emauga"
@@ -276,7 +285,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1561830544,
+    "wof:lastmodified":1563289030,
     "wof:name":"Gaga'emauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

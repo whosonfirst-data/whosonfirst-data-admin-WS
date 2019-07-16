@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u043e\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Letogo"
+    ],
     "name:eng_x_preferred":[
         "Letogo"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890422999,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289057,
     "wof:name":"Letogo",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

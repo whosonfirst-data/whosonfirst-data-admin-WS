@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0438\u0443\u0441\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Vaiusu"
+    ],
     "name:eng_x_preferred":[
         "Vaiusu"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890436767,
-    "wof:lastmodified":1561830547,
+    "wof:lastmodified":1563289069,
     "wof:name":"Vaiusu",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

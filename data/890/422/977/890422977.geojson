@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0443\u0442\u0430\u0441\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Poutasi"
+    ],
     "name:eng_x_preferred":[
         "Poutasi"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890422977,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289057,
     "wof:name":"Poutasi",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

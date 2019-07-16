@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0442\u0430\u0438\u0432\u0430\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Gataivai"
+    ],
     "name:eng_x_preferred":[
         "Gataivai"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890442005,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1563289081,
     "wof:name":"Gataivai",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

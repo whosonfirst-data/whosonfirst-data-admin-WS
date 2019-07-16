@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0432\u0430\u0438\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Savaia"
+    ],
     "name:eng_x_preferred":[
         "Savaia"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890435213,
-    "wof:lastmodified":1561830549,
+    "wof:lastmodified":1563289089,
     "wof:name":"Savaia",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

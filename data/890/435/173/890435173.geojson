@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0444\u0438\u0442\u043e\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tafitoala"
+    ],
     "name:eng_x_preferred":[
         "Tafitoala"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890435173,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1563289086,
     "wof:name":"Tafitoala",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",
