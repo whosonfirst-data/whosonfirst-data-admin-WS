@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u0430\u043c\u0435\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Patamea"
+    ],
     "name:eng_x_preferred":[
         "Patamea"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890422981,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289062,
     "wof:name":"Patamea",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

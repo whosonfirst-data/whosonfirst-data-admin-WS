@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0438\u043f\u0438\u043f\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Saipipi"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03ca\u03c0\u03af\u03c0\u03b9"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890422967,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289060,
     "wof:name":"Saipipi",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

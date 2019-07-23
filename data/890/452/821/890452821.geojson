@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0441\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Manase"
+    ],
     "name:eng_x_preferred":[
         "Manase"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890452821,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289063,
     "wof:name":"Manase",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

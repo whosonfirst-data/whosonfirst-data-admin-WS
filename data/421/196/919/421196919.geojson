@@ -31,6 +31,12 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30ec\u30ed\u30ed\u30ac"
     ],
+    "name:lit_x_preferred":[
+        "Salelologa"
+    ],
+    "name:mri_x_preferred":[
+        "Salelologa"
+    ],
     "name:nld_x_preferred":[
         "Salelologa"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421196919,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289055,
     "wof:name":"Salelologa",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

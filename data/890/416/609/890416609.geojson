@@ -57,6 +57,9 @@
     "name:cdo_x_preferred":[
         "Apia"
     ],
+    "name:ceb_x_preferred":[
+        "Apia"
+    ],
     "name:ces_x_preferred":[
         "Apia"
     ],
@@ -111,6 +114,9 @@
     "name:glg_x_preferred":[
         "Apia"
     ],
+    "name:grn_x_preferred":[
+        "Apia"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaa\u0abf\u0aaf\u0abe"
     ],
@@ -128,6 +134,9 @@
     ],
     "name:hif_x_preferred":[
         "Apia"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u092a\u093f\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "Apia"
@@ -177,6 +186,9 @@
     "name:lav_x_preferred":[
         "Apija"
     ],
+    "name:lfn_x_preferred":[
+        "Apia"
+    ],
     "name:lij_x_preferred":[
         "Apia"
     ],
@@ -209,6 +221,9 @@
     ],
     "name:msa_x_preferred":[
         "Apia"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1015\u102e\u101a\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Apia"
@@ -289,6 +304,9 @@
         "Apia"
     ],
     "name:swe_x_preferred":[
+        "Apia"
+    ],
+    "name:szl_x_preferred":[
         "Apia"
     ],
     "name:tah_x_preferred":[
@@ -383,7 +401,7 @@
         }
     ],
     "wof:id":890416609,
-    "wof:lastmodified":1561830547,
+    "wof:lastmodified":1563289077,
     "wof:name":"Apia",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

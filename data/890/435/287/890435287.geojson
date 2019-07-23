@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0442\u0430\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Samatau"
+    ],
     "name:eng_x_preferred":[
         "Samatau"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890435287,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1563289084,
     "wof:name":"Samatau",
     "wof:parent_id":85680921,
     "wof:placetype":"locality",

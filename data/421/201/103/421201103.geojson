@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Taga"
+    ],
     "name:eng_x_preferred":[
         "Taga"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421201103,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289056,
     "wof:name":"Taga",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0438\u0441\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Vaisala"
+    ],
     "name:eng_x_preferred":[
         "Vaisala"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890435113,
-    "wof:lastmodified":1561830549,
+    "wof:lastmodified":1563289091,
     "wof:name":"Vaisala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0443\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Auala"
+    ],
     "name:eng_x_preferred":[
         "Auala"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125785129,
-    "wof:lastmodified":1561830549,
+    "wof:lastmodified":1563289095,
     "wof:name":"Auala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

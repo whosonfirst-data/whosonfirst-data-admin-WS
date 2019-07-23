@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09a4\u09c1\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Atua"
+    ],
     "name:dan_x_preferred":[
         "Atua"
     ],
@@ -41,6 +44,9 @@
         "\u0386\u03c4\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Atua"
+    ],
+    "name:eus_x_preferred":[
         "Atua"
     ],
     "name:fin_x_preferred":[
@@ -267,7 +273,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1561830544,
+    "wof:lastmodified":1563289033,
     "wof:name":"Atua",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

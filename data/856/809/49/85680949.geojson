@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a4\u09c1\u09cb\u09aa\u09be\u0987\u09a4\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Satupa\u2018itea"
+    ],
     "name:dan_x_preferred":[
         "Satupa'itea"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:eng_x_preferred":[
         "Satupa`itea"
+    ],
+    "name:eng_x_variant":[
+        "Satupa'itea"
+    ],
+    "name:eus_x_preferred":[
+        "Satupa'itea"
     ],
     "name:fin_x_preferred":[
         "Satupa'itea"
@@ -147,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Satupa'itea"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u56fe\u5e15\u4f0a\u6cf0\u963f"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"WSM",
@@ -273,7 +285,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1561830544,
+    "wof:lastmodified":1563289032,
     "wof:name":"Satupa'itea",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

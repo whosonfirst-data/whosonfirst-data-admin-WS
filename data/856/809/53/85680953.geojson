@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Palauli"
+    ],
     "name:dan_x_preferred":[
         "Palauli"
     ],
@@ -47,6 +50,9 @@
         "\u03a0\u03b1\u03bb\u03ac\u03bf\u03c5\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Palauli"
+    ],
+    "name:eus_x_preferred":[
         "Palauli"
     ],
     "name:fin_x_preferred":[
@@ -156,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "Palauli"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u52b3\u5229"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"WSM",
@@ -280,7 +289,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1561830544,
+    "wof:lastmodified":1563289030,
     "wof:name":"Palauli",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

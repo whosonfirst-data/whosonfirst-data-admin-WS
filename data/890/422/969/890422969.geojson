@@ -15,6 +15,120 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Saina"
+    ],
+    "name:arg_x_preferred":[
+        "Saina"
+    ],
+    "name:ast_x_preferred":[
+        "Saina"
+    ],
+    "name:aze_x_preferred":[
+        "Saina"
+    ],
+    "name:cat_x_preferred":[
+        "Saina"
+    ],
+    "name:ces_x_preferred":[
+        "Saina"
+    ],
+    "name:cym_x_preferred":[
+        "Saina"
+    ],
+    "name:dan_x_preferred":[
+        "Saina"
+    ],
+    "name:deu_x_preferred":[
+        "Saina"
+    ],
+    "name:eng_x_preferred":[
+        "Saina"
+    ],
+    "name:epo_x_preferred":[
+        "Saina"
+    ],
+    "name:est_x_preferred":[
+        "Saina"
+    ],
+    "name:eus_x_preferred":[
+        "Saina"
+    ],
+    "name:fas_x_preferred":[
+        "Saina"
+    ],
+    "name:fin_x_preferred":[
+        "Saina"
+    ],
+    "name:fra_x_preferred":[
+        "Saina"
+    ],
+    "name:gle_x_preferred":[
+        "Saina"
+    ],
+    "name:hun_x_preferred":[
+        "Saina"
+    ],
+    "name:ind_x_preferred":[
+        "Saina"
+    ],
+    "name:isl_x_preferred":[
+        "Saina"
+    ],
+    "name:ita_x_preferred":[
+        "Saina"
+    ],
+    "name:lav_x_preferred":[
+        "Saina"
+    ],
+    "name:ltz_x_preferred":[
+        "Saina"
+    ],
+    "name:nld_x_preferred":[
+        "Saina"
+    ],
+    "name:nno_x_preferred":[
+        "Saina"
+    ],
+    "name:nob_x_preferred":[
+        "Saina"
+    ],
+    "name:oci_x_preferred":[
+        "Saina"
+    ],
+    "name:pol_x_preferred":[
+        "Saina"
+    ],
+    "name:por_x_preferred":[
+        "Saina"
+    ],
+    "name:roh_x_preferred":[
+        "Saina"
+    ],
+    "name:ron_x_preferred":[
+        "Saina"
+    ],
+    "name:sco_x_preferred":[
+        "Saina"
+    ],
+    "name:slk_x_preferred":[
+        "Saina"
+    ],
+    "name:slv_x_preferred":[
+        "Saina"
+    ],
+    "name:spa_x_preferred":[
+        "Saina"
+    ],
+    "name:swe_x_preferred":[
+        "Saina"
+    ],
+    "name:tur_x_preferred":[
+        "Saina"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5a1c"
+    ],
     "qs:name":"Saina",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -46,7 +160,7 @@
         }
     ],
     "wof:id":890422969,
-    "wof:lastmodified":1527727162,
+    "wof:lastmodified":1563289060,
     "wof:name":"Saina",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

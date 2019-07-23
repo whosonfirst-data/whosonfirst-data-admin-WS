@@ -15,8 +15,14 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lotofaga"
+    ],
     "name:eng_x_preferred":[
         "Lotofaga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062a\u0648\u0641\u0627\u06af\u0627"
     ],
     "name:nld_x_preferred":[
         "Lotofaga"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890436885,
-    "wof:lastmodified":1561830547,
+    "wof:lastmodified":1563289070,
     "wof:name":"Lotofag\u0101",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

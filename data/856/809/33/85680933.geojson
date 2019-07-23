@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ab\u09be'\u0986\u09b8\u09be\u09b2\u09c7\u09b2\u09bf\u0997\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Fa\u2018asaleleaga"
+    ],
     "name:dan_x_preferred":[
         "Fa'asaleleaga"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:eng_x_preferred":[
         "Fa`asaleleaga"
+    ],
+    "name:eng_x_variant":[
+        "Fa'asaleleaga"
+    ],
+    "name:eus_x_preferred":[
+        "Fa'asaleleaga"
     ],
     "name:fin_x_preferred":[
         "Fa\u2019asaleleaga"
@@ -75,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud30c\uc0b4\ub810\ub808\uc544\uac00 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud30c\uc544\uc0b4\ub810\ub808\uc544\uac00 \uad6c"
     ],
     "name:lat_x_preferred":[
         "Faasaleleaga"
@@ -274,7 +286,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1561830544,
+    "wof:lastmodified":1563289026,
     "wof:name":"Fa'asaleleaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

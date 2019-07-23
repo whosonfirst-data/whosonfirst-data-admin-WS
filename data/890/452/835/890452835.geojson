@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043b\u0435\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lelepa"
+    ],
     "name:eng_x_preferred":[
         "Lelepa"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890452835,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289064,
     "wof:name":"Lelepa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -15,6 +15,12 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sa\u2019asa\u2019ai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Lona"
     ],
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":890422989,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289062,
     "wof:name":"Lona",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

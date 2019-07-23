@@ -15,6 +15,9 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sapapali'i"
+    ],
     "name:eng_x_preferred":[
         "Sapapali'i"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890435283,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1563289088,
     "wof:name":"Sapapali\u2019i",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

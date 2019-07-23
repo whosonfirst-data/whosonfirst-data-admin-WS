@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u043b\u0435\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Puleia"
+    ],
     "name:eng_x_preferred":[
         "Puleia"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890422975,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289062,
     "wof:name":"Puleia",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

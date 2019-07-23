@@ -15,6 +15,9 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vaie'e"
+    ],
     "name:eng_x_preferred":[
         "Vaiee"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890435141,
-    "wof:lastmodified":1561830549,
+    "wof:lastmodified":1563289090,
     "wof:name":"Vaie\u2019e",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

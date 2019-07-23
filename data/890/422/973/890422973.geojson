@@ -15,6 +15,9 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sa'asa'ai"
+    ],
     "name:eng_x_preferred":[
         "Sa'asa'ai"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890422973,
-    "wof:lastmodified":1561830546,
+    "wof:lastmodified":1563289061,
     "wof:name":"Sa\u2019asa\u2019ai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
