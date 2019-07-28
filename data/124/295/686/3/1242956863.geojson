@@ -25,6 +25,18 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03ca\u03bb\u03ad\u03bb\u03b5"
+    ],
+    "name:fin_x_preferred":[
+        "Vailele"
+    ],
+    "name:pol_x_preferred":[
+        "Vailele"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u06cc\u0644\u06cc\u0644\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1242956863,
-    "wof:lastmodified":1537576049,
+    "wof:lastmodified":1564329773,
     "wof:name":"Vailele",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

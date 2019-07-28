@@ -25,6 +25,18 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03ca\u03c4\u03ad\u03bb\u03b5"
+    ],
+    "name:fin_x_preferred":[
+        "Vaitele"
+    ],
+    "name:fra_x_preferred":[
+        "Vaitele"
+    ],
+    "name:pol_x_preferred":[
+        "Vaitele"
+    ],
     "name:und_x_variant":[
         "Vaitele Plantation",
         "Vaitele"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1327241719,
-    "wof:lastmodified":1537714752,
+    "wof:lastmodified":1564329730,
     "wof:name":"Vaitele",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

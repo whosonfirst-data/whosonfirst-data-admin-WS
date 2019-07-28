@@ -25,6 +25,9 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Matautu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1259498081,
-    "wof:lastmodified":1536836720,
+    "wof:lastmodified":1564329777,
     "wof:name":"Matautu",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",
