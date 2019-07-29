@@ -15,6 +15,9 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ton_x_preferred":[
+        "Falevai"
+    ],
     "qs:name":"Falevai",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890452843,
-    "wof:lastmodified":1527734184,
+    "wof:lastmodified":1564329763,
     "wof:name":"Falevai",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vailoa"
+    ],
+    "name:deu_x_preferred":[
+        "Vailoa"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0412\u0430\u0438\u043b\u043e\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Vailoa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u06cc\u0644\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[],
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1343377105,
-    "wof:lastmodified":1536865156,
+    "wof:lastmodified":1564329734,
     "wof:name":"Vailoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

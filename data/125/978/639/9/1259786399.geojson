@@ -25,6 +25,15 @@
     "iso:country":"WS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03ac\u03b9"
+    ],
+    "name:haw_x_preferred":[
+        "Apai"
+    ],
+    "name:slk_x_preferred":[
+        "Apai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1259786399,
-    "wof:lastmodified":1537576048,
+    "wof:lastmodified":1564329776,
     "wof:name":"Apai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
