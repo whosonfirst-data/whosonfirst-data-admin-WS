@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GI"
+    ],
     "lbl:latitude":-13.559289,
     "lbl:longitude":-172.50269,
     "mps:latitude":-13.559289,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85680939,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -289,7 +289,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289031,
+    "wof:lastmodified":1565739696,
     "wof:name":"Gaga'ifomauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

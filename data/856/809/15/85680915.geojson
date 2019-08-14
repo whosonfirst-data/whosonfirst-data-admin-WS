@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TU"
+    ],
     "lbl:latitude":-13.94156,
     "lbl:longitude":-171.753167,
     "mps:latitude":-13.94156,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85680915,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -283,7 +283,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289032,
+    "wof:lastmodified":1565739696,
     "wof:name":"Tuamasaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

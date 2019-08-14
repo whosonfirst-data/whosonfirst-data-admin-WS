@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":-14.008748,
     "lbl:longitude":-171.592197,
     "mps:latitude":-14.008748,
@@ -262,9 +265,6 @@
         }
     ],
     "wof:id":85680925,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -273,7 +273,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289033,
+    "wof:lastmodified":1565739696,
     "wof:name":"Atua",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

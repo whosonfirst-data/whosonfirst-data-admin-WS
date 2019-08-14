@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VF"
+    ],
     "lbl:latitude":-13.962932,
     "lbl:longitude":-171.537631,
     "mps:latitude":-13.962932,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85680931,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -283,7 +283,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289029,
+    "wof:lastmodified":1565739696,
     "wof:name":"Va'a-o-Fonoti",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

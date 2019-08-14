@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":-13.717961,
     "lbl:longitude":-172.479535,
     "mps:latitude":-13.717961,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85680953,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -289,7 +289,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289030,
+    "wof:lastmodified":1565739696,
     "wof:name":"Palauli",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

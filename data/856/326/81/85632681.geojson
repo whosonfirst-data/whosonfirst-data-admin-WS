@@ -15,6 +15,9 @@
     "itu:country_code":[
         "685"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WS"
+    ],
     "lbl:latitude":-13.63914,
     "lbl:longitude":-172.438241,
     "mps:latitude":-13.63914,
@@ -866,9 +869,6 @@
         }
     ],
     "wof:id":85632681,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -877,7 +877,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289036,
+    "wof:lastmodified":1565739696,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":-13.639578,
     "lbl:longitude":-172.624976,
     "mps:latitude":-13.639578,
@@ -274,9 +277,6 @@
         }
     ],
     "wof:id":85680949,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -285,7 +285,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289032,
+    "wof:lastmodified":1565739696,
     "wof:name":"Satupa'itea",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

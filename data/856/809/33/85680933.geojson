@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":-13.653962,
     "lbl:longitude":-172.244835,
     "mps:latitude":-13.653962,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85680933,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -286,7 +286,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289026,
+    "wof:lastmodified":1565739695,
     "wof:name":"Fa'asaleleaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

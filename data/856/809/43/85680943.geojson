@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VS"
+    ],
     "lbl:latitude":-13.55928,
     "lbl:longitude":-172.697271,
     "mps:latitude":-13.55928,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85680943,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -283,7 +283,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563289028,
+    "wof:lastmodified":1565739696,
     "wof:name":"Vaisigano",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
