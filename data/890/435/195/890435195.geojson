@@ -11,10 +11,14 @@
     "geom:longitude":-172.37733,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":868,
+    "gn:population":868,
     "iso:country":"WS",
+    "lbl:bbox":"-172.39733,-13.77602,-172.35733,-13.73602",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sili"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":4035029,
         "gp:id":980623,
-        "qs:id":586080,
+        "qs_pg:id":586080,
         "wd:id":"Q3960529",
         "wk:page":"Sili"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890435195,
-    "wof:lastmodified":1563289082,
+    "wof:lastmodified":1566652738,
     "wof:name":"Sili",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

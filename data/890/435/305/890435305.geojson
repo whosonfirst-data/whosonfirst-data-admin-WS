@@ -11,11 +11,15 @@
     "geom:longitude":-171.80234,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":449,
+    "gn:population":449,
     "iso:country":"WS",
+    "lbl:bbox":"-171.82234,-14.02385,-171.78234,-13.98385",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Malivai"
     ],
     "qs:name":"Mulivai",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":4035187,
         "gp:id":12523104,
-        "qs:id":586124
+        "qs_pg:id":586124
     },
     "wof:country":"WS",
     "wof:created":1469052062,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890435305,
-    "wof:lastmodified":1505343546,
+    "wof:lastmodified":1566652741,
     "wof:name":"Mulivai",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

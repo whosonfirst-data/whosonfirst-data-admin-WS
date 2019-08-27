@@ -11,10 +11,14 @@
     "geom:longitude":-171.67763,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":854,
+    "gn:population":854,
     "iso:country":"WS",
+    "lbl:bbox":"-171.69763,-14.05831,-171.65763,-14.01831",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Matautu"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":4035213,
         "gp:id":980794,
-        "qs:id":586126,
+        "qs_pg:id":586126,
         "wd:id":"Q6786167",
         "wk:page":"Matautu"
     },
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890435307,
-    "wof:lastmodified":1563289082,
+    "wof:lastmodified":1566652738,
     "wof:name":"Matautu",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

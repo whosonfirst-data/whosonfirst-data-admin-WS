@@ -11,10 +11,14 @@
     "geom:longitude":-171.96025,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":314,
+    "gn:population":314,
     "iso:country":"WS",
+    "lbl:bbox":"-171.98025,-13.96818,-171.94025,-13.92818",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tafagamanu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035004,
         "gp:id":980595,
-        "qs:id":586075
+        "qs_pg:id":586075
     },
     "wof:country":"WS",
     "wof:created":1469052057,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890435175,
-    "wof:lastmodified":1505343546,
+    "wof:lastmodified":1566652740,
     "wof:name":"Tafagamanu",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

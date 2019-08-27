@@ -11,10 +11,14 @@
     "geom:longitude":-171.62163,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":81,
+    "gn:population":81,
     "iso:country":"WS",
+    "lbl:bbox":"-171.64163,-13.94492,-171.60163,-13.90492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sauniatu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035038,
         "gp:id":980794,
-        "qs:id":586082
+        "qs_pg:id":586082
     },
     "wof:country":"WS",
     "wof:created":1469052059,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890435217,
-    "wof:lastmodified":1505343546,
+    "wof:lastmodified":1566652740,
     "wof:name":"Sauniatu",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",

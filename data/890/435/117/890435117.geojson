@@ -11,10 +11,14 @@
     "geom:longitude":-172.63375,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":417,
+    "gn:population":417,
     "iso:country":"WS",
+    "lbl:bbox":"-172.65375,-13.69783,-172.61375,-13.65783",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vaipua"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":4034913,
         "gp:id":56618695,
-        "qs:id":586051,
+        "qs_pg:id":586051,
         "wd:id":"Q7908824"
     },
     "wof:country":"WS",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890435117,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1566652741,
     "wof:name":"Vaipu\u2019a",
     "wof:parent_id":85680949,
     "wof:placetype":"locality",

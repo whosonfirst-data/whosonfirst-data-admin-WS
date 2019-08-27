@@ -11,10 +11,14 @@
     "geom:longitude":-171.54855,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":383,
+    "gn:population":383,
     "iso:country":"WS",
+    "lbl:bbox":"-171.56855,-14.06268,-171.52855,-14.02268",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0432\u0430\u0443"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4034896,
         "gp:id":980751,
-        "qs:id":97100,
+        "qs_pg:id":97100,
         "wd:id":"Q7917489",
         "wk:page":"Vava\u02bbu"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890429403,
-    "wof:lastmodified":1563289072,
+    "wof:lastmodified":1566652732,
     "wof:name":"Vavau",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",

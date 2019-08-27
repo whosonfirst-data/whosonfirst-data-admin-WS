@@ -11,10 +11,14 @@
     "geom:longitude":-171.6544,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":224,
+    "gn:population":224,
     "iso:country":"WS",
+    "lbl:bbox":"-171.6744,-14.05147,-171.6344,-14.01147",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tafatafa",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035003,
         "gp:id":980794,
-        "qs:id":586074
+        "qs_pg:id":586074
     },
     "wof:country":"WS",
     "wof:created":1469051340,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890420457,
-    "wof:lastmodified":1505343457,
+    "wof:lastmodified":1566652736,
     "wof:name":"Tafatafa",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

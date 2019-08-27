@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-13.889002,
     "lbl:longitude":-172.038788,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-13.889002,
     "mps:longitude":-172.038788,
     "mz:hierarchy_label":1,
@@ -157,7 +158,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0457\u0433\u0430-\u0456-\u043b\u0435-\u0422\u0430\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aigoiletai"
     ],
     "name:urd_x_preferred":[
@@ -238,9 +239,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-06",
+    "src:population_date":"2006-11-06",
     "statoids:area_km":"27",
     "statoids:area_mi":"10",
     "statoids:as_of_date":"2006-11-06",
@@ -266,7 +267,7 @@
         "gp:id":20070341,
         "hasc:id":"WS.AL",
         "iso:id":"WS-AL",
-        "qs:id":49500,
+        "qs_pg:id":49500,
         "unlc:id":"WS-AL",
         "wd:id":"Q1144488",
         "wk:page":"Aiga-i-le-Tai"
@@ -289,11 +290,10 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1565739696,
+    "wof:lastmodified":1566652704,
     "wof:name":"Aiga-i-le-Tai",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":4857,
     "wof:population_rank":4,

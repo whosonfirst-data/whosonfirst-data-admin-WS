@@ -11,10 +11,14 @@
     "geom:longitude":-171.83096,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":497,
+    "gn:population":497,
     "iso:country":"WS",
+    "lbl:bbox":"-171.85096,-14.00811,-171.81096,-13.96811",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vaie'e"
     ],
@@ -24,7 +28,7 @@
     "name:nld_x_preferred":[
         "Vaiee"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vaiyee\u2019 Itai"
     ],
     "qs:name":"Vaie\u2019e",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4034930,
         "gp:id":12523104,
-        "qs:id":586054,
+        "qs_pg:id":586054,
         "wd:id":"Q7908719",
         "wk:page":"Vaiee"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890435141,
-    "wof:lastmodified":1563289090,
+    "wof:lastmodified":1566652743,
     "wof:name":"Vaie\u2019e",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

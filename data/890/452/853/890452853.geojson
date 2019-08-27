@@ -11,10 +11,14 @@
     "geom:longitude":-171.97895,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":847,
+    "gn:population":847,
     "iso:country":"WS",
+    "lbl:bbox":"-171.99895,-13.84885,-171.95895,-13.80885",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Faleatiu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035359,
         "gp:id":980689,
-        "qs:id":586161
+        "qs_pg:id":586161
     },
     "wof:country":"WS",
     "wof:created":1469052832,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890452853,
-    "wof:lastmodified":1505343648,
+    "wof:lastmodified":1566652728,
     "wof:name":"Faleatiu",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

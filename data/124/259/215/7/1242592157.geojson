@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-172.49351,-13.80465,-172.45351,-13.76465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242592157,
-    "wof:lastmodified":1537040872,
+    "wof:lastmodified":1566652748,
     "wof:name":"Nuu",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

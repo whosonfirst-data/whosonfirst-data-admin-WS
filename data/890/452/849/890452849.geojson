@@ -11,10 +11,14 @@
     "geom:longitude":-172.01499,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"WS",
+    "lbl:bbox":"-172.03499,-13.84746,-171.99499,-13.80746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Faleolo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":4035350,
         "gp:id":12523066,
-        "qs:id":586159
+        "qs_pg:id":586159
     },
     "wof:country":"WS",
     "wof:created":1469052832,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890452849,
-    "wof:lastmodified":1505343648,
+    "wof:lastmodified":1566652728,
     "wof:name":"Faleolo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

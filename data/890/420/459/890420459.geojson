@@ -11,10 +11,14 @@
     "geom:longitude":-171.56961,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":183,
+    "gn:population":183,
     "iso:country":"WS",
+    "lbl:bbox":"-171.58961,-13.96284,-171.54961,-13.92284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Taelefaga",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035007,
         "gp:id":980794,
-        "qs:id":586076
+        "qs_pg:id":586076
     },
     "wof:country":"WS",
     "wof:created":1469051340,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890420459,
-    "wof:lastmodified":1505343457,
+    "wof:lastmodified":1566652736,
     "wof:name":"Taelefaga",
     "wof:parent_id":85680931,
     "wof:placetype":"locality",

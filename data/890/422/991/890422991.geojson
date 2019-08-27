@@ -11,10 +11,14 @@
     "geom:longitude":-172.01095,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":989,
+    "gn:population":989,
     "iso:country":"WS",
+    "lbl:bbox":"-172.03095,-13.93361,-171.99095,-13.89361",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Lev\u012b",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035255,
         "gp:id":980595,
-        "qs:id":586139
+        "qs_pg:id":586139
     },
     "wof:country":"WS",
     "wof:created":1469051475,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890422991,
-    "wof:lastmodified":1505343473,
+    "wof:lastmodified":1566652724,
     "wof:name":"Lev\u012b",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

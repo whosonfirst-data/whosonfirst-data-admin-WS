@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-172.24223,-13.78891,-172.20223,-13.74891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259997839,
-    "wof:lastmodified":1536611948,
+    "wof:lastmodified":1566652751,
     "wof:name":"Salalologa New Township",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

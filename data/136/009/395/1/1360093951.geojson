@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-172.12503,-13.86549,-172.08503,-13.82549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bb\u03bf\u03c5\u03b1"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360093951,
-    "wof:lastmodified":1564329757,
+    "wof:lastmodified":1566652721,
     "wof:name":"Salua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

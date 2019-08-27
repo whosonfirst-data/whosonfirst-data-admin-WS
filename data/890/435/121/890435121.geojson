@@ -11,10 +11,14 @@
     "geom:longitude":-172.36897,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":171,
+    "gn:population":171,
     "iso:country":"WS",
+    "lbl:bbox":"-172.38897,-13.4857,-172.34897,-13.4457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Vaipouli",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4034914,
         "gp:id":980856,
-        "qs:id":586052
+        "qs_pg:id":586052
     },
     "wof:country":"WS",
     "wof:created":1469052055,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890435121,
-    "wof:lastmodified":1505343545,
+    "wof:lastmodified":1566652741,
     "wof:name":"Vaipouli",
     "wof:parent_id":85680939,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-171.83849,-13.82318,-171.79849,-13.78318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pui Pau",
         "Puipa\u2019a"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293117011,
-    "wof:lastmodified":1537714753,
+    "wof:lastmodified":1566652710,
     "wof:name":"Puipa'a",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

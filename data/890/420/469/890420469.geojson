@@ -11,10 +11,14 @@
     "geom:longitude":-172.0411,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":150,
+    "gn:population":150,
     "iso:country":"WS",
+    "lbl:bbox":"-172.0611,-13.85758,-172.0211,-13.81758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "\u200eSamea\u200e"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":4035073,
         "gp:id":12523066,
-        "qs:id":586095,
+        "qs_pg:id":586095,
         "wd:id":"Q7409229",
         "wk:page":"Samea"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890420469,
-    "wof:lastmodified":1563289079,
+    "wof:lastmodified":1566652736,
     "wof:name":"Samea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

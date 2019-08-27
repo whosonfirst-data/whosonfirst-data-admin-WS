@@ -9,15 +9,18 @@
     "geom:bbox":"-171.94063,-13.81163,-171.94063,-13.81163",
     "geom:latitude":-13.81163,
     "geom:longitude":-171.94063,
-    "gn:gn_country":"WS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2098,
+    "gn:country":"WS",
+    "gn:fcode":"PPL",
     "gn:population":2098,
     "iso:country":"WS",
+    "lbl:bbox":"-171.96063,-13.83163,-171.92063,-13.79163",
     "lbl:latitude":-13.81163,
     "lbl:longitude":-171.94063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Fasito'o Uta"
@@ -28,7 +31,7 @@
     "name:pol_x_preferred":[
         "Fasitoouta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fasitouta"
     ],
     "qs_pg:aaroncc":"WS",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":151499,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125964865,
-    "wof:lastmodified":1561830549,
+    "wof:lastmodified":1566652746,
     "wof:name":"Fasito\u2018outa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

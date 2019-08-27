@@ -11,10 +11,14 @@
     "geom:longitude":-172.36797,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":275,
+    "gn:population":275,
     "iso:country":"WS",
+    "lbl:bbox":"-172.38797,-13.4695,-172.34797,-13.4295",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Saleia"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":4035097,
         "gp:id":980856,
-        "qs:id":97105,
+        "qs_pg:id":97105,
         "wd:id":"Q7403987"
     },
     "wof:country":"WS",
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890429415,
-    "wof:lastmodified":1561830547,
+    "wof:lastmodified":1566652731,
     "wof:name":"Salei\u2019a",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

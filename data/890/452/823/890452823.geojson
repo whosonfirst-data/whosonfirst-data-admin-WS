@@ -11,10 +11,14 @@
     "geom:longitude":-171.9027,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":371,
+    "gn:population":371,
     "iso:country":"WS",
+    "lbl:bbox":"-171.9227,-13.81909,-171.8827,-13.77909",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malua"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":4035234,
         "gp:id":980858,
-        "qs:id":586135,
+        "qs_pg:id":586135,
         "wd:id":"Q6744944",
         "wk:page":"Malua"
     },
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890452823,
-    "wof:lastmodified":1563289065,
+    "wof:lastmodified":1566652728,
     "wof:name":"Malua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

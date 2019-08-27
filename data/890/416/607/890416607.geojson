@@ -11,10 +11,14 @@
     "geom:longitude":-172.20383,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":337,
+    "gn:population":337,
     "iso:country":"WS",
+    "lbl:bbox":"-172.22383,-13.62454,-172.18383,-13.58454",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Asaga"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":4035407,
         "gp:id":980723,
-        "qs:id":586173,
+        "qs_pg:id":586173,
         "wd:id":"Q16038070",
         "wk:page":"Asaga"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890416607,
-    "wof:lastmodified":1563289076,
+    "wof:lastmodified":1566652734,
     "wof:name":"Asaga",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

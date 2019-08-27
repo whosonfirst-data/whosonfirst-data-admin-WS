@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-171.76491,-13.87642,-171.72491,-13.83642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293696967,
-    "wof:lastmodified":1536981589,
+    "wof:lastmodified":1566652709,
     "wof:name":"Vaivase-uta",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

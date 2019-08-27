@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-171.88158,-13.81956,-171.84158,-13.77956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Tuana\u02bbi"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1225962635,
-    "wof:lastmodified":1564329781,
+    "wof:lastmodified":1566652756,
     "wof:name":"Tuana`i",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

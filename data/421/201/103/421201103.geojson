@@ -10,8 +10,12 @@
     "geom:latitude":-13.794,
     "geom:longitude":-172.5111,
     "iso:country":"WS",
+    "lbl:bbox":"-172.5311,-13.814,-172.4911,-13.774",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taga"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":4034998,
         "gp:id":980801,
-        "qs:id":911217,
+        "qs_pg:id":911217,
         "wd:id":"Q7675114",
         "wk:page":"Taga, Samoa"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421201103,
-    "wof:lastmodified":1563289056,
+    "wof:lastmodified":1566652724,
     "wof:name":"Taga",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

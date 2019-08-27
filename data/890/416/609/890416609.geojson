@@ -11,13 +11,16 @@
     "geom:longitude":-171.761331,
     "gn:country":"WS",
     "gn:fcode":"PPLC",
-    "gn:pop":40407,
+    "gn:population":40407,
     "iso:country":"WS",
     "lbl:latitude":-13.83333,
     "lbl:longitude":-171.76666,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Apia"
     ],
@@ -384,10 +387,12 @@
     "wof:concordances":{
         "gn:id":4035413,
         "gp:id":980858,
-        "qs:id":586174,
-        "qs_pg:id":1115594,
+        "qs_pg:id":586174,
         "wd:id":"Q36260",
         "wk:page":"Apia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115594
     },
     "wof:country":"WS",
     "wof:created":1469051144,
@@ -401,7 +406,7 @@
         }
     ],
     "wof:id":890416609,
-    "wof:lastmodified":1563289077,
+    "wof:lastmodified":1566652734,
     "wof:name":"Apia",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

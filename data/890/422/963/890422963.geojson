@@ -11,11 +11,15 @@
     "geom:longitude":-171.42559,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":544,
+    "gn:population":544,
     "iso:country":"WS",
+    "lbl:bbox":"-171.44559,-14.02873,-171.40559,-13.98873",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Saleaumua"
     ],
     "qs:name":"Sale\u2019a\u2019aumua",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":4035105,
         "gp:id":980751,
-        "qs:id":586105
+        "qs_pg:id":586105
     },
     "wof:country":"WS",
     "wof:created":1469051474,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890422963,
-    "wof:lastmodified":1505343472,
+    "wof:lastmodified":1566652724,
     "wof:name":"Sale\u2019a\u2019aumua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
