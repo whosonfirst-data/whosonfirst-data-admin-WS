@@ -11,10 +11,14 @@
     "geom:longitude":-171.88277,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":125,
+    "gn:population":125,
     "iso:country":"WS",
+    "lbl:bbox":"-171.90277,-13.81766,-171.86277,-13.77766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0648\u064a"
     ],
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":4035256,
         "gp:id":980858,
-        "qs:id":586140,
+        "qs_pg:id":586140,
         "wk:page":"Levi"
     },
     "wof:country":"WS",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":890422993,
-    "wof:lastmodified":1564329761,
+    "wof:lastmodified":1566652726,
     "wof:name":"Levi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

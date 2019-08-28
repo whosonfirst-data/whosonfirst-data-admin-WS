@@ -11,10 +11,14 @@
     "geom:longitude":-171.42635,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":686,
+    "gn:population":686,
     "iso:country":"WS",
+    "lbl:bbox":"-171.44635,-14.02122,-171.40635,-13.98122",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Samusu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":4035071,
         "gp:id":980751,
-        "qs:id":586094
+        "qs_pg:id":586094
     },
     "wof:country":"WS",
     "wof:created":1469051341,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890420467,
-    "wof:lastmodified":1505343457,
+    "wof:lastmodified":1566652735,
     "wof:name":"Samusu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

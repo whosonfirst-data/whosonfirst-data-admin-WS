@@ -11,10 +11,14 @@
     "geom:longitude":-171.89432,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":774,
+    "gn:population":774,
     "iso:country":"WS",
+    "lbl:bbox":"-171.91432,-13.82358,-171.87432,-13.78358",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Salepou\u2018a\u2018e",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":4035091,
         "gp:id":980858,
-        "qs:id":97102
+        "qs_pg:id":97102
     },
     "wof:country":"WS",
     "wof:created":1469051813,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890429407,
-    "wof:lastmodified":1505343512,
+    "wof:lastmodified":1566652732,
     "wof:name":"Salepou\u2018a\u2018e",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

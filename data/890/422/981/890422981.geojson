@@ -11,10 +11,14 @@
     "geom:longitude":-172.30678,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":597,
+    "gn:population":597,
     "iso:country":"WS",
+    "lbl:bbox":"-172.32678,-13.54463,-172.28678,-13.50463",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u0430\u043c\u0435\u0430"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4035141,
         "gp:id":980750,
-        "qs:id":586115,
+        "qs_pg:id":586115,
         "wd:id":"Q16896450",
         "wk:page":"Patamea"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890422981,
-    "wof:lastmodified":1563289062,
+    "wof:lastmodified":1566652727,
     "wof:name":"Patamea",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

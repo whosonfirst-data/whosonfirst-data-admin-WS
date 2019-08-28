@@ -11,10 +11,14 @@
     "geom:longitude":-171.81397,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":2226,
+    "gn:population":2226,
     "iso:country":"WS",
+    "lbl:bbox":"-171.83397,-13.86432,-171.79397,-13.82432",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Siusega"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":4035019,
         "gp:id":12523104,
-        "qs:id":1047716
+        "qs_pg:id":1047716
     },
     "wof:country":"WS",
     "wof:created":1469052143,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890437233,
-    "wof:lastmodified":1564329762,
+    "wof:lastmodified":1566652727,
     "wof:name":"Siusega",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-172.4492,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":566,
+    "gn:population":566,
     "iso:country":"WS",
+    "lbl:bbox":"-172.4692,-13.48995,-172.4292,-13.44995",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sasina"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":4035062,
         "gp:id":980856,
-        "qs:id":586089,
+        "qs_pg:id":586089,
         "wd:id":"Q7425150",
         "wk:page":"Sasina"
     },
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890435273,
-    "wof:lastmodified":1561830548,
+    "wof:lastmodified":1566652739,
     "wof:name":"Sasina",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-171.81238,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":393,
+    "gn:population":393,
     "iso:country":"WS",
+    "lbl:bbox":"-171.83238,-14.02703,-171.79238,-13.98703",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0444\u0438\u0442\u043e\u0430\u043b\u0430"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4035000,
         "gp:id":12523104,
-        "qs:id":586073,
+        "qs_pg:id":586073,
         "wd:id":"Q7674981",
         "wk:page":"Tafitoala"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890435173,
-    "wof:lastmodified":1563289086,
+    "wof:lastmodified":1566652740,
     "wof:name":"Tafitoala",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

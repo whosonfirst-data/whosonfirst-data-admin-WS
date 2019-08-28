@@ -11,10 +11,14 @@
     "geom:longitude":-172.20038,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":399,
+    "gn:population":399,
     "iso:country":"WS",
+    "lbl:bbox":"-172.22038,-13.72178,-172.18038,-13.68178",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u043b\u043e\u043c\u0430\u043b\u0430\u0432\u0430"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":4035301,
         "gp:id":980723,
-        "qs:id":97109,
+        "qs_pg:id":97109,
         "wd:id":"Q6480560",
         "wk:page":"Lalomalava"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890455381,
-    "wof:lastmodified":1563289068,
+    "wof:lastmodified":1566652729,
     "wof:name":"Lalomalava",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

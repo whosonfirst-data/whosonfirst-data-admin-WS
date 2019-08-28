@@ -11,11 +11,15 @@
     "geom:longitude":-171.81205,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":778,
+    "gn:population":778,
     "iso:country":"WS",
+    "lbl:bbox":"-171.83205,-13.82782,-171.79205,-13.78782",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tuamua"
     ],
     "qs:name":"Toamua",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":4034891,
         "gp:id":980858,
-        "qs:id":556420
+        "qs_pg:id":556420
     },
     "wof:country":"WS",
     "wof:created":1469051440,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890422381,
-    "wof:lastmodified":1505343469,
+    "wof:lastmodified":1566652726,
     "wof:name":"Toamua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

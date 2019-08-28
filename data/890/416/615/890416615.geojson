@@ -11,11 +11,15 @@
     "geom:longitude":-171.42897,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":221,
+    "gn:population":221,
     "iso:country":"WS",
+    "lbl:bbox":"-171.44897,-14.01723,-171.40897,-13.97723",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Faleulu"
     ],
     "qs:name":"Amaile",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":4035416,
         "gp:id":980751,
-        "qs:id":586176
+        "qs_pg:id":586176
     },
     "wof:country":"WS",
     "wof:created":1469051144,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890416615,
-    "wof:lastmodified":1505343433,
+    "wof:lastmodified":1566652734,
     "wof:name":"Amaile",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-171.63045,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":69,
+    "gn:population":69,
     "iso:country":"WS",
+    "lbl:bbox":"-171.65045,-14.04308,-171.61045,-14.00308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Gaogao"
     ],
     "qs:name":"Piu",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":4035139,
         "gp:id":980751,
-        "qs:id":586114
+        "qs_pg:id":586114
     },
     "wof:country":"WS",
     "wof:created":1469051474,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890422979,
-    "wof:lastmodified":1505343473,
+    "wof:lastmodified":1566652725,
     "wof:name":"Piu",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-172.37647,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":158,
+    "gn:population":158,
     "iso:country":"WS",
+    "lbl:bbox":"-172.39647,-13.46796,-172.35647,-13.42796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0441\u0435"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":4035231,
         "gp:id":980856,
-        "qs:id":586134,
+        "qs_pg:id":586134,
         "wd:id":"Q6746989",
         "wk:page":"Manase"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890452821,
-    "wof:lastmodified":1563289063,
+    "wof:lastmodified":1566652727,
     "wof:name":"Manase",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

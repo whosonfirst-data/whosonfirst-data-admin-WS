@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-13.962932,
     "lbl:longitude":-171.537631,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-13.962932,
     "mps:longitude":-171.537631,
     "mz:hierarchy_label":1,
@@ -151,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0430-\u043e-\u0424\u043e\u043d\u043e\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Va\u2018a-o-Fonoti"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0622-\u0627\u0648-\u0641\u0648\u0646\u0648\u062a\u06cc"
     ],
@@ -232,9 +230,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-06",
+    "src:population_date":"2006-11-06",
     "statoids:area_km":"38",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2006-11-06",
@@ -260,7 +258,7 @@
         "gp:id":20070346,
         "hasc:id":"WS.VF",
         "iso:id":"WS-VF",
-        "qs:id":349026,
+        "qs_pg:id":349026,
         "unlc:id":"WS-VF",
         "wd:id":"Q1154109",
         "wk:page":"Va'a-o-Fonoti"
@@ -283,11 +281,10 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1565739696,
+    "wof:lastmodified":1566652704,
     "wof:name":"Va'a-o-Fonoti",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1624,
     "wof:population_rank":3,

@@ -11,10 +11,14 @@
     "geom:longitude":-171.59857,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":1074,
+    "gn:population":1074,
     "iso:country":"WS",
+    "lbl:bbox":"-171.61857,-13.89449,-171.57857,-13.85449",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09ab\u09bf\u09b2\u09c1\u09ab\u09bf"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":4035249,
         "gp:id":980794,
-        "qs:id":1047724,
+        "qs_pg:id":1047724,
         "wd:id":"Q741740",
         "wk:page":"Lufilufi"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890436893,
-    "wof:lastmodified":1563289069,
+    "wof:lastmodified":1566652730,
     "wof:name":"Lufilufi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

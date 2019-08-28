@@ -11,11 +11,15 @@
     "geom:longitude":-172.41793,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":124,
+    "gn:population":124,
     "iso:country":"WS",
+    "lbl:bbox":"-172.43793,-13.48146,-172.39793,-13.44146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Leagiaga"
     ],
     "qs:name":"Leagiagi",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":4035280,
         "gp:id":980856,
-        "qs:id":586148
+        "qs_pg:id":586148
     },
     "wof:country":"WS",
     "wof:created":1469052831,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890452837,
-    "wof:lastmodified":1505343647,
+    "wof:lastmodified":1566652728,
     "wof:name":"Leagiagi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

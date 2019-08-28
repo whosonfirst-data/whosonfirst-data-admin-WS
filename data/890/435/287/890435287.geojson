@@ -11,10 +11,14 @@
     "geom:longitude":-172.05706,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":939,
+    "gn:population":939,
     "iso:country":"WS",
+    "lbl:bbox":"-172.07706,-13.91964,-172.03706,-13.87964",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0442\u0430\u0443"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4035075,
         "gp:id":980595,
-        "qs:id":586097,
+        "qs_pg:id":586097,
         "wd:id":"Q7408903",
         "wk:page":"Samatau"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890435287,
-    "wof:lastmodified":1563289084,
+    "wof:lastmodified":1566652739,
     "wof:name":"Samatau",
     "wof:parent_id":85680921,
     "wof:placetype":"locality",

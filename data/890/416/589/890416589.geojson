@@ -11,10 +11,14 @@
     "geom:longitude":-171.82444,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":303,
+    "gn:population":303,
     "iso:country":"WS",
+    "lbl:bbox":"-171.84444,-14.0206,-171.80444,-13.9806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Fausaga",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":4035331,
         "gp:id":12523104,
-        "qs:id":586155
+        "qs_pg:id":586155
     },
     "wof:country":"WS",
     "wof:created":1469051142,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890416589,
-    "wof:lastmodified":1505343433,
+    "wof:lastmodified":1566652733,
     "wof:name":"Fausaga",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

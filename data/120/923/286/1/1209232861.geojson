@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-171.80909,-13.85342,-171.76909,-13.81342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632681
@@ -34,7 +38,7 @@
         "gn:id":7106301
     },
     "wof:country":"WS",
-    "wof:geomhash":"cf6a5ed8d008f47a83b966003d9ceb81",
+    "wof:geomhash":"1d0464176d3d657dd4a031a6c03d1d42",
     "wof:hierarchy":[
         {
             "country_id":85632681,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209232861,
-    "wof:lastmodified":1536293582,
+    "wof:lastmodified":1566652716,
     "wof:name":"Vaitoloa",
     "wof:parent_id":85632681,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -171.78909,
-    -13.833420000000002,
+    -13.83342,
     -171.78909,
-    -13.833420000000002
+    -13.83342
 ],
   "geometry": {"coordinates":[-171.78908999999999,-13.83342],"type":"Point"}
 }

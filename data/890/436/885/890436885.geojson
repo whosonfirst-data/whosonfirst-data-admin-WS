@@ -11,10 +11,14 @@
     "geom:longitude":-171.85781,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":1126,
+    "gn:population":1126,
     "iso:country":"WS",
+    "lbl:bbox":"-171.87781,-13.99643,-171.83781,-13.95643",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lotofaga"
     ],
@@ -30,7 +34,7 @@
     "name:spa_x_preferred":[
         "Lotofaga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lotofanga"
     ],
     "qs:name":"Lotofag\u0101",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":4035252,
         "gp:id":980595,
-        "qs:id":1047725,
+        "qs_pg:id":1047725,
         "wd:id":"Q6684810",
         "wk:page":"Lotofaga"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890436885,
-    "wof:lastmodified":1563289070,
+    "wof:lastmodified":1566652730,
     "wof:name":"Lotofag\u0101",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-172.40592,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":308,
+    "gn:population":308,
     "iso:country":"WS",
+    "lbl:bbox":"-172.42592,-13.49243,-172.38592,-13.45243",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Paia"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":4035155,
         "gp:id":980856,
-        "qs:id":586119
+        "qs_pg:id":586119
     },
     "wof:country":"WS",
     "wof:created":1469051236,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418129,
-    "wof:lastmodified":1564329767,
+    "wof:lastmodified":1566652736,
     "wof:name":"Paia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

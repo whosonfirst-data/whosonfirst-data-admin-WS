@@ -11,11 +11,15 @@
     "geom:longitude":-171.83126,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":2592,
+    "gn:population":2592,
     "iso:country":"WS",
+    "lbl:bbox":"-171.85126,-13.81456,-171.81126,-13.77456",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Falula"
     ],
     "qs:name":"Faleula",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":4035345,
         "gp:id":980858,
-        "qs:id":151500
+        "qs_pg:id":151500
     },
     "wof:country":"WS",
     "wof:created":1469052061,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890435281,
-    "wof:lastmodified":1505343546,
+    "wof:lastmodified":1566652740,
     "wof:name":"Faleula",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

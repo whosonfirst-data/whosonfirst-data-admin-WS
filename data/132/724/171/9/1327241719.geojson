@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-171.82604,-13.84933,-171.78604,-13.80933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03ca\u03c4\u03ad\u03bb\u03b5"
     ],
@@ -38,8 +42,7 @@
         "Vaitele"
     ],
     "name:und_x_variant":[
-        "Vaitele Plantation",
-        "Vaitele"
+        "Vaitele Plantation"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327241719,
-    "wof:lastmodified":1564329730,
+    "wof:lastmodified":1566652697,
     "wof:name":"Vaitele",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

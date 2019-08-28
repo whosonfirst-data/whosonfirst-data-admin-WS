@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-13.55527,
     "lbl:longitude":-172.343452,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-13.55527,
     "mps:longitude":-172.343452,
     "mz:hierarchy_label":1,
@@ -151,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0435\u043c\u0430\u0443\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "Gaga\u2018emauga"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u06af\u0622\u0626\u0645\u0627\u0648\u06af\u0627"
     ],
@@ -232,9 +230,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-06",
+    "src:population_date":"2006-11-06",
     "statoids:area_km":"223",
     "statoids:area_mi":"86",
     "statoids:as_of_date":"2006-11-06",
@@ -262,7 +260,7 @@
         "gp:id":20070344,
         "hasc:id":"WS.GE",
         "iso:id":"WS-GE",
-        "qs:id":1287674,
+        "qs_pg:id":1287674,
         "unlc:id":"WS-GE",
         "wd:id":"Q1193143",
         "wk:page":"Gaga'emauga"
@@ -285,11 +283,10 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1565739696,
+    "wof:lastmodified":1566652705,
     "wof:name":"Gaga'emauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":7487,
     "wof:population_rank":5,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
+    "lbl:bbox":"-172.2588,-13.57316,-172.2188,-13.53316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259693979,
-    "wof:lastmodified":1537049723,
+    "wof:lastmodified":1566652753,
     "wof:name":"Papalaulelei",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

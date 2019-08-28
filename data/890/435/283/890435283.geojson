@@ -11,10 +11,14 @@
     "geom:longitude":-172.1918,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":877,
+    "gn:population":877,
     "iso:country":"WS",
+    "lbl:bbox":"-172.2118,-13.70726,-172.1718,-13.66726",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sapapali'i"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":4035066,
         "gp:id":980723,
-        "qs:id":586093,
+        "qs_pg:id":586093,
         "wd:id":"Q7420912",
         "wk:page":"Sapapali'i"
     },
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890435283,
-    "wof:lastmodified":1563289088,
+    "wof:lastmodified":1566652741,
     "wof:name":"Sapapali\u2019i",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

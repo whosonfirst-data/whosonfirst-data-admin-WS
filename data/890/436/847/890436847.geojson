@@ -11,10 +11,14 @@
     "geom:longitude":-172.40176,
     "gn:country":"WS",
     "gn:fcode":"PPL",
-    "gn:pop":1207,
+    "gn:population":1207,
     "iso:country":"WS",
+    "lbl:bbox":"-172.42176,-13.47132,-172.38176,-13.43132",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0444\u043e\u0442\u0443"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":4035118,
         "gp:id":980856,
-        "qs:id":1047718,
+        "qs_pg:id":1047718,
         "wd:id":"Q2165046",
         "wk:page":"Safotu"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890436847,
-    "wof:lastmodified":1563289070,
+    "wof:lastmodified":1566652730,
     "wof:name":"Safotu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
