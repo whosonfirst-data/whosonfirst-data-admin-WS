@@ -396,6 +396,10 @@
     },
     "wof:country":"WS",
     "wof:created":1469051144,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown"
+    ],
     "wof:geomhash":"07f54a2231bfdf023d563fbf118bc9c5",
     "wof:hierarchy":[
         {
@@ -406,7 +410,7 @@
         }
     ],
     "wof:id":890416609,
-    "wof:lastmodified":1566652734,
+    "wof:lastmodified":1582379110,
     "wof:name":"Apia",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

@@ -859,6 +859,11 @@
     },
     "wof:country":"WS",
     "wof:country_alpha3":"WSM",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"62fe23a206b395eadc509f0868447ec5",
     "wof:hierarchy":[
         {
@@ -875,7 +880,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1566652706,
+    "wof:lastmodified":1582379109,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -66,6 +66,9 @@
     },
     "wof:country":"WS",
     "wof:created":1469052056,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"213ebdfe474b2fa41479f82e7b40af70",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890435137,
-    "wof:lastmodified":1566652741,
+    "wof:lastmodified":1582379110,
     "wof:name":"Vailoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
