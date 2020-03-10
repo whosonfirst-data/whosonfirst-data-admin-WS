@@ -837,9 +837,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Samoa",
-        "digitalenvoy:country_code":[
-            882
-        ],
+        "digitalenvoy:country_code":882,
         "fb:id":"en.samoa",
         "fifa:id":"SAM",
         "fips:code":"WS",
@@ -883,7 +881,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1583529249,
+    "wof:lastmodified":1583797458,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
