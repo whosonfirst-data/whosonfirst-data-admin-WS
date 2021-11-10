@@ -19,17 +19,80 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0641\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09cd\u09af\u09be\u09ad\u09be\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0432\u0430\u0443"
     ],
     "name:ceb_x_preferred":[
         "Vavau"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03b2\u03ac\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Vavau"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0648\u0627\u0626\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vava\u02bbu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d5\u05d5\u05d0\u05d5\u05d5\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0935\u094c"
+    ],
+    "name:hun_x_preferred":[
+        "Vavau"
+    ],
+    "name:ind_x_preferred":[
+        "Vavau"
+    ],
+    "name:ita_x_preferred":[
+        "Vavau"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ubc14\uc6b0"
+    ],
     "name:nld_x_preferred":[
         "Vavau"
+    ],
+    "name:pol_x_preferred":[
+        "Vavau"
+    ],
+    "name:por_x_preferred":[
+        "Vava\u02bbu"
+    ],
+    "name:rus_x_preferred":[
+        "\u043e\u0441\u0442\u0440\u043e\u0432 \u0412\u0430\u0432\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Vava'u"
+    ],
+    "name:swe_x_preferred":[
+        "Vavau"
+    ],
+    "name:tur_x_preferred":[
+        "Vavau"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Vavau"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u74e6\u74e6\u4e4c\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u74e6\u74e6\u70cf\u5cf6"
     ],
     "qs:name":"Vavau",
     "qs:photos_9r":0,
@@ -62,7 +125,7 @@
         }
     ],
     "wof:id":890429403,
-    "wof:lastmodified":1566652732,
+    "wof:lastmodified":1636504673,
     "wof:name":"Vavau",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",

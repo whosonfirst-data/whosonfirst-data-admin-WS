@@ -50,7 +50,13 @@
     "name:fra_x_preferred":[
         "Palauli"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05dc\u05d0\u05d5\u05dc\u05d9"
+    ],
     "name:hrv_x_preferred":[
+        "Palauli"
+    ],
+    "name:hun_x_preferred":[
         "Palauli"
     ],
     "name:ind_x_preferred":[
@@ -110,7 +116,7 @@
         "wk:page":"Palauli"
     },
     "wof:country":"WS",
-    "wof:geomhash":"8f905ce6b7870707a2f3810809c5054d",
+    "wof:geomhash":"fdd73f55b678d7ff7e120727da1d0698",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1225855015,
-    "wof:lastmodified":1566652757,
+    "wof:lastmodified":1636504673,
     "wof:name":"Palauli",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",
@@ -130,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -172.29858000000004,
+    -172.29858,
     -13.75859,
-    -172.29858000000004,
+    -172.29858,
     -13.75859
 ],
-  "geometry": {"coordinates":[-172.29858000000004,-13.75859],"type":"Point"}
+  "geometry": {"coordinates":[-172.29857999999999,-13.75859],"type":"Point"}
 }
