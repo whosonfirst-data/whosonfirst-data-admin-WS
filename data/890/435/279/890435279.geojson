@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Sapulu village"
     ],
+    "name:eng_x_variant":[
+        "Sapulu"
+    ],
     "name:nld_x_preferred":[
         "Sapulu village"
+    ],
+    "name:nld_x_variant":[
+        "Sapulu"
     ],
     "qs:name":"Sapulu",
     "qs:photos_9r":0,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890435279,
-    "wof:lastmodified":1566652742,
+    "wof:lastmodified":1690921748,
     "wof:name":"Sapulu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

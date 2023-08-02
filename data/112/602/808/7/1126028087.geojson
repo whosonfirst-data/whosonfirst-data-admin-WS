@@ -28,7 +28,13 @@
     "name:ceb_x_preferred":[
         "Tuasivi"
     ],
+    "name:deu_x_preferred":[
+        "Tuasivi"
+    ],
     "name:eng_x_preferred":[
+        "Tuasivi"
+    ],
+    "name:fra_x_preferred":[
         "Tuasivi"
     ],
     "name:nld_x_preferred":[
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1126028087,
-    "wof:lastmodified":1566652744,
+    "wof:lastmodified":1690921753,
     "wof:name":"Tuasivi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

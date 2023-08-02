@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Lepa"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e4\u05d4"
+    ],
     "name:nld_x_preferred":[
         "Lepa"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890452833,
-    "wof:lastmodified":1566652727,
+    "wof:lastmodified":1690921730,
     "wof:name":"Lep\u0101",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "name:ceb_x_preferred":[
         "Lepea"
     ],
+    "name:deu_x_preferred":[
+        "Lepea"
+    ],
     "name:eng_x_preferred":[
+        "Lepea"
+    ],
+    "name:fra_x_preferred":[
         "Lepea"
     ],
     "name:nld_x_preferred":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890452831,
-    "wof:lastmodified":1566652728,
+    "wof:lastmodified":1690921732,
     "wof:name":"Lepea",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

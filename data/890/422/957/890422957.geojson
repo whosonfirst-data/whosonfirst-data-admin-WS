@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Ulutogia"
     ],
+    "name:deu_x_preferred":[
+        "Ulutogia"
+    ],
     "name:eng_x_preferred":[
         "Ulutogia"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890422957,
-    "wof:lastmodified":1566652725,
+    "wof:lastmodified":1690921725,
     "wof:name":"Ulutogia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

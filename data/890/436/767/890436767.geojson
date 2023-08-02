@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Vaiusu"
     ],
+    "name:deu_x_preferred":[
+        "Vaiusu"
+    ],
     "name:eng_x_preferred":[
         "Vaiusu"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890436767,
-    "wof:lastmodified":1566652730,
+    "wof:lastmodified":1690921734,
     "wof:name":"Vaiusu",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

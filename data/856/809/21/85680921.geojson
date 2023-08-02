@@ -98,6 +98,9 @@
     "name:kor_x_preferred":[
         "\uc544\uc774\uac00\uc774\ub808\ud0c0\uc774 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\uac00\uc774\ub808\ud0c0\uc774\uad6c"
+    ],
     "name:lat_x_preferred":[
         "Aiga-i-le-Tai"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0917-\u0906\u092f-\u0932\u0947-\u0924\u093e\u0908"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0438\u0433\u0430-\u0438-\u043b\u0435-\u0422\u0430\u0438"
     ],
     "name:mrj_x_preferred":[
         "\u0410\u0438\u0433\u0430-\u0438-\u043b\u0435-\u0422\u0430\u0438"
@@ -138,6 +144,9 @@
         "\u0d85\u0dba\u0dd2\u0d9c\u0dcf-\u0d89-\u0dbd\u0dd9-\u0da7\u0dba\u0dd2"
     ],
     "name:slk_x_preferred":[
+        "Aiga-i-le-Tai"
+    ],
+    "name:smo_x_preferred":[
         "Aiga-i-le-Tai"
     ],
     "name:spa_x_preferred":[
@@ -296,7 +305,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504671,
+    "wof:lastmodified":1690921717,
     "wof:name":"Aiga-i-le-Tai",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

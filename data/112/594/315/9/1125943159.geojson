@@ -34,7 +34,13 @@
     "name:eng_x_preferred":[
         "Afega"
     ],
+    "name:fra_x_preferred":[
+        "Afega"
+    ],
     "name:haw_x_preferred":[
+        "Afega"
+    ],
+    "name:ita_x_preferred":[
         "Afega"
     ],
     "name:jpn_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125943159,
-    "wof:lastmodified":1566652744,
+    "wof:lastmodified":1690921752,
     "wof:name":"Afenga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

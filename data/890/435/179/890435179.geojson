@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Siutu"
+    ],
     "name:eng_x_preferred":[
         "Siutu"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890435179,
-    "wof:lastmodified":1566652744,
+    "wof:lastmodified":1690921751,
     "wof:name":"Siutu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

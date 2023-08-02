@@ -56,6 +56,9 @@
     "name:eus_x_preferred":[
         "Vaisigano"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u0633\u06cc\u06af\u0627\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Vaisigano"
     ],
@@ -95,6 +98,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uc774\uc2dc\uac00\ub178 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uc774\uc2dc\uac00\ub178\uad6c"
+    ],
     "name:lat_x_preferred":[
         "Itu Asau"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0935\u0948\u0936\u093f\u0917\u093e\u0928\u094b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0438\u0441\u0438\u0433\u0430\u043d\u043e"
     ],
     "name:mrj_x_preferred":[
         "\u0412\u0430\u0438\u0441\u0438\u0433\u0430\u043d\u043e"
@@ -135,6 +144,9 @@
         "\u0dc0\u0dba\u0dd2\u0dc3\u0dd2\u0d9c\u0dcf\u0db1\u0ddd"
     ],
     "name:slk_x_preferred":[
+        "Vaisigano"
+    ],
+    "name:smo_x_preferred":[
         "Vaisigano"
     ],
     "name:spa_x_preferred":[
@@ -290,7 +302,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504672,
+    "wof:lastmodified":1690921717,
     "wof:name":"Vaisigano",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

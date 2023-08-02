@@ -53,6 +53,9 @@
     "name:eus_x_preferred":[
         "Atua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0622\u062a\u0648\u0622"
+    ],
     "name:fin_x_preferred":[
         "Atua"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc544\ud22c\uc544 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ud22c\uc544\uad6c"
+    ],
     "name:lat_x_preferred":[
         "Atua"
     ],
@@ -129,6 +135,9 @@
         "\u0d85\u0da7\u0dd4\u0dc0\u0dcf"
     ],
     "name:slk_x_preferred":[
+        "Atua"
+    ],
+    "name:smo_x_preferred":[
         "Atua"
     ],
     "name:spa_x_preferred":[
@@ -280,7 +289,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504673,
+    "wof:lastmodified":1690921720,
     "wof:name":"Atua",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

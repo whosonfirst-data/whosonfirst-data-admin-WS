@@ -25,10 +25,16 @@
     "name:ceb_x_preferred":[
         "Lalomanu"
     ],
+    "name:deu_x_preferred":[
+        "Lalomanu"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03bb\u03bf\u03bc\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
+        "Lalomanu"
+    ],
+    "name:fra_x_preferred":[
         "Lalomanu"
     ],
     "name:nld_x_preferred":[
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890455379,
-    "wof:lastmodified":1566652729,
+    "wof:lastmodified":1690921733,
     "wof:name":"Lalomanu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
     "name:mar_x_preferred":[
         "\u0935-\u0913-\u092b\u094b\u0928\u0949\u091f\u0940"
     ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430-\u043e-\u0424\u043e\u043d\u043e\u0442\u0438"
+    ],
     "name:mrj_x_preferred":[
         "\u0412\u0430\u0430-\u043e-\u0424\u043e\u043d\u043e\u0442\u0438"
     ],
@@ -139,6 +142,9 @@
     ],
     "name:slk_x_preferred":[
         "Va\u2019a-o-Fonoti"
+    ],
+    "name:smo_x_preferred":[
+        "Va'a-o-Fonoti"
     ],
     "name:spa_x_preferred":[
         "Va'a-o-Fonoti"
@@ -290,7 +296,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504672,
+    "wof:lastmodified":1690921718,
     "wof:name":"Va'a-o-Fonoti",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arg_x_preferred":[
+        "Samea"
+    ],
     "name:ast_x_preferred":[
         "\u200eSamea\u200e"
     ],
@@ -37,7 +40,34 @@
     "name:eng_x_preferred":[
         "Samea"
     ],
+    "name:epo_x_preferred":[
+        "Samea"
+    ],
+    "name:eus_x_preferred":[
+        "Samea"
+    ],
+    "name:ext_x_preferred":[
+        "Samea"
+    ],
+    "name:fin_x_preferred":[
+        "Samea"
+    ],
     "name:fra_x_preferred":[
+        "Samea"
+    ],
+    "name:gle_x_preferred":[
+        "Samea"
+    ],
+    "name:glg_x_preferred":[
+        "Samea"
+    ],
+    "name:ido_x_preferred":[
+        "Samea"
+    ],
+    "name:ile_x_preferred":[
+        "Samea"
+    ],
+    "name:ina_x_preferred":[
         "Samea"
     ],
     "name:ita_x_preferred":[
@@ -49,13 +79,25 @@
     "name:nld_x_preferred":[
         "Samea"
     ],
+    "name:oci_x_preferred":[
+        "Samea"
+    ],
+    "name:pol_x_preferred":[
+        "Samea"
+    ],
     "name:por_x_preferred":[
+        "Samea"
+    ],
+    "name:ron_x_preferred":[
         "Samea"
     ],
     "name:rus_x_preferred":[
         "Samea"
     ],
     "name:spa_x_preferred":[
+        "Samea"
+    ],
+    "name:sqi_x_preferred":[
         "Samea"
     ],
     "name:swe_x_preferred":[
@@ -65,6 +107,9 @@
         "Samea"
     ],
     "name:vie_x_preferred":[
+        "Samea"
+    ],
+    "name:vol_x_preferred":[
         "Samea"
     ],
     "name:war_x_preferred":[
@@ -97,7 +142,7 @@
         }
     ],
     "wof:id":890420469,
-    "wof:lastmodified":1566652736,
+    "wof:lastmodified":1690921742,
     "wof:name":"Samea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

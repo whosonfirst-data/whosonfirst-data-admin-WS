@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0444\u043e\u0442\u0443"
     ],
+    "name:cat_x_preferred":[
+        "S\u0101fotu"
+    ],
     "name:ceb_x_preferred":[
         "Safotu"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890436847,
-    "wof:lastmodified":1566652730,
+    "wof:lastmodified":1690921735,
     "wof:name":"Safotu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

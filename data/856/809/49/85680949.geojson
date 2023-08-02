@@ -98,6 +98,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\ud22c\ud30c\uc774\ud14c\uc544 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\ud22c\ud30c\uc774\ud14c\uc544\uad6c"
+    ],
     "name:lat_x_preferred":[
         "Satupaitea"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0924\u092a\u0948\u0924\u0940"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0442\u0443\u043f\u0430\u0438\u0442\u0435\u0458\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0430\u0442\u0443\u043f\u0430\u0438\u0442\u0435\u0430"
@@ -139,6 +145,9 @@
     ],
     "name:slk_x_preferred":[
         "Satupa\u2019itea"
+    ],
+    "name:smo_x_preferred":[
+        "Satupa'itea"
     ],
     "name:spa_x_preferred":[
         "Satupa'itea"
@@ -292,7 +301,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504673,
+    "wof:lastmodified":1690921720,
     "wof:name":"Satupa'itea",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

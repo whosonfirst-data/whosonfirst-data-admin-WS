@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Gataivai"
     ],
+    "name:deu_x_preferred":[
+        "Gataivai"
+    ],
     "name:eng_x_preferred":[
         "Gataivai"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890442005,
-    "wof:lastmodified":1566652737,
+    "wof:lastmodified":1690921742,
     "wof:name":"Gataivai",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",
