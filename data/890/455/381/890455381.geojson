@@ -25,7 +25,13 @@
     "name:ceb_x_preferred":[
         "Lalomalava"
     ],
+    "name:deu_x_preferred":[
+        "Lalomalava"
+    ],
     "name:eng_x_preferred":[
+        "Lalomalava"
+    ],
+    "name:fra_x_preferred":[
         "Lalomalava"
     ],
     "name:jpn_x_preferred":[
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890455381,
-    "wof:lastmodified":1566652729,
+    "wof:lastmodified":1690921733,
     "wof:name":"Lalomalava",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

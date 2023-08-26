@@ -22,7 +22,13 @@
     "name:ceb_x_preferred":[
         "Sili"
     ],
+    "name:deu_x_preferred":[
+        "Sili"
+    ],
     "name:eng_x_preferred":[
+        "Sili"
+    ],
+    "name:fra_x_preferred":[
         "Sili"
     ],
     "name:ita_x_preferred":[
@@ -32,6 +38,9 @@
         "\u30b7\u30ea"
     ],
     "name:nld_x_preferred":[
+        "Sili"
+    ],
+    "name:pol_x_preferred":[
         "Sili"
     ],
     "name:slk_x_preferred":[
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":890435195,
-    "wof:lastmodified":1566652738,
+    "wof:lastmodified":1690921744,
     "wof:name":"Sili",
     "wof:parent_id":85680953,
     "wof:placetype":"locality",

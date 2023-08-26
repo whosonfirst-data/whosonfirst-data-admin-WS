@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Asaga"
     ],
+    "name:ben_x_preferred":[
+        "\u0985\u09b8\u09be\u0997\u09be"
+    ],
     "name:cat_x_preferred":[
         "Asaga"
     ],
@@ -29,6 +32,9 @@
         "Asaga"
     ],
     "name:fra_x_preferred":[
+        "Asaga"
+    ],
+    "name:gle_x_preferred":[
         "Asaga"
     ],
     "name:hin_x_preferred":[
@@ -50,6 +56,9 @@
         "Asaga"
     ],
     "name:spa_x_preferred":[
+        "Asaga"
+    ],
+    "name:sqi_x_preferred":[
         "Asaga"
     ],
     "qs:name":"Asaga",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890416607,
-    "wof:lastmodified":1566652734,
+    "wof:lastmodified":1690921739,
     "wof:name":"Asaga",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

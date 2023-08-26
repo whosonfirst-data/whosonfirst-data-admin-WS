@@ -56,6 +56,9 @@
     "name:eus_x_preferred":[
         "Gaga'emauga"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u06af\u0627\u0633\u0645\u0648\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gaga'emauga"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a97\u0abe'\u0aae\u0abe\u0a89\u0a97\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d2\u05d0\u05de\u05d0\u05d5\u05d2\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0917\u093e\u0917\u093e'\u090f\u092e\u093e\u0909\u0917\u093e"
@@ -92,6 +98,9 @@
     "name:kor_x_preferred":[
         "\uac00\uac00\uc5d0\ub9c8\uc6b0\uac00 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uac00\uc5d0\ub9c8\uc6b0\uac00\uad6c"
+    ],
     "name:lat_x_preferred":[
         "Gagaemauga"
     ],
@@ -103,6 +112,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0917\u0917\u093e\u092e\u094b\u0917\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u0435\u043c\u0430\u0443\u0433\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u0430\u0433\u0430\u044d\u043c\u0430\u0443\u0433\u0430"
@@ -133,6 +145,9 @@
     ],
     "name:slk_x_preferred":[
         "Gaga\u2019emauga"
+    ],
+    "name:smo_x_preferred":[
+        "Gaga'emauga"
     ],
     "name:spa_x_preferred":[
         "Gaga'emauga"
@@ -286,7 +301,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504672,
+    "wof:lastmodified":1690921719,
     "wof:name":"Gaga'emauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

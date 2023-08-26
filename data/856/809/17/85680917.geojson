@@ -146,6 +146,9 @@
     "name:slk_x_preferred":[
         "A\u2019ana"
     ],
+    "name:smo_x_preferred":[
+        "A'ana"
+    ],
     "name:spa_x_preferred":[
         "A'ana"
     ],
@@ -298,7 +301,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636504671,
+    "wof:lastmodified":1690921717,
     "wof:name":"A'ana",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

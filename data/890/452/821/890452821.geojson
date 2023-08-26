@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Manase"
     ],
+    "name:fra_x_preferred":[
+        "Manase"
+    ],
     "name:nau_x_preferred":[
         "Manase"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890452821,
-    "wof:lastmodified":1566652727,
+    "wof:lastmodified":1690921729,
     "wof:name":"Manase",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

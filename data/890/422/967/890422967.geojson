@@ -25,10 +25,16 @@
     "name:ceb_x_preferred":[
         "Saipipi"
     ],
+    "name:deu_x_preferred":[
+        "Saipipi"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03ca\u03c0\u03af\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Saipipi"
+    ],
+    "name:fra_x_preferred":[
         "Saipipi"
     ],
     "name:nld_x_preferred":[
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890422967,
-    "wof:lastmodified":1566652726,
+    "wof:lastmodified":1690921726,
     "wof:name":"Saipipi",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

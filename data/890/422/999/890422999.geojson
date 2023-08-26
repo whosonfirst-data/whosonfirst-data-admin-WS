@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Letogo"
     ],
+    "name:pol_x_preferred":[
+        "Letogo"
+    ],
     "name:und_x_variant":[
         "Letongo"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890422999,
-    "wof:lastmodified":1566652725,
+    "wof:lastmodified":1690921724,
     "wof:name":"Letogo",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

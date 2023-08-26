@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0430"
+    ],
     "name:ace_x_preferred":[
         "Samoa"
     ],
@@ -46,6 +49,15 @@
     "name:amh_x_variant":[
         "\u1233\u121e\u12a0"
     ],
+    "name:ami_x_preferred":[
+        "Samoa"
+    ],
+    "name:ang_x_preferred":[
+        "Samoa"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u093e\u092e\u094b\u0906"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0627"
     ],
@@ -59,6 +71,9 @@
         "\u0633\u0627\u0645\u0648\u0627"
     ],
     "name:ast_x_preferred":[
+        "Samoa"
+    ],
+    "name:avk_x_preferred":[
         "Samoa"
     ],
     "name:azb_x_preferred":[
@@ -94,6 +109,9 @@
     "name:bho_x_preferred":[
         "\u0938\u092e\u094b\u0906"
     ],
+    "name:bis_x_preferred":[
+        "Samoa"
+    ],
     "name:bjn_x_preferred":[
         "Samoa"
     ],
@@ -127,11 +145,20 @@
     "name:ceb_x_preferred":[
         "Samoa"
     ],
+    "name:ceb_x_variant":[
+        "Samowa"
+    ],
     "name:ces_x_preferred":[
         "Samoa"
     ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
+    ],
+    "name:chr_x_preferred":[
+        "\u13cc\u13bc\u13a0"
+    ],
+    "name:chy_x_preferred":[
+        "Samoa"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0627"
@@ -144,6 +171,9 @@
     ],
     "name:cym_x_preferred":[
         "Samoa"
+    ],
+    "name:dag_x_preferred":[
+        "Western Samoa"
     ],
     "name:dan_x_preferred":[
         "Samoa"
@@ -239,6 +269,9 @@
     "name:ful_x_preferred":[
         "Samowaa"
     ],
+    "name:fur_x_preferred":[
+        "Samoe"
+    ],
     "name:gag_x_preferred":[
         "Samoa"
     ],
@@ -285,6 +318,12 @@
     "name:hau_x_preferred":[
         "Samowa"
     ],
+    "name:hau_x_variant":[
+        "Samoa"
+    ],
+    "name:haw_x_preferred":[
+        "S\u0101moa Komohana"
+    ],
     "name:hbs_x_preferred":[
         "Samoa"
     ],
@@ -317,6 +356,9 @@
     ],
     "name:ido_x_preferred":[
         "Samoa"
+    ],
+    "name:iku_x_preferred":[
+        "\u1595\u14a5\u14f5\u14a8"
     ],
     "name:ile_x_preferred":[
         "Samoa"
@@ -351,6 +393,9 @@
     "name:jpn_x_variant":[
         "\u30b5\u30e2\u30a2\u72ec\u7acb\u56fd",
         "\u897f\u30b5\u30e2\u30a2"
+    ],
+    "name:kaa_x_preferred":[
+        "Samoa"
     ],
     "name:kal_x_preferred":[
         "Samoa"
@@ -412,6 +457,9 @@
     "name:lit_x_preferred":[
         "Samoa"
     ],
+    "name:lld_x_preferred":[
+        "Samoa"
+    ],
     "name:lmo_x_preferred":[
         "Samoa"
     ],
@@ -439,6 +487,12 @@
     "name:mar_x_variant":[
         "\u0938\u093e\u092e\u094b\u0906"
     ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0430"
+    ],
+    "name:min_x_preferred":[
+        "Samoa"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
     ],
@@ -447,6 +501,12 @@
     ],
     "name:mlt_x_preferred":[
         "Samoa"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe5\uabc3\uabe3\uabd1\uabe5"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0430"
     ],
     "name:mri_x_preferred":[
         "H\u0101moa ki te Uru"
@@ -583,6 +643,9 @@
     "name:sgs_x_preferred":[
         "Samuoa"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1083\u1087\u1019\u1030\u101d\u103a\u1038\u101d\u1083\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db8\u0ddd\u0dc0\u0dcf"
     ],
@@ -596,11 +659,17 @@
     "name:sme_x_preferred":[
         "Samoa"
     ],
+    "name:smn_x_preferred":[
+        "Samoa"
+    ],
     "name:smo_x_preferred":[
         "S\u0101moa"
     ],
     "name:smo_x_variant":[
         "Malo Sa\u2019oloto Tuto\u2019atasi o Samoa",
+        "Samoa"
+    ],
+    "name:sms_x_preferred":[
         "Samoa"
     ],
     "name:sna_x_preferred":[
@@ -651,6 +720,9 @@
     "name:tat_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
     ],
+    "name:tay_x_preferred":[
+        "Samoa"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c2e\u0c4b\u0c35\u0c3e"
     ],
@@ -669,10 +741,16 @@
     "name:tir_x_preferred":[
         "\u1233\u121e\u12a0"
     ],
+    "name:tok_x_preferred":[
+        "ma Samowa"
+    ],
     "name:ton_x_preferred":[
         "Ha\u02bbamoa"
     ],
     "name:tpi_x_preferred":[
+        "Samoa"
+    ],
+    "name:trv_x_preferred":[
         "Samoa"
     ],
     "name:tuk_x_preferred":[
@@ -683,6 +761,9 @@
     ],
     "name:tur_x_variant":[
         "Ba\u011f\u0131ms\u0131z Samoa Devleti"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0430"
     ],
     "name:uig_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0626\u0627"
@@ -700,6 +781,9 @@
         "\u0633\u0627\u0645\u0648\u0622"
     ],
     "name:uzb_x_preferred":[
+        "Samoa"
+    ],
+    "name:vec_x_preferred":[
         "Samoa"
     ],
     "name:vep_x_preferred":[
@@ -720,6 +804,9 @@
     ],
     "name:war_x_preferred":[
         "Samoa"
+    ],
+    "name:wls_x_preferred":[
+        "Ha'amoa"
     ],
     "name:wol_x_preferred":[
         "Samowaa"
@@ -997,7 +1084,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1617827636,
+    "wof:lastmodified":1690921721,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

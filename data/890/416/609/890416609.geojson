@@ -30,14 +30,29 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u064a\u0627"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u067e\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Apia"
+    ],
+    "name:avk_x_preferred":[
         "Apia"
     ],
     "name:aze_x_preferred":[
         "Apia"
     ],
+    "name:ban_x_preferred":[
+        "Apia"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043f\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043f\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09aa\u09bf\u09af\u09bc\u09be"
@@ -141,6 +156,9 @@
     "name:hin_x_preferred":[
         "\u090f\u092a\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0906\u092a\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Apia"
     ],
@@ -228,6 +246,9 @@
     "name:mya_x_preferred":[
         "\u1021\u1015\u102e\u101a\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:nah_x_preferred":[
+        "Apia"
+    ],
     "name:nan_x_preferred":[
         "Apia"
     ],
@@ -263,6 +284,9 @@
     ],
     "name:por_x_preferred":[
         "Apia"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u067e\u06cc\u0627"
     ],
     "name:ron_x_preferred":[
         "Apia"
@@ -300,6 +324,9 @@
     "name:sqi_x_preferred":[
         "Apia"
     ],
+    "name:srd_x_preferred":[
+        "\u00c0pia"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043f\u0438\u0458\u0430"
     ],
@@ -321,11 +348,17 @@
     "name:tel_x_preferred":[
         "\u0c06\u0c2a\u0c3f\u0c2f\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043f\u0438\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Apia"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e1b\u0e35\u0e2d\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a3\u1355\u12eb"
     ],
     "name:tpi_x_preferred":[
         "Apia"
@@ -356,6 +389,12 @@
     ],
     "name:war_x_preferred":[
         "Apia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u76ae\u4e9a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10de\u10d8\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u963f\u76ae\u4e9e"
@@ -412,7 +451,7 @@
         }
     ],
     "wof:id":890416609,
-    "wof:lastmodified":1607390883,
+    "wof:lastmodified":1690921740,
     "wof:name":"Apia",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

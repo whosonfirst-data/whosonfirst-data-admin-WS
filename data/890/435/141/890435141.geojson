@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Vaiee"
     ],
+    "name:tur_x_preferred":[
+        "Vaiee"
+    ],
     "name:und_x_variant":[
         "Vaiyee\u2019 Itai"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890435141,
-    "wof:lastmodified":1566652743,
+    "wof:lastmodified":1690921750,
     "wof:name":"Vaie\u2019e",
     "wof:parent_id":85680915,
     "wof:placetype":"locality",

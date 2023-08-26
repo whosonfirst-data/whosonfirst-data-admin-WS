@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Malua"
     ],
+    "name:fra_x_preferred":[
+        "Malua"
+    ],
     "name:nld_x_preferred":[
         "Malua"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890452823,
-    "wof:lastmodified":1566652728,
+    "wof:lastmodified":1690921730,
     "wof:name":"Malua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

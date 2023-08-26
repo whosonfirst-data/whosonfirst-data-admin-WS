@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Savaia"
     ],
+    "name:deu_x_preferred":[
+        "Savaia"
+    ],
     "name:eng_x_preferred":[
         "Savaia"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890435213,
-    "wof:lastmodified":1566652742,
+    "wof:lastmodified":1690921749,
     "wof:name":"Savaia",
     "wof:parent_id":85680917,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:nld_x_preferred":[
         "Sapapali'i"
     ],
+    "name:pol_x_preferred":[
+        "Sapapali'i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0430\u043f\u0430\u043b\u0438\u0438"
+    ],
     "qs:name":"Sapapali\u2019i",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890435283,
-    "wof:lastmodified":1566652741,
+    "wof:lastmodified":1690921748,
     "wof:name":"Sapapali\u2019i",
     "wof:parent_id":85680933,
     "wof:placetype":"locality",

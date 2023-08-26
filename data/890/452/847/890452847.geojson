@@ -22,10 +22,16 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0435\u0430\u043f\u0443\u043d\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Fale\u0101puna"
+    ],
     "name:ceb_x_preferred":[
         "Faleolo"
     ],
     "name:ceb_x_variant":[
+        "Faleapuna"
+    ],
+    "name:deu_x_preferred":[
         "Faleapuna"
     ],
     "name:ell_x_preferred":[
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890452847,
-    "wof:lastmodified":1566652728,
+    "wof:lastmodified":1690921731,
     "wof:name":"Faleapuna",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

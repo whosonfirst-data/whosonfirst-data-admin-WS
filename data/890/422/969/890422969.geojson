@@ -124,10 +124,16 @@
     "name:spa_x_preferred":[
         "Saina"
     ],
+    "name:sqi_x_preferred":[
+        "Saina"
+    ],
     "name:swe_x_preferred":[
         "Saina"
     ],
     "name:tur_x_preferred":[
+        "Saina"
+    ],
+    "name:vec_x_preferred":[
         "Saina"
     ],
     "name:zho_x_preferred":[
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890422969,
-    "wof:lastmodified":1566652726,
+    "wof:lastmodified":1690921727,
     "wof:name":"Saina",
     "wof:parent_id":85680937,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Vavau"
     ],
+    "name:deu_x_preferred":[
+        "Vavau"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03b2\u03ac\u03bf\u03c5"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890429403,
-    "wof:lastmodified":1636504673,
+    "wof:lastmodified":1690921736,
     "wof:name":"Vavau",
     "wof:parent_id":85680925,
     "wof:placetype":"locality",
