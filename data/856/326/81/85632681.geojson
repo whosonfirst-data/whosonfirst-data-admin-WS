@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240415,
-    "geom:area_square_m":2887663463.456932,
+    "geom:area_square_m":2887663463.456899,
     "geom:bbox":"-172.815219,-14.074901,-171.390994,-13.437429",
     "geom:latitude":-13.742918,
     "geom:longitude":-172.171589,
@@ -14,6 +14,9 @@
     "iso:country":"WS",
     "itu:country_code":[
         "685"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "WS"
@@ -1011,7 +1014,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"685",
     "statoids:ds":"WS",
     "statoids:fifa":"SAM",
@@ -1068,7 +1072,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"1c93b5b771028854e14ee47dfe6f6ca9",
+    "wof:geomhash":"4e477c01a93f95e6389a1506dcbd72e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1084,12 +1088,12 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921721,
+    "wof:lastmodified":1694492108,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":190372,
-    "wof:population_rank":9,
+    "wof:population":197097,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ws",
     "wof:shortcode":"WS",
     "wof:superseded_by":[],
