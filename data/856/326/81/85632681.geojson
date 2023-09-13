@@ -1015,7 +1015,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"685",
     "statoids:ds":"WS",
     "statoids:fifa":"SAM",
@@ -1088,7 +1088,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1694492108,
+    "wof:lastmodified":1694639561,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
