@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01197,
-    "geom:area_square_m":143821927.952473,
+    "geom:area_square_m":143823566.811905,
     "geom:bbox":"-172.703481,-13.783994,-172.31843,-13.584584",
     "geom:latitude":-13.669331,
     "geom:longitude":-172.499494,
@@ -277,14 +277,16 @@
         "gn:id":4035046,
         "gp:id":20070342,
         "hasc:id":"WS.SA",
+        "iso:code":"WS-SA",
         "iso:id":"WS-SA",
         "qs_pg:id":49501,
         "unlc:id":"WS-SA",
         "wd:id":"Q651573",
         "wk:page":"Satupa'itea"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"90c9bb560c5974e7a4422d2a78a9844a",
+    "wof:geomhash":"dba1a05415159205a2e2614e1fe007ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -301,7 +303,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921720,
+    "wof:lastmodified":1695884956,
     "wof:name":"Satupa'itea",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022379,
-    "geom:area_square_m":268522022.856639,
+    "geom:area_square_m":268522535.334263,
     "geom:bbox":"-171.665552,-14.05283,-171.437693,-13.87127",
     "geom:latitude":-13.982611,
     "geom:longitude":-171.574934,
@@ -265,14 +265,16 @@
         "gn:id":4035402,
         "gp:id":20070345,
         "hasc:id":"WS.AT",
+        "iso:code":"WS-AT",
         "iso:id":"WS-AT",
         "qs_pg:id":49502,
         "unlc:id":"WS-AT",
         "wd:id":"Q1154332",
         "wk:page":"Atua (district)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"0f07a137f6d9221ebbf6999a1ca7c71d",
+    "wof:geomhash":"bd67e3e45fe05fa5d521e0a7a56b3735",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -289,7 +291,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921720,
+    "wof:lastmodified":1695884956,
     "wof:name":"Atua",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

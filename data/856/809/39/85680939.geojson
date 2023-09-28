@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034395,
-    "geom:area_square_m":413443720.051483,
+    "geom:area_square_m":413442130.688232,
     "geom:bbox":"-172.638987,-13.636866,-172.36616,-13.462823",
     "geom:latitude":-13.556489,
     "geom:longitude":-172.50269,
@@ -284,14 +284,16 @@
         "gn:id":4035313,
         "gp:id":20070337,
         "hasc:id":"WS.GI",
+        "iso:code":"WS-GI",
         "iso:id":"WS-GI",
         "qs_pg:id":236960,
         "unlc:id":"WS-GI",
         "wd:id":"Q1193134",
         "wk:page":"Gaga'ifomauga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"cde11c6353411c643ee27f0ab63ec8fd",
+    "wof:geomhash":"1dabf1c79758cc584886da3019151f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -308,7 +310,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921719,
+    "wof:lastmodified":1695884956,
     "wof:name":"Gaga'ifomauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
