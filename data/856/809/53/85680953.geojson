@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043023,
-    "geom:area_square_m":516818709.940804,
+    "geom:area_square_m":516816732.856309,
     "geom:bbox":"-172.608957,-13.805352,-172.212961,-13.632646",
     "geom:latitude":-13.717782,
     "geom:longitude":-172.440782,
@@ -281,14 +281,16 @@
         "gn:id":4035154,
         "gp:id":20070343,
         "hasc:id":"WS.PA",
+        "iso:code":"WS-PA",
         "iso:id":"WS-PA",
         "qs_pg:id":894097,
         "unlc:id":"WS-PA",
         "wd:id":"Q1147216",
         "wk:page":"Palauli"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"441cb6b025dc442391ea659b7b2bcb2e",
+    "wof:geomhash":"5ba6891775d98f7391a439b4e2bbac73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -305,7 +307,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921718,
+    "wof:lastmodified":1695884956,
     "wof:name":"Palauli",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

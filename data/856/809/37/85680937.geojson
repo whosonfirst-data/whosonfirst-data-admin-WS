@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021248,
-    "geom:area_square_m":255376145.230711,
+    "geom:area_square_m":255376399.75395,
     "geom:bbox":"-172.414185,-14.004691,-171.791431,-13.462823",
     "geom:latitude":-13.596293,
     "geom:longitude":-172.274554,
@@ -277,14 +277,16 @@
         "gn:id":4035314,
         "gp:id":20070344,
         "hasc:id":"WS.GE",
+        "iso:code":"WS-GE",
         "iso:id":"WS-GE",
         "qs_pg:id":1287674,
         "unlc:id":"WS-GE",
         "wd:id":"Q1193143",
         "wk:page":"Gaga'emauga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"7431502ee3c9832493a065875cfcac08",
+    "wof:geomhash":"061f57f0d906cc3cf2338e16e33613b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -301,7 +303,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921719,
+    "wof:lastmodified":1695884956,
     "wof:name":"Gaga'emauga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

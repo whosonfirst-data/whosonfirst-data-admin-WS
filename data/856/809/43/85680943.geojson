@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010016,
-    "geom:area_square_m":120400301.091732,
+    "geom:area_square_m":120400577.127863,
     "geom:bbox":"-172.782582,-13.616632,-172.631809,-13.510512",
     "geom:latitude":-13.555587,
     "geom:longitude":-172.703373,
@@ -278,14 +278,16 @@
         "gn:id":4034910,
         "gp:id":20070336,
         "hasc:id":"WS.VS",
+        "iso:code":"WS-VS",
         "iso:id":"WS-VS",
         "qs_pg:id":49499,
         "unlc:id":"WS-VS",
         "wd:id":"Q1193139",
         "wk:page":"Vaisigano"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"b04ad5a60f1c940b90851c498cc8b6a4",
+    "wof:geomhash":"0f42ee8e1362f22453c0085cf26374af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -302,7 +304,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921717,
+    "wof:lastmodified":1695884956,
     "wof:name":"Vaisigano",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

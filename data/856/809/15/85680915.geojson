@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037151,
-    "geom:area_square_m":445861091.959137,
+    "geom:area_square_m":445861063.185933,
     "geom:bbox":"-171.857894,-14.051853,-171.650217,-13.806346",
     "geom:latitude":-13.93413,
     "geom:longitude":-171.755145,
@@ -275,14 +275,16 @@
         "gn:id":4034977,
         "gp:id":20070339,
         "hasc:id":"WS.TU",
+        "iso:code":"WS-TU",
         "iso:id":"WS-TU",
         "qs_pg:id":236961,
         "unlc:id":"WS-TU",
         "wd:id":"Q1144482",
         "wk:page":"Tuamasaga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"945d349ac877af38bf1f0f8501c6e7d6",
+    "wof:geomhash":"ecee6818c4e4949eafbce7160e768a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -299,7 +301,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921720,
+    "wof:lastmodified":1695884956,
     "wof:name":"Tuamasaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

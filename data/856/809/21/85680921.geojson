@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00412,
-    "geom:area_square_m":49461729.950569,
+    "geom:area_square_m":49461870.60598,
     "geom:bbox":"-172.063669,-13.915216,-171.972239,-13.82821",
     "geom:latitude":-13.873862,
     "geom:longitude":-172.019047,
@@ -281,14 +281,16 @@
         "gn:id":4035425,
         "gp:id":20070341,
         "hasc:id":"WS.AL",
+        "iso:code":"WS-AL",
         "iso:id":"WS-AL",
         "qs_pg:id":49500,
         "unlc:id":"WS-AL",
         "wd:id":"Q1144488",
         "wk:page":"Aiga-i-le-Tai"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"dc6f1eaf3cf7ee881ceca990318b5d7a",
+    "wof:geomhash":"d32ab1da5c9ee7444557533c7db6957a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -305,7 +307,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921717,
+    "wof:lastmodified":1695884956,
     "wof:name":"Aiga-i-le-Tai",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

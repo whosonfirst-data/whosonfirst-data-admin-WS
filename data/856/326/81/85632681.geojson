@@ -1052,6 +1052,7 @@
         "gp:id":23424992,
         "hasc:id":"WS",
         "ioc:id":"SAM",
+        "iso:code":"WS",
         "itu:id":"SMO",
         "m49:code":"882",
         "marc:id":"ws",
@@ -1065,6 +1066,7 @@
         "wk:page":"Samoa",
         "wmo:id":"ZM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
     "wof:country_alpha3":"WSM",
     "wof:geom_alt":[
@@ -1088,7 +1090,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1694639561,
+    "wof:lastmodified":1695881220,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

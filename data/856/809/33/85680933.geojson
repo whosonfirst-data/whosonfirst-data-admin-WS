@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019333,
-    "geom:area_square_m":232296440.363888,
+    "geom:area_square_m":232296267.739058,
     "geom:bbox":"-172.310967,-13.800958,-172.175649,-13.558364",
     "geom:latitude":-13.657486,
     "geom:longitude":-172.243546,
@@ -275,14 +275,16 @@
         "gn:id":4035383,
         "gp:id":20070338,
         "hasc:id":"WS.FA",
+        "iso:code":"WS-FA",
         "iso:id":"WS-FA",
         "qs_pg:id":1287673,
         "unlc:id":"WS-FA",
         "wd:id":"Q1154134",
         "wk:page":"Fa'asaleleaga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"0e7efda9a8184e17b5a4c52e88561d47",
+    "wof:geomhash":"d02cf755b74611922507fb1cbc86dcef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -299,7 +301,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921716,
+    "wof:lastmodified":1695884956,
     "wof:name":"Fa'asaleleaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

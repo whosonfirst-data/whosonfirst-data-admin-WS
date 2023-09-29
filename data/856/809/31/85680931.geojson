@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004294,
-    "geom:area_square_m":51529691.955572,
+    "geom:area_square_m":51529922.841957,
     "geom:bbox":"-171.599179,-13.991974,-171.46935,-13.883884",
     "geom:latitude":-13.956416,
     "geom:longitude":-171.541885,
@@ -272,14 +272,16 @@
         "gn:id":4034943,
         "gp:id":20070346,
         "hasc:id":"WS.VF",
+        "iso:code":"WS-VF",
         "iso:id":"WS-VF",
         "qs_pg:id":349026,
         "unlc:id":"WS-VF",
         "wd:id":"Q1154109",
         "wk:page":"Va'a-o-Fonoti"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"84f931fbb0fa00bed7d6ccc9852a53fc",
+    "wof:geomhash":"cdc0ebd603dde69874e1d346054d2e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -296,7 +298,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921718,
+    "wof:lastmodified":1695884956,
     "wof:name":"Va'a-o-Fonoti",
     "wof:parent_id":85632681,
     "wof:placetype":"region",

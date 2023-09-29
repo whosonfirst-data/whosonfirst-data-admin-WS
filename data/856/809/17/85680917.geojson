@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024448,
-    "geom:area_square_m":293456436.003826,
+    "geom:area_square_m":293456519.372334,
     "geom:bbox":"-172.055613,-14.007013,-171.844071,-13.805352",
     "geom:latitude":-13.898654,
     "geom:longitude":-171.924271,
@@ -278,13 +278,15 @@
         "gn:id":4035434,
         "gp:id":20070340,
         "hasc:id":"WS.AA",
+        "iso:code":"WS-AA",
         "iso:id":"WS-AA",
         "qs_pg:id":890130,
         "unlc:id":"WS-AA",
         "wd:id":"Q1154121"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"WS",
-    "wof:geomhash":"4328ca77300c0496e4af900865affb93",
+    "wof:geomhash":"02dfc81b1458c23d28af14fb8e10bbc7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -301,7 +303,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1690921717,
+    "wof:lastmodified":1695884956,
     "wof:name":"A'ana",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
