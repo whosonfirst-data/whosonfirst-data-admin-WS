@@ -9,9 +9,21 @@
     "geom:bbox":"-171.43534,-14.03888,-171.43534,-14.03888",
     "geom:latitude":-14.03888,
     "geom:longitude":-171.43534,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vailoa",
     "gn:country":"WS",
+    "gn:country_code":"WS",
+    "gn:dem":6,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4034921,
+    "gn:latitude":-14.03888,
+    "gn:longitude":-171.43534,
+    "gn:modification_date":"2006-01-17",
+    "gn:name":"Vailoa",
     "gn:population":336,
+    "gn:timezone":"Pacific/Apia",
     "iso:country":"WS",
     "lbl:bbox":"-171.45534,-14.05888,-171.41534,-14.01888",
     "lbl:max_zoom":17.0,
@@ -62,7 +74,12 @@
         "wk:page":"Vailoa"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":586057
+        "gn:id":[
+            4034921
+        ],
+        "qs_pg:id":[
+            586057
+        ]
     },
     "wof:country":"WS",
     "wof:created":1469052056,
@@ -79,7 +96,7 @@
         }
     ],
     "wof:id":890435137,
-    "wof:lastmodified":1582379110,
+    "wof:lastmodified":1706241113,
     "wof:name":"Vailoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -87,7 +104,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ws",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343377105
+    ],
     "wof:tags":[]
 },
   "bbox": [
